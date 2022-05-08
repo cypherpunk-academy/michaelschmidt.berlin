@@ -1,6 +1,5 @@
 baseURL = 'https://lafisrap.github.io/'
 title = "Notre-Dame de Paris"
-baseURL = "https://gohugo-theme-ananke.pages.dev"
 languageCode = "en-us"
 theme = "ananke"
 resourceDir = "../resources"
