@@ -1,4 +1,4 @@
 baseURL = 'https://lafisrap.github.io/'
 languageCode = 'en-us'
-title = 'Hugo Website starter'
+title = 'Hugo Website starter-'
 theme = "ananke"
