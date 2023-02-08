@@ -13,6 +13,22 @@ the side of a fox. His felt doublet and leather jerkin made a spot on the
 velvet and silk which surrounded him. Presuming that he was some groom who
 had stolen in, the usher stopped him.
 
+| col1 | col2 |
+:-: | -----------:
+bar | baz
+
+```goat
+      .               .                .               .--- 1          .-- 1     / 1
+     / \              |                |           .---+            .-+         +
+    /   \         .---+---.         .--+--.        |   '--- 2      |   '-- 2   / \ 2
+   +     +        |       |        |       |    ---+            ---+          +
+  / \   / \     .-+-.   .-+-.     .+.     .+.      |   .--- 3      |   .-- 3   \ / 3
+ /   \ /   \    |   |   |   |    |   |   |   |     '---+            '-+         +
+ 1   2 3   4    1   2   3   4    1   2   3   4         '--- 4          '-- 4     \ 4
+
+```
+
+
 “Hold, my friend, you cannot pass!”
 
 The man in the leather jerkin shouldered him aside.
