@@ -1,15 +1,20 @@
 ---
-title: Contact
-featured_image: ''
+title: Kontakt
+featured_image: '/images/playroom-hammock-lamps.jpg'
 omit_header_text: true
-description: Laissez-nous un message!
+description: Eine Frage, eine Anregung oder eine Idee?
 type: page
 menu: main
 
 ---
 
-Ceci est la page de contact en Français.
+kontakt@epikur.berlin  
++49 163 7951207 (SMS, Signal, Whatsapp)
 
-This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the the shortcode to make it work. Check out [Formspree](https://formspree.io/) for a simple, free form service.
+Oder zu den Künstlern, die mit dem Garten des Epikur verbunden sind:
 
-{{< form-contact action="https://example.com"  >}}
+[Iris](https://google.com) (Kommunikation)  
+[Filip](https://google.com) (Klang)  
+[Esamael](https://google.com)  (Zuhören und da sein)  
+
+![Spielzimmer](/images/playroom-hammock-lamps.jpg)

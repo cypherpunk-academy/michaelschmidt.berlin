@@ -1,5 +1,5 @@
 ---
-title: "Articles"
-date: 2017-03-02T12:00:00-05:00
+title: "Texte"
+date: 2023-02-08
 ---
-Exemple de liste d'article français.
+Einige Texte aus dem Garten des Epikur.

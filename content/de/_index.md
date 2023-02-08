@@ -1,8 +1,12 @@
 ---
-title: "Ananke: Un thème pour Hugo"
+title: "Der Garten des Epikur"
 
-description: "Le dernier thème dont vous aurez besoin. Peut-être"
+description: "Kind sein und gleichzeitig erwachsen"
 cascade:
   featured_image: '/images/hammock-child-window.jpg'
 ---
-Bienvenu sur mon blog à propos de mon travail du moment. Je travail sur une idée de livre. Vous pouvez lire quelques chapitres plus bas.
+Du willst andere **Ansichten kennen lernen**, ohne in einem Krieg zu landen?
+
+Du willst **du selbst sein**, dabei **ausatmen** und gleichzeitig mit anderen zusammen sein?
+
+Du willst das **auch dann**, wenn es gar nicht möglich ist?
