@@ -1,5 +1,5 @@
 # default config
-baseurl = "https://demo.gethugothemes.com/parsa/site/"
+baseurl = "https://lafisrap.github.io/"
 languageCode = "en-us"
 title = "Parsa Hugo | Personal Blog Template"
 theme = "parsa-hugo"
