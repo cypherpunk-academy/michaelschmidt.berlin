@@ -19,7 +19,7 @@
   $('.featured-post-slider').slick({
     dots: false,
     speed: 300,
-    autoplay: true,
+    autoplay: false,
     arrows: false,
     slidesToShow: 4,
     slidesToScroll: 1,
@@ -93,7 +93,7 @@
         }
       ]
     });
-  }, 1500);
+  }, 15000);
 
   // article reading time
   $('article').each(function () {

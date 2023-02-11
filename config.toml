@@ -1,7 +1,7 @@
 # default config
 baseurl = "https://lafisrap.github.io/"
-languageCode = "en-us"
-title = "Parsa Hugo | Personal Blog Template"
+languageCode = "de-DE"
+title = "Der Garten des Epikur | Spielplatz für Kinder und Erwachsene"
 theme = "parsa-hugo"
 summaryLength = "10"
 paginate = 6
@@ -49,28 +49,38 @@ link = "plugins/search/search.js"
 
 # navigation
 [[menu.main]]
-name = "Homepage"
+name = "Startseite"
 url = ""
 weight = 1
 hasChildren = true
 
 [[menu.main]]
-parent = "Homepage"
-name = "Homepage 1"
-url = "homepage/home-1/"
+parent = "Startseite"
+name = "Das Spielzimmer"
+url = "homepage/playroom/"
 
 [[menu.main]]
-parent = "Homepage"
-name = "Homepage 2"
-url = "homepage/home-2/"
+parent = "Startseite"
+name = "Iris"
+url = "homepage/iris/"
 
 [[menu.main]]
-name = "About"
+parent = "Startseite"
+name = "Filip"
+url = "homepage/filip/"
+
+[[menu.main]]
+parent = "Startseite"
+name = "Esamael"
+url = "homepage/esamael/"
+
+[[menu.main]]
+name = "Über uns"
 url = "about/"
 weight = 2
 
 [[menu.main]]
-name = "Contact"
+name = "Kontakt"
 url = "contact/"
 weight = 3
 
