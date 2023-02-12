@@ -84,7 +84,7 @@ name = "Kontakt"
 url = "contact/"
 weight = 3
 
-# deult parameter
+# devault parameter
 [params]
 logo = "images/logo.png"
 home = "Home"
