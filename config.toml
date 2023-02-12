@@ -5,6 +5,8 @@ title = "Der Garten des Epikur | Spielplatz für Kinder und Erwachsene"
 theme = "parsa-hugo"
 summaryLength = "10"
 paginate = 6
+defaultContentLanguage = "en"
+
 # google analytics
 googleAnalytics = "" # example : UA-123-45
 
@@ -47,40 +49,125 @@ link = "plugins/search/mark.js"
 [[params.plugins.js]]
 link = "plugins/search/search.js"
 
+[languages]
+  [languages.de]
+    contentDir = "content/de"
+    title = 'Der Garten des Epikur | Spielplatz für Kinder und Erwachsene'
+    languageName = "Deutsch"
+    languageNameShort = "de"
+    languageFlag = "🇩🇪"
+    weight = 1
+    [languages.de.params]
+      home = "🏠"
+      readmore = "weiter"
+    [[languages.de.menu.main]]
+      name = '🏠'
+      url = 'de'
+    [[languages.de.menu.main]]
+      parent = "🏠"
+      name = "Das Spielzimmer"
+      url = "de/homepage/playroom/"
+      weight = 1
+
+    [[languages.de.menu.main]]
+      parent = "🏠"
+      name = "Iris"
+      url = "de/homepage/iris/"
+      weight = 1
+
+    [[languages.de.menu.main]]
+      parent = "🏠"
+      name = "Filip"
+      url = "de/homepage/filip/"
+      weight = 2
+
+    [[languages.de.menu.main]]
+      parent = "🏠"
+      name = "Esamael"
+      url = "de/homepage/esamael/"
+      weight = 3
+
+  [languages.en]
+    contentDir = "content/en"
+    title = 'The Garden of Epicurus | Playground for children and adults'
+    languageName = "English"
+    languageNameShort = "en"
+    languageFlag = "🇬🇧"
+    weight = 2
+    [[languages.en.menu.main]]
+      name = 'Home'
+  [languages.se]
+    contentDir = "content/se"
+    title = 'Epikurus trädgård | Lekplats för barn och vuxna'
+    languageName = "Svenska"
+    languageNameShort = "se"
+    languageFlag = "🇸🇪"
+    weight = 3
+    
+    [languages.se.params]
+      home = "🏠"
+      readmore = "läs mer"
+    [[languages.se.menu.main]]
+      name = '🏠'
+      url = 'se'
+    [[languages.se.menu.main]]
+      parent = "🏠"
+      name = "Das Spielzimmer"
+      url = "se/homepage/playroom/"
+      weight = 1
+
+    [[languages.se.menu.main]]
+      parent = "🏠"
+      name = "Iris"
+      url = "se/homepage/iris/"
+      weight = 1
+
+    [[languages.se.menu.main]]
+      parent = "🏠"
+      name = "Filip"
+      url = "se/homepage/filip/"
+      weight = 2
+
+    [[languages.se.menu.main]]
+      parent = "🏠"
+      name = "Esamael"
+      url = "se/homepage/esamael/"
+      weight = 3
+
 # navigation
 [[menu.main]]
-name = "Startseite"
+name = "Home"
 url = ""
 weight = 1
 hasChildren = true
 
 [[menu.main]]
-parent = "Startseite"
+parent = "Home"
 name = "Das Spielzimmer"
 url = "homepage/playroom/"
 
 [[menu.main]]
-parent = "Startseite"
+parent = "Home"
 name = "Iris"
 url = "homepage/iris/"
 
 [[menu.main]]
-parent = "Startseite"
+parent = "Home"
 name = "Filip"
 url = "homepage/filip/"
 
 [[menu.main]]
-parent = "Startseite"
+parent = "Home"
 name = "Esamael"
 url = "homepage/esamael/"
 
 [[menu.main]]
-name = "Über uns"
+name = "About"
 url = "about/"
 weight = 2
 
 [[menu.main]]
-name = "Kontakt"
+name = "Contact"
 url = "contact/"
 weight = 3
 
@@ -97,9 +184,9 @@ preloader = true
 # search
 search = true
 # about author
-author = "John Doe"
+author = "Michael Schmidt"
 author_image = "images/banner-img.png"
-bio = "I’m a Freelance Interactive Art Director based in France. Focusing across branding and identity, digital and print."
+bio = "..."
 # Contact info
 mobile = "+90 000 333 22"
 email = "exmaple@ymail.com"
@@ -108,6 +195,10 @@ address = "6 rip carl Avenue CA 90733"
 contact_form_action = "#"
 # copyright
 copyright = "Copyright &copy; 2023 a theme by [themefisher.com](https://themefisher.com)"
+# ui definitions
+readmore = "read more"
+
+
 
 # Instagram feed
 [params.instafeed]
