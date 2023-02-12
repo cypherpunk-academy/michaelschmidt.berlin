@@ -1,14 +1,14 @@
 ---
-title: "Ein Spielzimmer: Primärarbeit, Klang, ursprüngliches Spiel"
-date: 2023-02-09
+title: "Esamael: Lyssna, tillit"
+date: 2023-02-10
 description: "This is meta description"
 type: "featured"
-image: "images/featured-post/playroom-table-evening.jpg"
+image: "images/featured-post/sunset-boat-berlin.jpg"
 categories: 
-  - "Begegnungen in der vierten Dimension"
+  - "Att vara där, att vara öppen"
 tags:
-  - "Photos"
-  - "Article"
+  - "Lyssna"
+  - "Avlastning"
 ---
 
 

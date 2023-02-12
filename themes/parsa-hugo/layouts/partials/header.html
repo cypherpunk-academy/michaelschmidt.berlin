@@ -35,6 +35,21 @@
         <button class="search-icon" type="submit"><i class="ti-search text-dark"></i></button>
       </form>
       {{ end }}
+      <div class="flagcontainer">
+      {{ $siteLanguages := site.Languages}}
+      {{ $pageLang := .Page.Lang}}
+      {{- range .Page.AllTranslations }}
+          {{ $translation := . }}
+          {{- range sort $siteLanguages "Weight" "asc" }}
+              {{- if eq $translation.Lang .Lang }}
+                  {{ if eq $pageLang .Lang}}
+                  {{ else }}
+                      <a class="flagnoselect" href="{{ $translation.Permalink | relURL }}">{{ .Params.languageFlag }}</a>
+                  {{ end }}
+              {{- end }}
+          {{- end }}
+      {{- end }}
+      </div>
     </div>
   </nav>
 </header>
