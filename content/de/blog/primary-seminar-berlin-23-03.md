@@ -13,20 +13,22 @@ tags:
   - "Primärarbeit"
 ---
 
-WILLKOMMEN zu einem WOCHENDENDE mit PRIMÄRARBEIT, URSPRÜNGLICHEM SPIEL
+##### WILLKOMMEN zu einem WOCHENDENDE mit PRIMÄRARBEIT, URSPRÜNGLICHEM SPIEL
 und 2 KLANGABENDEN.
 
 Dies ist eine physische Veranstaltung in der Turinerstr 21, 13347 Berlin. Deutschland. Wir haben in unserer Wohnung in Berlin ein Spielzimmer eingerichtet und wollen Menschen für ein langes Wochenende einladen, wo wir uns treffen können, um zu erforschen, was in uns vorgeht in der Begegnung mit anderen.
 
-Es gibt Platz für 8 Personen in diesem Raum, und wir haben auch ein weiteres Zimmer mit Platz für einige Leute zu schlafen.
-Wir haben einen großen Bildschirm für die Zoom-Meetings und eine gute Surround-Sound-Anlage für die Sound-Abende und es gibt auch Platz zum Spielen.
+Es gibt Platz für 8 Menschen in diesem Raum, und wir haben auch ein weiteres Zimmer mit Platz zum Schlafen für einige Leute.
+Wir haben einen großen Bildschirm für die Zoom-Meetings und eine gute Surround-Sound-Anlage für die Klangabende und es gibt auch Platz zum Spielen.
 
 Zu den verschiedenen Themen des Wochenendes:
 
-PRIMARYPLAY und SHARING mit Benedicte und Michael:
+###### Ursprüngliches Spielen und Austausch darüber mit Benedicte und Michael:
 
-Die Spiel-Sessions finden in einem sicheren Raum mit weichen Matten, Matratzen und Kissen statt. Es wird einige Regeln geben, die zu Beginn der Sitzung erklärt werden. Dazu gehört, dass man sich während des Spielens nicht mit Worten verständigen darf und dass man während des Spielens nicht höher als bis zu den Knien gehen darf. Es wird auch eine oder zwei Matratzen geben, die ein freier Raum sind, wo jeder hingehen kann, wenn er eine Pause braucht oder nicht bespielt werden möchte. Die Sitzungen werden innerhalb eines Zeitlimits stattfinden.
-Danach wird es eine kurze Austauschrunde geben. Hier können die Leute etwas darüber sagen, wie das Spiel für sie war, wenn sie wollen. Es ist auch möglich, mit Iris in der Primarywork am Nachmittag weiter zu arbeiten.
+Die Spiel-Runden finden in einem sicheren Raum mit weichen Matten, Matratzen und Kissen statt.
+Es wird einige Regeln geben, die zu Beginn der ersten Runde erklärt werden. Dazu gehört, dass man sich während des Spielens nicht sprechen darf und nicht höher als bis zu den Knien gehen darf. Es wird auch eine oder zwei Matratzen geben, die ein freier Raum sind, wo jeder hingehen kann, wenn er eine Pause braucht, in der er nicht spielt und in der mit ihm nicht gespielt wird. Die Runden sind zeitlich begrenzt.
+Nach jeder Runde wird es einen kurze Austausch geben. Hier kann jeder etwas darüber sagen, wie das Spiel für ihn oder sie war, wenn er oder sie will. Es ist auch möglich, mit Iris in der Primärarbeit am Nachmittag weiter zu arbeiten.
+
 Es ist schwierig, das Spiel zu beschreiben, ohne feste Bilder davon zu schaffen. Aber ich werde es versuchen, auch auf die Gefahr hin, dass es mir nicht gelingt.
 Denn Spielen ist immer etwas, das man frei tut. Man kann niemanden oder sich selbst zum Spielen zwingen.
 Für mich geht es beim Primärspiel darum, den Lebensfluss in mir zu finden, Impulse und das, was mich in diesem Moment, in diesem Raum, in der Begegnung mit anderen und mir selbst bewegt. Was mich bewegt und was mich aufhält.
