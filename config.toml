@@ -56,6 +56,11 @@ link = "plugins/search/search.js"
     languageName = "Deutsch"
     languageNameShort = "de"
     languageFlag = "🇩🇪"
+    addressLabel = "Adresse"
+    contactLabel = "Kontaktinfo"
+    postBy = "Beitrag von"
+    searchLabel = "Suche"
+
     weight = 1
     [languages.de.params]
       home = "🏠"
@@ -102,6 +107,10 @@ link = "plugins/search/search.js"
     languageName = "Svenska"
     languageNameShort = "se"
     languageFlag = "🇸🇪"
+    addressLabel = "Adress"
+    contactLabel = "Kontaktuppgifter"
+    postBy = "Post av"
+    searchLabel = "Sök på"
     weight = 3
     
     [languages.se.params]
@@ -175,28 +184,23 @@ weight = 3
 [params]
 logo = "images/logo.png"
 home = "Home"
-# theme layout ( two layout is available, "1" and "2" )
 layout = "1"
-# Meta data
 description = "This is meta description"
-# Preloader
 preloader = true
-# search
 search = true
-# about author
 author = "Michael Schmidt"
 author_image = "images/banner-img.png"
 bio = "..."
-# Contact info
-mobile = "+90 000 333 22"
-email = "exmaple@ymail.com"
-address = "6 rip carl Avenue CA 90733"
-# Contact Form Action
+mobile = "+49 163 ... ... ..."
+email = "michael@epikur.berlin"
+addressLabel = "Address"
+address = "Turiner Straße 21, 13347 Berlin"
+contactLabel = "Contact Info"
 contact_form_action = "#"
-# copyright
 copyright = "Copyright &copy; 2023 a theme by [themefisher.com](https://themefisher.com)"
-# ui definitions
 readmore = "read more"
+postBy = "Post by"
+searchLabel = "Search"
 
 
 

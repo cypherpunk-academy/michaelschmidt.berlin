@@ -2,7 +2,7 @@
   <div class="widget search-box">
     <form action="{{ site.BaseURL }}/search">
       <i class="ti-search"></i>
-      <input class="form-control border-0 pl-5" type="search" placeholder="Search" id="search-query" name="s">
+      <input class="form-control border-0 pl-5" type="search" placeholder="{{site.Params.searchLabel}}" id="search-query" name="s">
     </form>
   </div>
   <div class="widget">
@@ -14,7 +14,7 @@
       </div>
       <div class="media-body">
         <ul class="list-inline d-flex justify-content-between mb-2">
-          <li class="list-inline-item">Post By {{site.Params.author}}</li>
+          <li class="list-inline-item">{{site.Params.postBy}} {{site.Params.author}}</li>
           <li class="list-inline-item">{{ .PublishDate.Format "Jan 02, 2006" }}</li>
         </ul>
         <h6><a class="text-dark" href="{{ .Permalink }}">{{.Title}}</a></h6>

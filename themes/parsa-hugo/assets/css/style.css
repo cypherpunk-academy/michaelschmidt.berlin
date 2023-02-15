@@ -8,11 +8,12 @@ VERSION:	Versoin Number
 [TABLE OF CONTENTS]
 -------------------------------------------------------------------*/
 /*  typography */
-@import url("https://fonts.googleapis.com/css2?family=Archivo:wght@400;600&family=Open+Sans:wght@400;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@400;600&family=Open+Sans:wght@400;600&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap');
 
 body {
   line-height: 1.5;
-  font-family: "Open Sans", sans-serif;
+  font-family: "Quicksand", "Open Sans", sans-serif;
   -webkit-font-smoothing: antialiased;
   font-size: 15px;
   color: #585757;
@@ -33,7 +34,7 @@ h4,
 h5,
 h6 {
   color: #000000;
-  font-family: "Archivo", serif;
+  font-family: "Quicksand", serif;
   font-weight: 600;
   line-height: 1.2;
 }
@@ -358,7 +359,7 @@ a.text-dark:hover {
 }
 
 .font-secondary {
-  font-family: "Archivo", serif !important;
+  font-family: "Quicksand", serif !important;
 }
 
 .mb-10 {
@@ -592,7 +593,7 @@ textarea.form-control {
 }
 
 .pagination .page-item .page-link {
-  font-family: "Archivo", serif;
+  font-family: "Quicksand", serif;
   font-size: 30px;
   border: 0;
   color: #585757;

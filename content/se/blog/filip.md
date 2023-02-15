@@ -8,7 +8,7 @@ categories:
   - "Beröring genom ljud"
 tags:
   - "Ljud"
-  - "Klangliege"
+  - "Ljudstol"
 ---
 
 

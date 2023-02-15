@@ -1,8 +1,9 @@
 ---
 title: "Filip"
+subtitle: "Wie das Leben klingt und wie es nicht klingt"
 layout: "2"
 description: "Fillip Wall"
-image: "images/featured-post/sunset-boat-berlin.jpg"
+image: "images/filip/hands-sound-table.jpg"
 categories: 
   - "Da sein, offen sein"
 tags:
@@ -10,4 +11,4 @@ tags:
   - "Entladen"
 
 ---
-
+TEST
