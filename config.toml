@@ -6,6 +6,7 @@ theme = "parsa-hugo"
 summaryLength = "10"
 paginate = 6
 defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = "true"
 
 # google analytics
 googleAnalytics = "" # example : UA-123-45

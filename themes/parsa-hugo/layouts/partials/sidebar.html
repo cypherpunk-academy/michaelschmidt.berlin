@@ -1,6 +1,6 @@
 <div class="col-lg-4">
   <div class="widget search-box">
-    <form action="{{ site.BaseURL }}/search">
+    <form action="{{ site.BaseURL }}/{{.Page.Lang}}/search">
       <i class="ti-search"></i>
       <input class="form-control border-0 pl-5" type="search" placeholder="{{site.Params.searchLabel}}" id="search-query" name="s">
     </form>

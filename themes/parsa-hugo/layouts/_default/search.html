@@ -37,7 +37,7 @@
 
 {{ "<!-- Search index -->" | safeHTML }}
 <script>
-  var indexURL = {{"index.json" | absURL}}
+  var indexURL = {{printf "%s/index.json" .Page.Lang | absURL}}
 </script>
 
 {{ end }}

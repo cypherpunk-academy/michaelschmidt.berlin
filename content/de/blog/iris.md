@@ -1,7 +1,17 @@
 ---
 title: "Iris: Primärarbeit und primäre Gedankenarbeit"
 date: 2023-02-12
-description: "This is meta description"
+description: "
+**This** is an introduction field ... dqüeoritqjüoigjüoi
+-  sdsd
+  sd
+
+  sd
+  
+  sd
+  
+  sd
+"
 type: "featured"
 image: "images/featured-post/rock-people-sky.jpg"
 categories: 
@@ -10,6 +20,7 @@ tags:
   - "Iris"
   - "Kommunikation als Kunst"
   - "Primärarbeit"
+introduction: 
 ---
 
 
