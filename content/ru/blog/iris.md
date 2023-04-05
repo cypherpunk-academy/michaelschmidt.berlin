@@ -1,16 +1,20 @@
 ---
-title: "Ein Spielzimmer: Primärarbeit, Klang, ursprüngliches Spiel"
-date: 2023-02-09
-description: This is meta description
+title: "Ирис: Primärarbeit und primäre Gedankenarbeit"
+date: 2023-02-12
+description: |
+  **Это** вводное поле ... dqüeoritqjüoigjüoi sdsd sdsd sd
+  sd
+  sd
+  sd
 type: featured
-image: images/featured-post/playroom-table-evening.jpg
+image: images/featured-post/rock-people-sky.jpg
 categories:
-  - Begegnungen in der vierten Dimension
+  - Коммуникация как искусство
 tags:
-  - Begegnung
+  - Ирис
+  - Коммуникация как искусство
   - Primärarbeit
-  - Klang
-  - Ursprüngliches Spiel
+introduction: null
 translation: auto
 
 ---

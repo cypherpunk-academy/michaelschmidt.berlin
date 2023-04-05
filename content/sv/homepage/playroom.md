@@ -1,7 +1,7 @@
 ---
-title: A title
+title: En titel
 date: Tue Mar 28 2023 10:06:33 GMT+0200 (Central European Summer Time)
-description: A description
+description: En beskrivning
 type: A type
 image: A relative image URL
 author: An author
@@ -13,10 +13,10 @@ tags:
   - A
   - B
   - C
-translation: original
+translation: auto
 
 ---
 ---
-title: "Homepage 1"
+titel: "Homepage 1"
 layout: "1"
 ---

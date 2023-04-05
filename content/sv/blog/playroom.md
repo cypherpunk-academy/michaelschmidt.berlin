@@ -1,16 +1,16 @@
 ---
-title: "Ein Spielzimmer: Primärarbeit, Klang, ursprüngliches Spiel"
+title: "Ett spelrum: Primärarbete, Klang, ursprüngliches Spiel"
 date: 2023-02-09
-description: This is meta description
+description: Detta är en meta-beskrivning
 type: featured
 image: images/featured-post/playroom-table-evening.jpg
 categories:
   - Begegnungen in der vierten Dimension
 tags:
   - Begegnung
-  - Primärarbeit
+  - Primärarbete
   - Klang
-  - Ursprüngliches Spiel
+  - Ursprungligt spel
 translation: auto
 
 ---
@@ -19,7 +19,7 @@ translation: auto
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
 dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
 ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
+nulla pariatur. Excepteur sint occaecat cupidatatat non proident, sunt in culpa qui officia deserunt mollit
 anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
 laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
 dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
@@ -30,7 +30,7 @@ labore et dolore magnam aliquam quaerat voluptatem.
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
 dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
 ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
+nulla pariatur. Excepteur sint occaecat cupidatatat non proident, sunt in culpa qui officia deserunt mollit
 anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
 laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
 dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
@@ -49,7 +49,7 @@ aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in volup
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
 dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
 ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
+nulla pariatur. Excepteur sint occaecat cupidatatat non proident, sunt in culpa qui officia deserunt mollit
 anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
 laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
 dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia

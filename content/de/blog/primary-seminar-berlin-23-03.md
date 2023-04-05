@@ -1,16 +1,20 @@
 ---
-title: "Primär-Wochenende, 3. - 5. März 2023, Berlin"
+title: Primär-Wochenende, 3. - 5. März 2023, Berlin
 date: 2023-02-12T08:47:11.200Z
-description: "WILLKOMMEN zu einem WOCHENENDE mit PRIMÄRARBEIT, PRIMÄREM SPIEL
-und 2 KLANGABENDE"
-type: "post"
-image: "images/masonary-post/playroom-seminar-1.jpg"
-author: "Benedicte"
-categories: 
-  - "Seminar mit Iris"
+description: WILLKOMMEN zu einem WOCHENENDE mit PRIMÄRARBEIT, PRIMÄREM SPIEL und
+  2 KLANGABENDE
+type: post
+image: images/masonary-post/playroom-seminar-1.jpg
+author: Benedicte
+categories:
+  - Seminar mit Iris
 tags:
-  - "Iris"
-  - "Primärarbeit"
+  - Iris
+  - Primärarbeit
+translation: original
+
+
+
 ---
 
 ##### WILLKOMMEN zu einem WOCHENDENDE mit PRIMÄRARBEIT, URSPRÜNGLICHEM SPIEL

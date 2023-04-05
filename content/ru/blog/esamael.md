@@ -1,16 +1,16 @@
 ---
-title: "Ett lekrum: primärarbete, ljud, original lek"
-date: 2023-02-09
-description: "This is meta description"
-type: "featured"
-image: "images/featured-post/playroom-table-evening.jpg"
-categories: 
-  - "Möten i den fjärde dimensionen"
+title: "Эсамаэль: Zuhören, Vertrauen"
+date: 2023-02-10
+description: Это мета-описание
+type: featured
+image: images/featured-post/sunset-boat-berlin.jpg
+categories:
+  - Da sein, offen sein
 tags:
-  - "Möte"
-  - "Primärt arbete"
-  - "Ljud"
-  - "Primärt lek"
+  - Zuhören
+  - Entladen
+translation: auto
+
 ---
 
 

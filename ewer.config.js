@@ -9,6 +9,10 @@ module.exports = {
         }, {
             prop: 'tags',
             translatable: true
-        }]
+        }],
+        defaultLanguageCodes: {
+            en: 'en-GB',
+            pt: 'pt-PT'
+        }
     }
 }

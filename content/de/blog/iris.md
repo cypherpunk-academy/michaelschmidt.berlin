@@ -1,26 +1,24 @@
 ---
 title: "Iris: Primärarbeit und primäre Gedankenarbeit"
 date: 2023-02-12
-description: "
-**This** is an introduction field ... dqüeoritqjüoigjüoi
--  sdsd
+description: |
+  **This** is an introduction field ... dqüeoritqjüoigjüoi sdsd sd
   sd
-
   sd
-  
   sd
-  
-  sd
-"
-type: "featured"
-image: "images/featured-post/rock-people-sky.jpg"
-categories: 
-  - "Kommunikation als Kunst"
+type: featured
+image: images/featured-post/rock-people-sky.jpg
+categories:
+  - Kommunikation als Kunst
 tags:
-  - "Iris"
-  - "Kommunikation als Kunst"
-  - "Primärarbeit"
-introduction: 
+  - Iris
+  - Kommunikation als Kunst
+  - Primärarbeit
+introduction: null
+translation: original
+
+
+
 ---
 
 

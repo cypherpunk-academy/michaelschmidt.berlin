@@ -1,11 +1,15 @@
 ---
-title: "Contact"
-description: "This is meta description"
-image: "images/playroom/michaelundbenedicte.jpg"
-layout: "contact"
----
-Strikes the upper surface of the impenetrable foliage of my trees, and but a few stray gleams steal into the inner sanctuary, I throw myself down among the tall grass by the trickling stream and, as I lie close to the earth, a thousand unknown plants are noticed by me.
+title: Contact
+description: This is meta description
+image: images/playroom/michaelundbenedicte.jpg
+layout: contact
+translation: original
 
-When I hear the buzz of the little world among the stalks, and grow familiar with the countless indescribable forms of the insects and flies, then I feel the presence of the Almighty, who formed us in his own image, and the breath of that universal love which bears and sustains.
+
+
+---
+die Oberseite des undurchdringlichen Blattwerks meiner Bäume berührt und nur ein paar verirrte Schimmer sich in das innere Heiligtum stehlen, werfe ich mich zwischen das hohe Gras am tröpfelnden Bach, und während ich mich dicht an die Erde lege, werden tausend unbekannte Pflanzen von mir wahrgenommen.
+
+Wenn ich das Summen der kleinen Welt zwischen den Halmen höre und mit den zahllosen unbeschreiblichen Formen der Insekten und Fliegen vertraut werde, dann spüre ich die Gegenwart des Allmächtigen, der uns nach seinem Ebenbild geschaffen hat, und den Atem jener universellen Liebe, die trägt und erhält.
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)

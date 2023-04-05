@@ -883,3 +883,18 @@ blockquote {
   color: #333333;
   font-size: 90%;
 }
+
+li.background-item {
+  color: #aaa;
+  font-size: 12px;
+}
+
+hr.colored-hr {
+  border-color: rgb(245, 147, 147);
+}
+
+div.epikur-topic {
+  color: rgb(175, 80, 80);
+  margin-bottom: 12px;
+  text-transform: uppercase;
+}

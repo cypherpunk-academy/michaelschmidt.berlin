@@ -8,6 +8,7 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-12">
+        <div class="epikur-topic">{{ .Params.Topic }} - - - {{ .Date | time.Format "2. January 2006" }}</div>
         <h4>{{ .Title }}</h4>
         <hr class="colored-hr" />
         <div>{{ .Description | markdownify }}</div>
@@ -23,11 +24,18 @@
     <div class="row">
       <div class="col-lg-9">
           <ul class="list-inline d-flex justify-content-between py-3">
-          <li class="list-inline-item background-item"><i class="ti-user mr-2"></i>{{.Site.Params.postBy}} {{.Site.Params.author}}</li>
-          <li class="list-inline-item background-item"><i class="ti-calendar mr-2"></i>{{ .PublishDate.Format "Jan 02, 2006" }}</li>
+          <li class="list-inline-item background-item"><i class="ti-user mr-2"></i>{{.Site.Params.postBy}} {{.Params.author}}</li>
+          <li class="list-inline-item background-item"><i class="ti-calendar mr-2"></i>{{ .Date | time.Format "2. January 2006" }}</li>
         </ul>
         <article class="content">
+          <h3>{{ .Params.title }}</h3>
           <img src="{{.Params.Image | absURL }}" width="{{.Params.ImageWidth}}" alt="post-thumb" class="img-fluid rounded float-left mr-5 mb-4">
+          {{ $filePath := printf "static/audio/epikur/%s/%s" .Site.Language.Lang .Params.audio }}
+          {{ if fileExists $filePath }}
+          <audio controls>
+            <source src="/audio/epikur/{{ .Site.Language.Lang }}/{{ .Params.audio }}" type="audio/mpeg">
+          </audio>
+          {{ end }}
           {{.Content}}
         </article>
       </div>
@@ -44,7 +52,7 @@
     <div class="row">
       <div class="col-lg-12">
         <h2 class="mb-4">{{.Title }}</h2>
-        {{with .Params.image}}<img src="{{. | absURL }}" alt="{{site.Params.author}}" class="img-fluid w-100 mb-4">{{end}}
+        {{with .Params.image}}<img src="{{. | absURL }}" alt="{{.Params.author}}" class="img-fluid w-100 mb-4">{{end}}
         <div class="content">{{ .Content }}</div>
       </div>
     </div>

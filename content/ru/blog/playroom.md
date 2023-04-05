@@ -1,15 +1,18 @@
 ---
-title: "Iris: Primärt arbete och primärt tankearbete"
-date: 2023-02-12
-description: "This is meta description"
-type: "featured"
-image: "images/featured-post/rock-people-sky.jpg"
-categories: 
-  - "Kommunikation som konst"
+title: "Ein Spielzimmer: Primärarbeit, Klang, ursprüngliches Spiel"
+date: 2023-02-09
+description: Это мета-описание
+type: featured
+image: images/featured-post/playroom-table-evening.jpg
+categories:
+  - Begegnungen in der vierten Dimension
 tags:
-  - "Iris"
-  - "Kommunikation som konst"
-  - "Primärt arbete"
+  - Begegnung
+  - Primärarbeit
+  - Кланг
+  - Ursprüngliches Spiel
+translation: auto
+
 ---
 
 

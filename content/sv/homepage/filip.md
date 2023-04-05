@@ -9,7 +9,7 @@ categories:
 tags:
   - Zuhören
   - Entladen
-translation: original
+translation: auto
 
 ---
 TEST

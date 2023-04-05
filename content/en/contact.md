@@ -1,7 +1,13 @@
 ---
-title: "Contact"
-description: "This is meta description"
-image: "images/playroom/michaelundbenedicte.jpg"
-layout: "contact"
+title: Contact
+description: This is meta description
+image: images/playroom/michaelundbenedicte.jpg
+layout: contact
+translation: auto
+
 ---
-Strikes the upper surface of the impenetrable foliage of my trees, and but a few stray gleams steal into the inner sanctuary, I throw myself down among the tall grass by the trickling stream and, as I lie close to the earth, a thousand unknown plants are noticed by me.<br><br>When I hear the buzz of the little world among the stalks, and grow familiar with the countless indescribable forms of the insects and flies, then I feel the presence of the Almighty, who formed us in his own image, and the breath of that universal love which bears and sustains.
+touches the top of the impenetrable foliage of my trees, and only a few stray glimmers steal into the inner sanctum, I throw myself among the tall grass by the trickling stream, and as I lie close to the earth, a thousand unknown plants are perceived by me.
+
+Hearing the hum of the small world among the stalks and becoming familiar with the countless indescribable forms of insects and flies, I feel the presence of the Almighty who created us in His image and the breath of that universal love which sustains and sustains.
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)

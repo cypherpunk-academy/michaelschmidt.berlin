@@ -1,14 +1,16 @@
 ---
-title: "Esamael: Listening, trusting"
+title: "Esamael: Zuhören, Vertrauen"
 date: 2023-02-10
-description: "This is meta description"
-type: "featured"
-image: "images/featured-post/sunset-boat-berlin.jpg"
-categories: 
-  - "Being there, being open"
+description: This is meta description
+type: featured
+image: images/featured-post/sunset-boat-berlin.jpg
+categories:
+  - Da sein, offen sein
 tags:
-  - "Listening"
-  - "Unloading"
+  - Zuhören
+  - Entladen
+translation: auto
+
 ---
 
 

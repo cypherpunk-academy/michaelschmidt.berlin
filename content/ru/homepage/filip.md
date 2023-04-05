@@ -1,5 +1,5 @@
 ---
-title: Filip
+title: Филип
 subtitle: Wie das Leben klingt und wie es nicht klingt
 layout: "2"
 description: Fillip Wall
@@ -9,7 +9,7 @@ categories:
 tags:
   - Zuhören
   - Entladen
-translation: original
+translation: auto
 
 ---
-TEST
+ТЕСТ

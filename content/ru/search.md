@@ -1,5 +1,5 @@
 ---
-title: "Suchergebnis"
+title: "Результат поиска"
 description: "..."
 layout: "search"
 ---
