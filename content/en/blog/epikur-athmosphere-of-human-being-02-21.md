@@ -2,11 +2,11 @@
 title: Iris, what does a person's atmosphere look like?
 date: 2021-02-23T19:00:00-01:00
 description: >
-  (Chat GPT) The text describes the properties of dark matter and energy,
+  The text describes the properties of dark matter and energy,
   emphasising their undetectability when they are not moving, and pointing out
   that they contain a lot of information despite the lack of matter. A personal
   childhood experience is also described, where the author could sit on a swing
-  and be in the immaterial state.
+  and be in the immaterial state. (Chat GPT)
 topic: Garden of Epicurus
 type: post
 image: images/epikur/epikur-athmosphere-of-human-being.png

@@ -2,7 +2,7 @@
 title: Iris, hur ser en människas atmosfär ut?
 date: 2021-02-23T19:00:00-01:00
 description: | 
-  (Chat GPT) Texten beskriver egenskaperna hos mörk materia och energi, betonar deras oupptäckbarhet när de inte rör sig, samt poängterar att de innehåller mycket information trots avsaknaden av materia. En personlig barndomsupplevelse beskrivs också, där författaren kunde sitta på en gunga och befinna sig i det immateriella tillståndet.
+  Texten beskriver egenskaperna hos mörk materia och energi, betonar deras oupptäckbarhet när de inte rör sig, samt poängterar att de innehåller mycket information trots avsaknaden av materia. En personlig barndomsupplevelse beskrivs också, där författaren kunde sitta på en gunga och befinna sig i det immateriella tillståndet. (Chat GPT)
 topic: Epikurus trädgård
 type: post
 image: images/epikur/epikur-athmosphere-of-human-being.png

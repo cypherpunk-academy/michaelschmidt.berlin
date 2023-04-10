@@ -2,7 +2,7 @@
 title: Iris, kan du också se atmosfären via Zoom?
 date: 2021-02-23T19:00:00-01:00
 description: | 
-  Atmosfären innehåller närvarande information från mänsklighetens barndom till undergång, vilket är en universell vetskap utan avstånd eller tid och rum, som kan uppfattas som att se för att göra det begripligt och inte mystiskt.
+  Atmosfären innehåller närvarande information från mänsklighetens barndom till undergång, vilket är en universell vetskap utan avstånd eller tid och rum, som kan uppfattas som att se för att göra det begripligt och inte mystiskt. (Chat GPT) 
 topic: Epikurus trädgård
 type: post
 image: images/epikur/epikur-reading-atmosphere-dall-e.png

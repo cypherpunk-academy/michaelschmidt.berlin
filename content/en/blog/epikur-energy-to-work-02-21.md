@@ -5,7 +5,7 @@ description: >
   The lack of energy and power that people often talk about is related to an
   error in thinking that leads to fear and thus losing access to power, but if
   you learn to trust that you have enough energy, you can do your work without
-  any problems (Chat GPT).
+  any problems. (Chat GPT)
 topic: Garden of Epicurus
 type: post
 image: images/epikur/epikur-energy-to-work.png

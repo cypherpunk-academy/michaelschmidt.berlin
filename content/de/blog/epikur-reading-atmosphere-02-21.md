@@ -2,10 +2,7 @@
 title: Iris, kannst über Zoom auch die Atmosphäre eines Menschen sehen?
 date: 2021-02-23T19:00:00-01:00
 description: >
-  Die Atmosphäre kennt keinen Abstand und ist zeitlos und raumlos, enthält
-  Informationen von der Kindheit bis zum Untergang der Menschheit sowie
-  möglicherweise von anderen Planeten, was als Sehen bezeichnet wird, aber
-  eigentlich ein Wissen ist.
+  Die Atmosphäre kennt keinen Abstand und ist zeitlos und raumlos, enthält Informationen von der Kindheit bis zum Untergang der Menschheit sowie  möglicherweise von anderen Planeten, was als Sehen bezeichnet wird, aber eigentlich ein Wissen ist.
 topic: Der Garten des Epikur
 type: post
 image: images/epikur/epikur-reading-atmosphere-dall-e.png

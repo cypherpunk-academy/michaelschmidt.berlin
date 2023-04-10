@@ -2,7 +2,7 @@
 title: Iris, hatten die Menschen früher mehr Energie zum Arbeiten?
 date: 2021-02-23T19:00:00-01:00
 description: >
-  Die mangelnde Energie und Kraft, von der Menschen oft sprechen, hängt mit einem Denkfehler zusammen, der dazu führt, dass man Angst bekommt und damit der Zugang zur Kraft verloren geht, aber wenn man lernt, darauf zu vertrauen, dass man genug Energie hat, kann man ohne Probleme durch die Arbeit gehen. (Chat GPT)
+  Die mangelnde Energie und Kraft, von der Menschen oft sprechen, hängt mit einem Denkfehler zusammen, der dazu führt, dass man Angst bekommt und damit der Zugang zur Kraft verloren geht, aber wenn man lernt, darauf zu vertrauen, dass man genug Energie hat, kann man ohne Probleme durch die Arbeit gehen.
 topic: Der Garten des Epikur
 type: post
 image: images/epikur/epikur-energy-to-work.png
