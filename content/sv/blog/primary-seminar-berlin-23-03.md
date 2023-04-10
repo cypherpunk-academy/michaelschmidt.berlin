@@ -1,6 +1,7 @@
 ---
 title: Primärhelg, 3-5 mars 2023, Berlin
 date: 2023-02-12T08:47:11.200Z
+expiryDate: 2023-03-05T17:00:00.200Z
 description: VÄLKOMMEN TILL EN HELG MED PRIMÄRT ARBETE, PRIMÄR LEK OCH TVÅ LJUDGÅVOR.
 type: post
 image: images/masonary-post/playroom-seminar-1.jpg
@@ -11,6 +12,8 @@ tags:
   - Iris
   - Primärt arbete
 translation: auto
+
+
 
 ---
 

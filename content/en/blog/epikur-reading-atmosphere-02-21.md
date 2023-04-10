@@ -2,29 +2,30 @@
 title: Iris, can you also see the atmosphere via Zoom?
 date: 2021-02-23T19:00:00-01:00
 description: >
-  The atmosphere knows no distance and is timeless and spaceless, containing
-  information from childhood to the demise of humanity and possibly from other
-  planets, which is called seeing but is actually a knowing.
-topic: The Garden of Epicurus
+  The atmosphere contains present information from humanity's infancy to
+  destruction, which is a universal knowledge without distance or time and
+  space, which can be perceived as seeing to make it understandable and not
+  mysterious.
+topic: Garden of Epicurus
 type: post
-image: images/epikur/epikur-fb-logo.jpg
+image: images/epikur/epikur-reading-atmosphere-dall-e.png
 audio: epikur-reading-atmosphere-02-21.mp3
 imageWidth: 90
 author: Iris
 categories:
-  - The Garden of Epicurus
+  - Garden of Epicurus
 tags:
   - Epicurus
-  - Atmosphere
-  - Information
-  - Universe
+  - the atmosphere
+  - information
+  - universe
 translation: auto
 layout: epikur
 
 ---
 
 ###### Question
-Iris, in the introduction you said that you look into the atmosphere from time to time and read what you see there. How does that work via Zoom?
+In the introduction you said that you occasionally look at the atmosphere and read. How does this work over Zoom?
 
 ###### Iris
-It's just like when we are there with a distance of one metre from each other, or if someone is in Australia and someone is in Sweden, with the atmosphere there is no distance. It is only here and now and present. In the darkness of the universe there is no distance, there is no time and space. There is only here and now and presence. All the information from the childhood of humanity to the demise of humanity is there in the atmosphere. There may also be information from other planets, but since I don't speak that language, I don't know anything about it. Yes, I call this seeing, but it is actually a knowing of it. I just call it seeing, so it doesn't seem to be such a mumbo jumbo.
+Just like if we are one metre apart or if someone is in Australia when I am in Sweden. The atmosphere has no distance. It is here and now and present all the time. The darkness of the universe, there is no distance. And there's no time and space either, it's just here and now and present. All the information from humanity's infancy to its demise is in the atmosphere. Maybe it's from other planets as well, but that's not my language so I can't do that. It is a knowledge. It's not that I see in the atmosphere, seeing is a sign of the situation. It's just a knowledge that I call seeing so that it is somehow understandable and not some kind of mystical magic hocus pocus.

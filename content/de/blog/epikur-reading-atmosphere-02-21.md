@@ -1,5 +1,5 @@
 ---
-title: Iris, kannst über Zoom auch die Atmosphäre sehen?
+title: Iris, kannst über Zoom auch die Atmosphäre eines Menschen sehen?
 date: 2021-02-23T19:00:00-01:00
 description: >
   Die Atmosphäre kennt keinen Abstand und ist zeitlos und raumlos, enthält
@@ -8,7 +8,7 @@ description: >
   eigentlich ein Wissen ist.
 topic: Der Garten des Epikur
 type: post
-image: images/epikur/epikur-fb-logo.jpg
+image: images/epikur/epikur-reading-atmosphere-dall-e.png
 audio: epikur-reading-atmosphere-02-21.mp3
 imageWidth: 90
 author: Iris

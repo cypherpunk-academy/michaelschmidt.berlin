@@ -898,3 +898,9 @@ div.epikur-topic {
   margin-bottom: 12px;
   text-transform: uppercase;
 }
+
+audio::-webkit-media-controls-enclosure {
+  border-radius: 15px;
+  background-color: rgb(252, 222, 203)
+}
+
