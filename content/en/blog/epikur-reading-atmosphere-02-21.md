@@ -3,9 +3,9 @@ title: Iris, can you also see the atmosphere via Zoom?
 date: 2021-02-23T19:00:00-01:00
 description: >
   The atmosphere contains present information from humanity's infancy to
-  destruction, which is a universal knowledge without distance or time and
-  space, which can be perceived as seeing to make it understandable and not
-  mysterious. (Chat GPT)
+  destruction, which is a universal knowing without distance or time and space,
+  which can be perceived as seeing to make it comprehensible and not mysterious.
+  (Chat GPT)
 topic: Garden of Epicurus
 type: post
 image: images/epikur/epikur-reading-atmosphere-dall-e.png
