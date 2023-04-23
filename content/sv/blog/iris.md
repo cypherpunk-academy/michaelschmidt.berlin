@@ -1,11 +1,19 @@
 ---
-title: "Iris: Primärarbete och primära tankar"
+title: "Iris: Primärt arbete och primärt tankearbete"
 date: 2023-02-12
-description: |
-  **Detta** är ett introduktionsområde ... dqüeoritqjüoigjüoi sdsd sd
-  sd
-  sd
-  sd
+description: >
+  Iris är autistisk. Och hon ger kurser i kommunikation... efter att ha lärt sig
+  frisör i livet, varit gift i 25 år, fått en dotter, hjälpt många missbrukare i
+  sitt missbruk eller ur det, gett råd till företag och skolor, inrättat
+  världens bästa barnhem i Ängelsberg i Sverige, bland annat med en
+  "Epikursträdgård". Hon talar till människor utifrån "atmosfären", en värld som
+  är osynlig för de flesta av oss, full av tankar, bilder, strömningar, känslor,
+  som omger oss alla och som hon som barn kallade den "verkliga världen", till
+  skillnad från den vanliga värld som vi alla känner till. Hon är också en
+  bästsäljande författare, och kanske den viktigaste anledningen till att hennes
+  kommunikationskurser är så spännande: Som 12-årig flicka bestämde hon sig för
+  att lära sig allt som finns att lära om kommunikation. Och hon har gjort det
+  med autistisk noggrannhet i över 50 år, varje dag sedan dess.
 type: featured
 image: images/featured-post/rock-people-sky.jpg
 categories:
@@ -13,52 +21,17 @@ categories:
 tags:
   - Iris
   - Kommunikation som konst
-  - Primärarbete
+  - Primärt arbete
 introduction: null
 translation: auto
 
 ---
 
+(🏗️ denna sida är fortfarande under uppbyggnad, planerad här är ...)
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+- En kalender med Iris aktuella händelser
+- En förteckning över publikationer (böcker, broschyrer, ljudböcker).
+- Nya texter från hennes pågående forskningsarbete.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
-
-
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
-
-
-![](../images/post-img.jpg)
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
-
+(under tiden finns här till höger några texter från Epikurskvällarna i Zoom 🌳)
 

@@ -1,64 +1,37 @@
 ---
-title: "Iris: Primärarbeit und primäre Gedankenarbeit"
+title: "Iris: Primary work and primary thought work"
 date: 2023-02-12
-description: |
-  **This** is an introduction field ... dqüeoritqjüoigjüoi sdsd sd
-  sd
-  sd
-  sd
+description: >
+  Iris is autistic. And she gives communication courses... after learning to be
+  a hairdresser in life, being married for 25 years, having a daughter, helping
+  many drug addicts in their addiction or out of it, advising companies and
+  schools, setting up the world's best children's retreat in Ängelsberg in
+  Sweden, among other things with a "Garden of Epicurus". She speaks to people
+  out of the "atmosphere", a world invisible to most of us, full of thoughts,
+  images, currents, feelings, which surrounds us all and which she called the
+  "real world" as a child, as opposed to the ordinary one we all know. She is
+  also a best-selling author, and, perhaps the most important reason why her
+  communication courses are so exciting: She decided as a 12-year-old girl to
+  learn everything there is to learn about communication. And she has done it
+  with autistic meticulousness for over 50 years, every day since.
 type: featured
 image: images/featured-post/rock-people-sky.jpg
 categories:
-  - Kommunikation als Kunst
+  - Communication as art
 tags:
   - Iris
-  - Kommunikation als Kunst
-  - Primärarbeit
+  - Communication as art
+  - Primary work
 introduction: null
 translation: auto
 
 ---
 
+(🏗️ this page is still under construction, planned here are ...)
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+- A calendar with Iris' current events
+- A list of publications (books, booklets, audio books)
+- Recent texts from her current research work
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
-
-
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
-
-
-![](../images/post-img.jpg)
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
-
+(in the meantime, here on the right are some texts from the Epicurus evenings in Zoom 🌳)
 

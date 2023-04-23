@@ -20,6 +20,9 @@ translation: original
 
 
 
+
+
+
 ---
 #### Klang und der Kontakt zum eigenen Körper  
 Jeder Mensch hat in seinem Inneren ein musikalisches Zentrum, einen Kern aus dem heraus die der Rhythmus und die Melodie des Lebens entsteht. Musik, Klang macht und traurig und tröstet uns, weckt uns auf und beruhigt uns, hebt uns, trägt uns und schockt uns.  

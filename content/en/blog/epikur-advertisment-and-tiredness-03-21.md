@@ -17,7 +17,7 @@ categories:
 tags:
   - advertising
   - shopping
-  - tiredness
+  - fatigue
   - customisation
   - grief
 translation: auto

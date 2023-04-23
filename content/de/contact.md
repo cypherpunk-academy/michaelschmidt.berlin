@@ -7,6 +7,9 @@ translation: original
 
 
 
+
+
+
 ---
 die Oberseite des undurchdringlichen Blattwerks meiner Bäume berührt und nur ein paar verirrte Schimmer sich in das innere Heiligtum stehlen, werfe ich mich zwischen das hohe Gras am tröpfelnden Bach, und während ich mich dicht an die Erde lege, werden tausend unbekannte Pflanzen von mir wahrgenommen.
 

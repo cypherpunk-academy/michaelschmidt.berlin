@@ -1,64 +1,37 @@
 ---
-title: "Ирис: Primärarbeit und primäre Gedankenarbeit"
+title: "Ирис: Первичная работа и первичная работа мысли"
 date: 2023-02-12
-description: |
-  **Это** вводное поле ... dqüeoritqjüoigjüoi sdsd sdsd sd
-  sd
-  sd
-  sd
+description: >
+  Айрис - аутистка. И она проводит курсы общения... после того, как в жизни
+  выучилась на парикмахера, была замужем 25 лет, родила дочь, помогла многим
+  наркоманам справиться с зависимостью или выйти из нее, консультировала
+  компании и школы, организовала лучший в мире детский ретрит в Энгельсберге в
+  Швеции, среди прочего, с "Садом Эпикура". Она говорит с людьми из "атмосферы",
+  невидимого большинству из нас мира, полного мыслей, образов, течений, чувств,
+  который окружает всех нас и который в детстве она называла "реальным миром", в
+  отличие от обычного, который мы все знаем. Она также является автором
+  бестселлеров, и, возможно, это самая важная причина, почему ее курсы по
+  общению так увлекательны: 12-летней девочкой она решила узнать все, что можно
+  узнать о коммуникации. И вот уже более 50 лет она делает это с аутичной
+  скрупулезностью, каждый день.
 type: featured
 image: images/featured-post/rock-people-sky.jpg
 categories:
-  - Коммуникация как искусство
+  - Общение как искусство
 tags:
   - Ирис
-  - Коммуникация как искусство
-  - Primärarbeit
+  - Общение как искусство
+  - Основная работа
 introduction: null
 translation: auto
 
 ---
 
+(🏗️ эта страница находится в стадии разработки, здесь планируется ...)
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+- Календарь с текущими событиями Айрис
+- Список публикаций (книги, буклеты, аудиокниги)
+- Последние тексты из ее текущей исследовательской работы
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
-
-
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
-
-
-![](../images/post-img.jpg)
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
-
+(а пока вот здесь справа несколько текстов с вечеров Эпикура в Zoom 🌳)
 

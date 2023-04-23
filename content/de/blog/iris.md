@@ -2,10 +2,7 @@
 title: "Iris: Primärarbeit und primäre Gedankenarbeit"
 date: 2023-02-12
 description: |
-  **This** is an introduction field ... dqüeoritqjüoigjüoi sdsd sd
-  sd
-  sd
-  sd
+  Iris ist Autistin. Und sie gibt Kommunikationskurse... nachdem sie im Leben Friseurin gelernt hat, 25 Jahre verheiratet war, eine Tochter hat, vielen Drogensüchtigen in ihrer Sucht geholfen hat oder aus ihr heraus, Unternehmen und Schulen beraten hat, die weltbeste Kinderfreizeit in Ängelsberg in Schweden aufgebaut hat, u.a. mit einem "Garten des Epikur". Sie spricht mit Menschen aus der "Atmosphäre" heraus, eine für die meisten von uns unsichtbare Welt voller Gedanken, Bilder, Ströme, Gefühle, die uns alle umgibt und die sie als Kind die "reale Welt" nannte, im Gegensatz zur gewöhlichen, die wir alle kennen. Sie ist auch Bestsellerautorin, und, vielleicht der wichtigste Grund, warum ihre Kommunikationskurse so spannend sind: Sie hat als 12-jähriges Mädchen entschieden, alles über Kommunikation zu lernen, was es zu lernen gibt. Und das hat sie seit dem mit autistischer Akribi seit über 50 Jahren gemacht, jeden Tag.
 type: featured
 image: images/featured-post/rock-people-sky.jpg
 categories:
@@ -19,48 +16,17 @@ translation: original
 
 
 
+
+
+
+
 ---
 
+(🏗️ diese Seite ist noch am Entstehen, geplant sind hier ...)
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+- Ein Kalender mit Iris aktuellen Veranstaltungen
+- Eine Liste mit Veröffentlichungen (Bücher, Hefte, Hörbücher)
+- Aktuelle Texte aus ihrer aktuellen Forschungsarbeit
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
-
-
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
-
-
-![](../images/post-img.jpg)
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
-
+(in der Zwischenzeit gibt es hier rechts einige Texte aus den Epikur-Abenden in Zoom 🌳)
 
