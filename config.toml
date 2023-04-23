@@ -1,5 +1,5 @@
 # default config
-baseurl = "https://lafisrap.github.io/"
+baseurl = "https://www.epikur.berlin"
 languageCode = "de-DE"
 title = "Der Garten des Epikur | Spielplatz für Kinder und Erwachsene"
 theme = "parsa-hugo"
