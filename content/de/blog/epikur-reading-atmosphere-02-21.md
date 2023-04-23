@@ -6,7 +6,7 @@ description: >
 topic: Der Garten des Epikur
 type: post
 image: images/epikur/epikur-reading-atmosphere-dall-e.png
-audio: epikur-reading-atmosphere-02-21.mp3
+audio: epikur-reading-atmosphere-21-02.mp3
 imageWidth: 90
 author: Iris
 categories:
@@ -18,6 +18,8 @@ tags:
   - Universum
 translation: original
 layout: epikur
+
+
 
 
 

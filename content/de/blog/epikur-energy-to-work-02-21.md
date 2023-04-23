@@ -6,7 +6,7 @@ description: >
 topic: Der Garten des Epikur
 type: post
 image: images/epikur/epikur-energy-to-work.png
-audio: epikur-energy-to-work-02-21.mp3
+audio: epikur-energy-to-work-21-02.mp3
 imageWidth: 90
 author: Iris
 categories:
@@ -19,6 +19,8 @@ tags:
   - Balans och jämvikt
 translation: original
 layout: epikur
+
+
 
 
 

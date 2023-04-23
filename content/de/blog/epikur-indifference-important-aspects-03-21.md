@@ -5,8 +5,8 @@ description: >
   Die Liebe ist ein Zustand, der die ganze Zeit in der Atmosphäre präsent ist und leicht von einem Gefühl der Freude und Amüsement heraufgezogen werden kann. Es ist ein Zustand der Offenheit und Verletzlichkeit, der verschiedene Empfindungen und Gefühle in uns hervorbringt, der auch mal "umfallen" kann und zu Hass werden. Wenn die Liebe jedoch aufgrund von Hindernissen blockiert wird, kann sie in Gleichgültigkeit umschlagen.
 topic: Der Garten des Epikur
 type: post
-image: /images/epikur/epikur-indifference-important-aspects-03-21.png
-audio: epikur-indifference-important-aspects-03-21.mp3
+image: /images/epikur/epikur-indifference-important-aspects-21-03.png
+audio: epikur-indifference-important-aspects-21-03.mp3
 imageWidth: 90
 author: Iris
 categories:
@@ -18,6 +18,8 @@ tags:
   - Hass
 translation: original
 layout: epikur
+
+
 
 
 

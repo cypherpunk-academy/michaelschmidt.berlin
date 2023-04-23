@@ -6,8 +6,8 @@ description: >
   Avsikten är att få oss att anpassa oss till det, och i processen uppstår trötthet och ett slags sorg.
 topic: Epikurus trädgård
 type: post
-image: images/epikur/epikur-advertisment-and-tiredness-03-21.png
-audio: epikur-advertisment-and-tiredness-03-21.mp3
+image: images/epikur/epikur-advertisment-and-tiredness-21-03.png
+audio: epikur-advertisment-and-tiredness-21-03.mp3
 imageWidth: 90
 author: Iris
 categories:

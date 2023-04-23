@@ -9,8 +9,8 @@ description: >
   Мы радикализируемся в ней, испытывая страх.
 topic: Сад Эпикура
 type: post
-image: /images/epikur/epikur-world-situation-covid-03-21.png
-audio: epikur-world-situation-covid-03-21.mp3
+image: /images/epikur/epikur-world-situation-covid-21-03.png
+audio: epikur-world-situation-covid-21-03.mp3
 imageWidth: 90
 author: Iris
 categories:

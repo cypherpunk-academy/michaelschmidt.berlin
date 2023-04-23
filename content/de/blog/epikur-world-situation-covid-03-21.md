@@ -8,8 +8,8 @@ description: >
   Wir werden da hinein radikalisiert, indem wir Angst bekommen.
 topic: Der Garten des Epikur
 type: post
-image: /images/epikur/epikur-world-situation-covid-03-21.png
-audio: epikur-world-situation-covid-03-21.mp3
+image: /images/epikur/epikur-world-situation-covid-21-03.png
+audio: epikur-world-situation-covid-21-03.mp3
 imageWidth: 90
 author: Iris
 categories:

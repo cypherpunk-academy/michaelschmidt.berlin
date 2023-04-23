@@ -6,7 +6,7 @@ description: |
 topic: Epikurus trädgård
 type: post
 image: images/epikur/epikur-reading-atmosphere-dall-e.png
-audio: epikur-energy-to-work-02-21.mp3
+audio: epikur-energy-to-work-21-02.mp3
 imageWidth: 90
 author: Iris
 categories:

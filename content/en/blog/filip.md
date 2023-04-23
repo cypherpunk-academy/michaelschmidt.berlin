@@ -1,11 +1,16 @@
 ---
 title: "Filip: How does life sound?"
 date: 2023-02-11
-description: |
-  Sound couch: **40 minutes in an ocean of sound**<br />
-  Sound Evening Z: **A concert on a sound harp over Zoom**<br />
-  Sound Evening: **A sound couch and many body harps in one room**<br />
-  Iris translation: **Swedish / German / English, seminars and books**<br />
+description: >
+  Filip makes music and translates Iris into German and English... and
+  accompanies her on journeys and at home. His great discovery is the sound
+  couch, a monochord, on which he plays for and into people - since the Corona
+  time also via Zoom (the "atmosphere" knows no space). 40 minutes on the couch
+  can be relaxing, liberating, eventful or life-changing, depending on... yes...
+  as the moment is and the mutuality. Sometimes there are sound evenings with a
+  big sound couch and some small ones to put on the belly or back, and
+  participants play for each other. He also translates courses and individual
+  meetings and books by Iris.
 type: featured
 image: images/filip/filip-harp-evening.jpg
 categories:
@@ -16,9 +21,12 @@ tags:
 translation: auto
 
 ---
-#### Sound and contact with one's own body
-Every human being has a musical centre inside, a core from which the rhythm and melody of life emerges. Music, sound makes us sad and comforts us, wakes us up and calms us down, lifts us up, carries us and shocks us.  
+(🏗️ this page is still under construction, planned here are ...)
 
-New paragraph
+- A philosophical introduction to his music by Filip
+- A calendar of sound evenings and other events
+- A list of his translations
 
+
+(in the meantime, here on the right are some texts from the Epicurus evenings in Zoom 🌳)
 ...

@@ -8,8 +8,8 @@ description: >
   schools, setting up the world's best children's retreat in Ängelsberg in
   Sweden, among other things with a "Garden of Epicurus". She speaks to people
   out of the "atmosphere", a world invisible to most of us, full of thoughts,
-  images, currents, feelings, which surrounds us all and which she called the
-  "real world" as a child, as opposed to the ordinary one we all know. She is
+  images, currents, feelings, which surrounds us all and which as a child she
+  called the "real world", as opposed to the ordinary one we all know. She is
   also a best-selling author, and, perhaps the most important reason why her
   communication courses are so exciting: She decided as a 12-year-old girl to
   learn everything there is to learn about communication. And she has done it

@@ -6,8 +6,8 @@ description: >
   Die Absicht ist, dass wir uns daran anpassen und dabei entsteht Müdigkeit und eine Art von Trauer.
 topic: Der Garten des Epikur
 type: post
-image: /images/epikur/epikur-advertisment-and-tiredness-03-21.png
-audio: epikur-advertisment-and-tiredness-03-21.mp3
+image: /images/epikur/epikur-advertisment-and-tiredness-21-03.png
+audio: epikur-advertisment-and-tiredness-21-03.mp3
 imageWidth: 90
 author: Iris
 categories:
@@ -20,6 +20,8 @@ tags:
   - Trauer
 translation: original
 layout: epikur
+
+
 
 ---
 
