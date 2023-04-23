@@ -2,7 +2,7 @@
 title: Iris, why do I get so tired of watching commercials and shopping?
 date: 2021-03-23T19:00:00-01:00
 description: >
-  Advertising has the intention to tattoo us inside. Then, when we see a
+  Advertising has the intention to tattoo us inside. Then when we see a
   trademark in the shop that we are tattooed with, we feel attracted to it. The
   intention is that we conform to it and in the process there is fatigue and a
   kind of sadness.
