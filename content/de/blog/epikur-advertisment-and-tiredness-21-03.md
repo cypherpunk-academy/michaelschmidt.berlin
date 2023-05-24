@@ -3,7 +3,7 @@ title: Iris, warum werde ich von Werbung anschauen und Einkaufen so müde?
 date: 2021-03-23T19:00:00-01:00
 description: >
   Die Werbung hat die Absicht uns innen zu tätowieren. Wenn wir im Laden dann ein Warenzeichen sehen, mit dem wir tätowiert sind, dann fühlen wir uns angezogen.
-  Die Absicht ist, dass wir uns daran anpassen und dabei entsteht Müdigkeit und eine Art von Trauer.
+  Die Absicht ist, dass wir uns daran anpassen und dabei entsteht Müdigkeit und eine Art von Trauer..
 topic: Der Garten des Epikur
 type: post
 image: /images/epikur/epikur-advertisment-and-tiredness-21-03.png
