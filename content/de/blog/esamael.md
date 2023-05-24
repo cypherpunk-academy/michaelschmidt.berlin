@@ -28,7 +28,7 @@ translation: original
 
 ---
 
-(🏗️ diese Seite ist noch am Entstehen)
+(🏗️ diese Seite ist noch am Entstehen---)
 
 
 (in der Zwischenzeit gibt es hier rechts einige Texte aus den Epikur-Abenden in Zoom 🌳)
