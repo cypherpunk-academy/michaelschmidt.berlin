@@ -1,5 +1,5 @@
 ---
-title: "Durch Primärarbeit und primäre Gedankenarbeit"
+title: "Primärarbeit und primäre Gedankenarbeit"
 date: 2023-02-12
 layout: "2"
 description: This is meta description
