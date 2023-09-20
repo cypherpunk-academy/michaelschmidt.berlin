@@ -8,7 +8,7 @@ description: >
 type: featured
 image: images/filip/hands-sound-table.jpg
 categories:
-  - Berührung durch Klang
+  - In Berührung sein
 tags:
   - Klang
   - Klangliege
