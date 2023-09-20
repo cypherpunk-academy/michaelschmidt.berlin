@@ -12,7 +12,7 @@ description: >
   för varandra. Han översätter också kurser och enskilda möten och böcker av
   Iris.
 type: featured
-image: images/filip/filip-harp-evening.jpg
+image: images/filip/hands-sound-table.jpg
 categories:
   - Beröring genom ljud
 tags:

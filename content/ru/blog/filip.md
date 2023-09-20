@@ -13,7 +13,7 @@ description: >
   играют друг для друга. Он также переводит курсы, индивидуальные встречи и
   книги Ирис.
 type: featured
-image: images/filip/filip-harp-evening.jpg
+image: images/filip/hands-sound-table.jpg
 categories:
   - Прикосновение через звук
 tags:

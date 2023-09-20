@@ -12,7 +12,7 @@ description: >
   participants play for each other. He also translates courses and individual
   meetings and books by Iris.
 type: featured
-image: images/filip/filip-harp-evening.jpg
+image: images/filip/hands-sound-table.jpg
 categories:
   - Touch through sound
 tags:
