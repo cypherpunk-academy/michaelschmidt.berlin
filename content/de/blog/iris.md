@@ -6,10 +6,10 @@ description: |
 type: featured
 image: images/featured-post/rock-people-sky.jpg
 categories:
-  - Kommunikation als Kunst
+  - Bei sich und beim Anderen sein
 tags:
   - Iris
-  - Kommunikation als Kunst
+  - Bei sich und beim Anderen sein
   - Primärarbeit
 introduction: null
 translation: original
