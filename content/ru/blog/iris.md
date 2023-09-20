@@ -15,7 +15,7 @@ description: >
   узнать об общении. И вот уже более 50 лет она делает это с аутичной
   скрупулезностью, каждый день.
 type: featured
-image: images/featured-post/rock-people-sky.jpg
+image: images/featured-post/primärgrupp_avident1.jpg
 categories:
   - Общение как искусство
 tags:

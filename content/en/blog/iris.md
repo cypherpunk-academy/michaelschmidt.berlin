@@ -15,7 +15,7 @@ description: >
   learn everything there is to learn about communication. And she has done it
   with autistic meticulousness for over 50 years, every day since.
 type: featured
-image: images/featured-post/rock-people-sky.jpg
+image: images/featured-post/primärgrupp_avident1.jpg
 categories:
   - Communication as art
 tags:

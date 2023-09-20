@@ -15,7 +15,7 @@ description: >
   att lära sig allt som finns att lära om kommunikation. Och hon har gjort det
   med autistisk noggrannhet i över 50 år, varje dag sedan dess.
 type: featured
-image: images/featured-post/rock-people-sky.jpg
+image: images/featured-post/primärgrupp_avident1.jpg
 categories:
   - Kommunikation som konst
 tags:
