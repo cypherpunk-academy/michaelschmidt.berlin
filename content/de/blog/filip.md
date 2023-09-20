@@ -1,5 +1,5 @@
 ---
-title: "Durch die Musik"
+title: "Filip: Wie klingt das Leben?"
 date: 2023-02-11
 description: >
   Filip macht Musik und übersetzt Iris in Deutsch und Englisch... und begleitet sie auf Reisen und zu Hause.
@@ -8,13 +8,22 @@ description: >
 type: featured
 image: images/filip/filip-harp-evening.jpg
 categories:
-  - sich kennenlernen
+  - Berührung durch Klang
 tags:
   - Klang
   - Klangliege
 translation: original
+
+
+
+
+
+
+
+
+
+
 ---
-abc
 (🏗️ diese Seite ist noch am Entstehen, geplant sind hier ...)
 
 - Eine philosophische Einführung in seine Musik von Filip

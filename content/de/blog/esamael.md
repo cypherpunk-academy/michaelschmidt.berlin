@@ -1,11 +1,11 @@
 ---
-title: "Wenn jemand für mich da ist und mir zuhört"
+title: "Esamael: Zuhören, Vertrauen"
 date: 2023-02-10
 description: kommt bald ...
 type: featured
 image: images/featured-post/sunset-boat-berlin.jpg
 categories:
-  - Sich kennenernen
+  - Da sein, offen sein
 tags:
   - Zuhören
   - Entladen

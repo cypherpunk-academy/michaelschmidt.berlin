@@ -1,11 +1,11 @@
 ---
-title: "Durch den gemeinsamen Raum: Primärarbeit, primäre Musik, primäres Spielen"
+title: "Ein Spielzimmer: Primärarbeit, Klang, ursprüngliches Spiel"
 date: 2023-02-09
 description: This is meta description
 type: featured
 image: images/featured-post/playroom-table-evening.jpg
 categories:
-  - Sich kennenlernen
+  - Begegnungen in der vierten Dimension
 tags:
   - Begegnung
   - Primärarbeit
