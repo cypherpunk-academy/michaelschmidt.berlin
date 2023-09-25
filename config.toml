@@ -230,7 +230,7 @@ weight = 3
 
 # devault parameter
 [params]
-logo = "images/logo1.png"
+logo = "images/logo2.png"
 home = "Home"
 layout = "1"
 description = "This is meta description"
