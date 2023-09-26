@@ -1,15 +1,15 @@
 ---
-title: "Lyssnande som konst"
+title: "ett lyssnande som konst"
 date: 2023-02-10
-description: kommer snart ...
+descriptio: kommer snart ...
 type: featured
 image: images/featured-post/sunset-boat-berlin.jpg
 categories:
-  - att vara i kontakt
+  - att vara sej själv
 tags:
   - Lyssna
   - Avlastning
-translation: auto
+translation: original
 
 ---
 
