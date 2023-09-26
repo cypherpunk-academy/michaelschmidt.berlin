@@ -1,11 +1,11 @@
 ---
-title: "Esamael: Zuhören, Vertrauen"
+title: "Zuhören als Kunst"
 date: 2023-02-10
 description: kommt bald ...
 type: featured
 image: images/featured-post/sunset-boat-berlin.jpg
 categories:
-  - Da sein, offen sein
+  - bei sich ankommen
 tags:
   - Zuhören
   - Entladen

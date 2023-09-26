@@ -5,7 +5,7 @@ layout: "2"
 description: Fillip Wall
 image: images/filip/hands-sound-table.jpg
 categories:
-  - Da sein, offen sein
+  - bei sich ankommen
 tags:
   - Zuhören
   - Entladen

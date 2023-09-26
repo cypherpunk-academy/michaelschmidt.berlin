@@ -1,5 +1,5 @@
 ---
-title: "Esamael: Listening, trust"
+title: "Listening as art"
 date: 2023-02-10
 description: coming soon ...
 type: featured

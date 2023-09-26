@@ -1,11 +1,11 @@
 ---
-title: "Esamael: Lyssna, tillit"
+title: "Lyssnande som konst"
 date: 2023-02-10
 description: kommer snart ...
 type: featured
 image: images/featured-post/sunset-boat-berlin.jpg
 categories:
-  - Att vara där, att vara öppen
+  - att vara i kontakt
 tags:
   - Lyssna
   - Avlastning
