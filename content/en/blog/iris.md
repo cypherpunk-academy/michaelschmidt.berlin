@@ -1,5 +1,5 @@
 ---
-title: "Iris: Primary work and primary thought work"
+title: "Communication as Art"
 date: 2023-02-12
 description: >
   Iris is autistic. And she gives communication courses... after learning to be

@@ -1,5 +1,5 @@
 ---
-title: "Iris: Primärt arbete och primärt tankearbete"
+title: "Kommunikation som konst"
 date: 2023-02-12
 description: >
   Iris är autistisk. Och hon ger kurser i kommunikation... efter att ha lärt sig
