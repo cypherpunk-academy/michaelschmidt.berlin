@@ -1,5 +1,5 @@
 ---
-title: "Primärarbeit und primäre Gedankenarbeit"
+title: "Kommunikation als Kunst"
 date: 2023-02-12
 layout: "2"
 description: This is meta description
