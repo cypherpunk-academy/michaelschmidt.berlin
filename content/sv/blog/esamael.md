@@ -5,7 +5,7 @@ descriptio: kommer snart ...
 type: featured
 image: images/featured-post/sunset-boat-berlin.jpg
 categories:
-  - att vara sej själv
+  - friskvård
 tags:
   - Lyssna
   - Avlastning

@@ -17,7 +17,7 @@ description: >
 type: featured
 image: images/featured-post/primärgrupp_avident1.jpg
 categories:
-  - att vara sej själv
+  - friskvård
 tags:
   - Iris
   - Kommunikation som konst

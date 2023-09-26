@@ -14,7 +14,7 @@ description: >
 type: featured
 image: images/filip/hands-sound-table.jpg
 categories:
-  - att vara sej själv
+  - friskvård
 tags:
   - Ljud
   - Ljudstol
