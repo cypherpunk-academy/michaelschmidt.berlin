@@ -1,5 +1,5 @@
 ---
-title: "ett lyssnande som konst"
+title: "Lyssnande som konst"
 date: 2023-02-10
 descriptio: kommer snart ...
 type: featured
