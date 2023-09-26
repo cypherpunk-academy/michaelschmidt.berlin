@@ -5,7 +5,7 @@ description: kommt bald ...
 type: featured
 image: images/featured-post/sunset-boat-berlin.jpg
 categories:
-  - bei sich ankommen
+  - bei sich und beim anderen sein
 tags:
   - Zuhören
   - Entladen
