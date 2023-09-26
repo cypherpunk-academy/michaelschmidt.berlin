@@ -14,7 +14,7 @@ description: >
 type: featured
 image: images/filip/hands-sound-table.jpg
 categories:
-  - Beröring genom ljud
+  - att vara sej själv
 tags:
   - Ljud
   - Ljudstol
