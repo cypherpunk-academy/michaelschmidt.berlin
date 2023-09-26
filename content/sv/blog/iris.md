@@ -17,7 +17,7 @@ description: >
 type: featured
 image: images/featured-post/primärgrupp_avident1.jpg
 categories:
-  - Kommunikation som konst
+  - att vara sej själv
 tags:
   - Iris
   - Kommunikation som konst
