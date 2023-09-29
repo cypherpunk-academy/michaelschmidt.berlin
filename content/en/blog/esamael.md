@@ -3,7 +3,7 @@ title: "Listening as art"
 date: 2023-02-10
 description: coming soon ...
 type: featured
-image: images/featured-post/sunset-boat-berlin.jpg
+image: images/featured-post/ear2.png
 categories:
   - Being there, being open
 tags:

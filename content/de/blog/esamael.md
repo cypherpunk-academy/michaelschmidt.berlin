@@ -3,7 +3,7 @@ title: "Zuhören als Kunst"
 date: 2023-02-10
 description: kommt bald ...
 type: featured
-image: images/featured-post/sunset-boat-berlin.jpg
+image: images/featured-post/ear2.png
 categories:
   - bei sich und beim anderen sein
 tags:

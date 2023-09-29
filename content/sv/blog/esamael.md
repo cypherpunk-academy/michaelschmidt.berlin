@@ -3,7 +3,7 @@ title: "Lyssnande som konst"
 date: 2023-02-10
 descriptio: kommer snart ...
 type: featured
-image: images/featured-post/sunset-boat-berlin.jpg
+image: images/featured-post/ear2.png
 categories:
   - friskvård
 tags:

@@ -3,7 +3,7 @@ title: "Исамаил: Слушание, доверие"
 date: 2023-02-10
 description: скоро ...
 type: featured
-image: images/featured-post/sunset-boat-berlin.jpg
+image: images/featured-post/ear2.png
 categories:
   - Быть там, быть открытым
 tags:
