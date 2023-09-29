@@ -2,7 +2,7 @@
 title: "Lyssnande som konst"
 date: 2023-02-10
 description: >
-Talang och konst. För att lyssna. För att kunna lyssna. Talang går inte att skaffa sej. Alla kan lyssna men inte alla kan lyssna på samma sätt. Tyvärr är livet så "orättvist". Vi föds med våra talanger och det är så olika vad vi har med oss i livet. Det vi alltid kan göra oavsett vad vi själva får med oss i livet är att njuta av våra egna och andras talanger - om dom får vara med i livet, om dom tas i bruk av oss själva och andra. Talanger är som levande frön. Dom växer om dom är på en plats som passar dom att växa i. Esamael har sin klara talang för att lyssna. Att be honom om att få vara i det lyssnandet är dubbel nytta, han får leva sin talang och du får användning av den och den växer. Det är den egentliga "tillväxtekonomin".
+"Talang och konst. För att lyssna. För att kunna lyssna. Talang går inte att skaffa sej. Alla kan lyssna men inte alla kan lyssna på samma sätt. Tyvärr är livet så "orättvist". Vi föds med våra talanger och det är så olika vad vi har med oss i livet. Det vi alltid kan göra oavsett vad vi själva får med oss i livet är att njuta av våra egna och andras talanger - om dom får vara med i livet, om dom tas i bruk av oss själva och andra. Talanger är som levande frön. Dom växer om dom är på en plats som passar dom att växa i. Esamael har sin klara talang för att lyssna. Att be honom om att få vara i det lyssnandet är dubbel nytta, han får leva sin talang och du får användning av den och den växer. Det är den egentliga "tillväxtekonomin".
 
 Esamaels lyssnarkonst
 
@@ -15,7 +15,7 @@ Och det är här som Esamaels lyssnarkonst kommer in. Han lever som lyssnarkonst
 
 Du kan ringa när som helst. Även på natten. Esamael svarar så ofta han kan.
 Att ha den möjligheten att berätta hur en har det, hur det här och nu känns, att gråta, att skrika, att skratta, att bara få vara, vara den man är, det är det som Esamael erbjuder en genom sin lyssnarkonst.
-Han erbjuder detta som månadsabonemang och en ringer så ofta en behöver. 1500 kr kostar det. Vill du testa så kan du göra det under en tiodagarsperiod. Ring då gärna ofta så att du märker hur det är att ha den lyssnarvänkontakten. Att testa kostar inget. Hör av dej.
+Han erbjuder detta som månadsabonemang och en ringer så ofta en behöver. 1500 kr kostar det. Vill du testa så kan du göra det under en tiodagarsperiod. Ring då gärna ofta så att du märker hur det är att ha den lyssnarvänkontakten. Att testa kostar inget. Hör av dej."
 type: featured
 image: images/featured-post/ear2.png
 categories:
