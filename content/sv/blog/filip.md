@@ -21,12 +21,7 @@ tags:
 translation: original
 
 ---
-Nästa online-klangkväll är den 
-
-6e Oktober kl. 18.30
-
-
-(🏗️ denna sida är fortfarande under uppbyggnad, planerad här är ...)
+Nästa klangkväll är den 6 oktober kl. 18.30
 
 - En filosofisk introduktion till hans musik av Filip
 - En kalender med ljudkvällar och andra evenemang.
