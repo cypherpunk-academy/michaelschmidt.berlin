@@ -18,7 +18,7 @@ categories:
 tags:
   - Ljud
   - Ljudstol
-translation: auto
+translation: original
 
 ---
 Nästa online-klangkväll är den 
