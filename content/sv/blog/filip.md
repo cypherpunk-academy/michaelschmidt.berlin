@@ -21,6 +21,11 @@ tags:
 translation: auto
 
 ---
+Nästa online-klangkväll är den 
+
+6e Oktober kl. 18.30
+
+
 (🏗️ denna sida är fortfarande under uppbyggnad, planerad här är ...)
 
 - En filosofisk introduktion till hans musik av Filip
