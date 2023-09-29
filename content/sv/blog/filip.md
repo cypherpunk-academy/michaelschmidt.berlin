@@ -12,7 +12,7 @@ description: >
   för varandra. Han översätter också kurser och enskilda möten och böcker av
   Iris.
 type: featured
-image: images/filip/hands-sound-table.jpg
+image: images/filip/ONLINE2.png
 categories:
   - friskvård
 tags:
