@@ -1,14 +1,13 @@
 ---
-title: A title
+title: Sophia
 date: Tue Mar 28 2023 10:06:33 GMT+0200 (Central European Summer Time)
-description: A description
+description: Die Weihnachtsgeschichte, neu erzählt
 type: featured
-image: images/featured-post/rock-people-sky.jpg
+image: images/sophia.jpg
+weight: 4
 author: An author
 categories:
-  - "1"
-  - "2"
-  - "3"
+  - Weihnachtsgeschichte
 tags:
   - A
   - B

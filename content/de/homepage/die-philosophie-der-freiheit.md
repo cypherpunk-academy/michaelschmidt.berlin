@@ -1,24 +1,18 @@
 ---
-title: "Iris: Primärarbeit und primäre Gedankenarbeit"
-date: 2023-02-12
+title: "Die Philosophie der Freiheit"
 layout: "2"
 type: featured
-description: This is meta description
-image: images/featured-post/rock-people-sky.jpg
+description: Die Philosophie von Rudolf Steiner in neuer Form – online und offline
+image: images/dpdf.jpg
+weight: 3
 categories:
-  - Kommunikation als Kunst
+  - Rudolf Steiner
 tags:
-  - Iris
-  - Kommunikation als Kunst
-  - Primärarbeit
+  - Rudolf Steiner
+  - Buch
 translation: original
-
-
-
-
-
-
-
 ---
 
-TEST
+miro 1
+
+miro 2

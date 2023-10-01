@@ -1,0 +1,155 @@
+baseurl: 'https://cypherpunk-academy.github.io/michaelschmidt.berlin'
+languageCode: de-DE
+title: Allgemeine Gedankenfehler - Herausforderungen auf dem Weg zur Freiheit
+theme: parsa-hugo
+summaryLength: '10'
+paginate: 6
+defaultContentLanguage: de
+defaultContentLanguageInSubdir: 'true'
+googleAnalytics: ''
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+params:
+  plugins:
+    css:
+      - link: plugins/bootstrap/bootstrap.min.css
+      - link: plugins/slick/slick.css
+      - link: plugins/themify-icons/themify-icons.css
+    js:
+      - link: plugins/jQuery/jquery.min.js
+      - link: plugins/bootstrap/bootstrap.min.js
+      - link: plugins/slick/slick.min.js
+      - link: plugins/headroom/headroom.js
+      - link: plugins/instafeed/instafeed.min.js
+      - link: plugins/masonry/masonry.js
+      - link: plugins/reading-time/readingTime.min.js
+      - link: plugins/smooth-scroll/smooth-scroll.js
+      - link: plugins/search/fuse.min.js
+      - link: plugins/search/mark.js
+      - link: plugins/search/search.js
+  logo: images/logo.png
+  home: Home
+  layout: '1'
+  description: This is meta description
+  preloader: true
+  search: true
+  author: Michael Schmidt
+  author_image: images/banner-img.png
+  bio: ...
+  mobile: +49 163 ... ... ...
+  email: michael@epikur.berlin
+  addressLabel: Address 2
+  address: 'Turiner Straße 21, 13347 Berlin'
+  contactLabel: Contact Info
+  contact_form_action: '#'
+  copyright: 'Copyright &copy; 2023 a theme by [themefisher.com](https://themefisher.com)'
+  readmore: read more
+  postBy: Post by
+  searchLabel: Search
+  instafeed:
+    enable: true
+    access_token: >-
+      IGQVJYeUk4YWNIY1h4OWZANeS1wRHZARdjJ5QmdueXN2RFR6NF9iYUtfcGp1NmpxZA3RTbnU1MXpDNVBHTzZAMOFlxcGlkVHBKdjhqSnUybERhNWdQSE5hVmtXT013MEhOQVJJRGJBRURn
+  cookies:
+    enable: true
+    expire_days: 2
+  social:
+    - icon: ti-facebook
+      link: 'https://facebook.com/themefisher'
+    - icon: ti-twitter-alt
+      link: '#'
+    - icon: ti-linkedin
+      link: '#'
+    - icon: ti-github
+      link: '#'
+languages:
+  de:
+    contentDir: content/de
+    title: Allgemeine Gedankenfehler des westlichen Kultur
+    languageName: Deutsch
+    weight: 1
+    params:
+      home: "\U0001F3E0"
+      readmore: weiter
+      languageNameShort: de
+      addressLabel: Adresse 3
+      contactLabel: Kontakt
+      postBy: Beitrag von
+      searchLabel: Suche
+      latestPosts: NEUE POSTS
+      languageFlag: "\U0001F1E9\U0001F1EA"
+    menu:
+      main:
+        - name: "\U0001F3E0"
+          url: de
+        - parent: "\U0001F3E0"
+          name: Gedankenfehler
+          url: de/homepage/gedankenfehler/
+          weight: 1
+        - parent: Gedankenfehler
+          name: Erziehung
+          url: de/homepage/gedankenfehler/erziehung
+          weight: 1
+        - parent: Gedankenfehler
+          name: Fehler machen
+          url: de/homepage/gedankenfehler/fehler
+          weight: 2
+        - parent: Gedankenfehler
+          name: Zufriedenheit
+          url: de/homepage/gedankenfehler/zufriedenheit
+          weight: 3
+        - parent: Gedankenfehler
+          name: Angst
+          url: de/homepage/gedankenfehler/angst
+          weight: 4
+        - parent: Gedankenfehler
+          name: Worte
+          url: de/homepage/gedankenfehler/worte
+          weight: 5
+        - parent: "\U0001F3E0"
+          name: Die Philosophie der Freiheit
+          url: de/homepage/dpdf/
+          weight: 2
+        - parent: "\U0001F3E0"
+          name: 2064 - Cypherpunks
+          url: de/homepage/2064/
+          weight: 3
+        - parent: "\U0001F3E0"
+          name: Sophia
+          url: de/homepage/sophia/
+          weight: 4
+        - parent: "\U0001F3E0"
+          name: Verschiedenes
+          url: de/homepage/verschiedenes/
+          weight: 5
+menu:
+  main:
+    - name: Home
+      url: ''
+      weight: 1
+      hasChildren: true
+    - parent: Home
+      name: Das Spielzimmer
+      url: homepage/playroom/
+    - parent: Home
+      name: Iris
+      url: homepage/iris/
+    - parent: Home
+      name: Filip
+      url: homepage/filip/
+    - parent: Home
+      name: Esamael
+      url: homepage/esamael/
+    - name: About
+      url: about/
+      weight: 2
+    - name: Contact
+      url: contact/
+      weight: 3
