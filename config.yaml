@@ -115,7 +115,7 @@ languages:
           weight: 5
         - parent: "\U0001F3E0"
           name: Die Philosophie der Freiheit
-          url: de/homepage/die-philosopie-der-freiheit
+          url: de/homepage/die-philosophie-der-freiheit/
           weight: 2
         - parent: "\U0001F3E0"
           name: 2064 - Cypherpunks
