@@ -1,7 +1,6 @@
 ---
 title: Primär-Wochenende, 3. - 5. März 2023, Berlin
 date: 2023-02-12T08:47:11.200Z
-expiryDate: 2023-03-05T17:00:00.200Z
 description: WILLKOMMEN zu einem WOCHENENDE mit PRIMÄRARBEIT, PRIMÄREM SPIEL und
   2 KLANGABENDE
 type: post
