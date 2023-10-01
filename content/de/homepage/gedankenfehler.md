@@ -7,11 +7,8 @@ image: images/gedankenfehler.jpg
 author: An author
 weight: 1
 categories:
-  - Gedankenfehler
+  - 3 von 48
 tags:
-  - A
-  - B
-  - C
 translation: original
 
 
