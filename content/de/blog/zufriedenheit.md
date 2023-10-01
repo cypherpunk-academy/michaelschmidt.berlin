@@ -1,5 +1,5 @@
 ---
-title: Zufriedensein heißt, Bedürfnisse sind erfüllt
+title: Zufriedensein heißt, alle Bedürfnisse sind erfüllt
 date: 2023-10-01T08:47:11.200Z
 description: tbd
 type: post
