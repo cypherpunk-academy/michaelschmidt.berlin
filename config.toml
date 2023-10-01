@@ -1,11 +1,11 @@
 # default config
-baseurl = "https://cypherpunk-academy.github.io/michaelschmidt.berlin"
+baseurl = "https://www.michaelschmidt.berlin"
 languageCode = "de-DE"
-title = "Der Garten des Epikur | Spielplatz für Kinder und Erwachsene"
+title = "Allgemeine Gedankenfehler - Herausforderungen auf dem Weg zur Freiheit"
 theme = "parsa-hugo"
 summaryLength = "10"
 paginate = 6
-defaultContentLanguage = "en"
+defaultContentLanguage = "de"
 defaultContentLanguageInSubdir = "true"
 
 # google analytics
@@ -53,12 +53,12 @@ link = "plugins/search/search.js"
 [languages]
   [languages.de]
     contentDir = "content/de"
-    title = 'Der Garten des Epikur | Spielplatz für Kinder und Erwachsene'
+    title = 'Allgemeine Gedankenfehler des westlichen Kultur'
     languageName = "Deutsch"
     languageNameShort = "de"
     languageFlag = "🇩🇪"
     addressLabel = "Adresse"
-    contactLabel = "Kontaktinfo"
+    contactLabel = "Kontakt"
     postBy = "Beitrag von"
     searchLabel = "Suche"
     latestPosts = "NEUE POSTS"
@@ -67,130 +67,71 @@ link = "plugins/search/search.js"
     [languages.de.params]
       home = "🏠"
       readmore = "weiter"
+
     [[languages.de.menu.main]]
       name = '🏠'
       url = 'de'
-    [[languages.de.menu.main]]
-      parent = "🏠"
-      name = "Das Spielzimmer"
-      url = "de/homepage/playroom/"
-      weight = 1
 
     [[languages.de.menu.main]]
       parent = "🏠"
-      name = "Iris"
-      url = "de/homepage/iris/"
+      name = "Gedankenfehler"
+      url = "de/homepage/gedankenfehler/"
       weight = 1
 
     [[languages.de.menu.main]]
+      parent = "Gedankenfehler"
+      name = "Erziehung"
+      url = "de/homepage/gedankenfehler/erziehung"
+      weight = 1
+
+    [[languages.de.menu.main]]
+      parent = "Gedankenfehler"
+      name = "Fehler machen"
+      url = "de/homepage/gedankenfehler/fehler"
+      weight = 2
+
+    [[languages.de.menu.main]]
+      parent = "Gedankenfehler"
+      name = "Zufriedenheit"
+      url = "de/homepage/gedankenfehler/zufriedenheit"
+      weight = 3
+
+    [[languages.de.menu.main]]
+      parent = "Gedankenfehler"
+      name = "Angst"
+      url = "de/homepage/gedankenfehler/angst"
+      weight = 4
+
+    [[languages.de.menu.main]]
+      parent = "Gedankenfehler"
+      name = "Worte"
+      url = "de/homepage/gedankenfehler/worte"
+      weight = 5
+
+    [[languages.de.menu.main]]
       parent = "🏠"
-      name = "Filip"
-      url = "de/homepage/filip/"
+      name = "Die Philosophie der Freiheit"
+      url = "de/homepage/dpdf/"
       weight = 2
 
     [[languages.de.menu.main]]
       parent = "🏠"
-      name = "Esamael"
-      url = "de/homepage/esamael/"
+      name = "2064 - Cypherpunks"
+      url = "de/homepage/2064/"
       weight = 3
 
-  [languages.en]
-    contentDir = "content/en"
-    title = 'The Garden of Epicurus | Playground for children and adults'
-    languageName = "English"
-    languageNameShort = "en"
-    languageFlag = "🇬🇧"
-    weight = 2
-    [[languages.en.menu.main]]
-      name = 'Home'
-
-    latestPosts = "LATEST POSTS"
-
-  [languages.sv]
-    contentDir = "content/sv"
-    title = 'Epikurus trädgård | Lekplats för barn och vuxna'
-    languageName = "Svenska"
-    languageNameShort = "sv"
-    languageFlag = "🇸🇪"
-    addressLabel = "Adress"
-    contactLabel = "Kontaktuppgifter"
-    postBy = "Post av"
-    searchLabel = "Sök på"
-    weight = 3
-    latestPosts = "SENASTE INLÄGGET"
-    
-    [languages.sv.params]
-      home = "🏠"
-      readmore = "läs mer"
-    [[languages.sv.menu.main]]
-      name = '🏠'
-      url = 'sv'
-    [[languages.sv.menu.main]]
+    [[languages.de.menu.main]]
       parent = "🏠"
-      name = "Das Spielzimmer"
-      url = "sv/homepage/playroom/"
-      weight = 1
+      name = "Sophia"
+      url = "de/homepage/sophia/"
+      weight = 4
 
-    [[languages.sv.menu.main]]
+    [[languages.de.menu.main]]
       parent = "🏠"
-      name = "Iris"
-      url = "sv/homepage/iris/"
-      weight = 1
+      name = "Verschiedenes"
+      url = "de/homepage/verschiedenes/"
+      weight = 5
 
-    [[languages.sv.menu.main]]
-      parent = "🏠"
-      name = "Filip"
-      url = "sv/homepage/filip/"
-      weight = 2
-
-    [[languages.sv.menu.main]]
-      parent = "🏠"
-      name = "Esamael"
-      url = "sv/homepage/esamael/"
-      weight = 3
-
-  [languages.ru]
-    contentDir = "content/ru"
-    title = 'Der Garten des Epikur | Spielplatz für Kinder und Erwachsene'
-    languageName = "Deutsch"
-    languageNameShort = "ru"
-    languageFlag = "🇷🇺"
-    addressLabel = "Adresse"
-    contactLabel = "Kontaktinfo"
-    postBy = "Beitrag von"
-    searchLabel = "Suche"
-    latestPosts = "ПОСЛЕДНИЙ ПОСТ"
-
-    weight = 1
-    [languages.ru.params]
-      home = "🏠"
-      readmore = "weiter"
-    [[languages.ru.menu.main]]
-      name = '🏠'
-      url = 'ru'
-    [[languages.ru.menu.main]]
-      parent = "🏠"
-      name = "Das Spielzimmer"
-      url = "ru/homepage/playroom/"
-      weight = 1
-
-    [[languages.ru.menu.main]]
-      parent = "🏠"
-      name = "Iris"
-      url = "ru/homepage/iris/"
-      weight = 1
-
-    [[languages.ru.menu.main]]
-      parent = "🏠"
-      name = "Filip"
-      url = "ru/homepage/filip/"
-      weight = 2
-
-    [[languages.ru.menu.main]]
-      parent = "🏠"
-      name = "Esamael"
-      url = "ru/homepage/esamael/"
-      weight = 3
 # navigation
 [[menu.main]]
 name = "Home"
@@ -230,7 +171,7 @@ weight = 3
 
 # devault parameter
 [params]
-logo = "images/logo2.png"
+logo = "images/logo1.png"
 home = "Home"
 layout = "1"
 description = "This is meta description"
@@ -240,7 +181,7 @@ author = "Michael Schmidt"
 author_image = "images/banner-img.png"
 bio = "..."
 mobile = "+49 163 ... ... ..."
-email = "filip.wall@anklang.se"
+email = "michael@epikur.berlin"
 addressLabel = "Address"
 address = "Turiner Straße 21, 13347 Berlin"
 contactLabel = "Contact Info"

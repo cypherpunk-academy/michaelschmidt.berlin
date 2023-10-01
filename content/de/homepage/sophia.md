@@ -2,8 +2,8 @@
 title: A title
 date: Tue Mar 28 2023 10:06:33 GMT+0200 (Central European Summer Time)
 description: A description
-type: A type
-image: A relative image URL
+type: featured
+image: images/featured-post/rock-people-sky.jpg
 author: An author
 categories:
   - "1"
