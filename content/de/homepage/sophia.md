@@ -7,7 +7,7 @@ image: images/sophia.jpg
 weight: 4
 author: An author
 categories:
-  - Weihnachtsgeschichte
+  - Die Weihnachtsgeschichte
 tags:
   - A
   - B
