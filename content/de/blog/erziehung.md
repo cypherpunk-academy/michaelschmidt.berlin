@@ -1,5 +1,5 @@
 ---
-title: Ich muss mein Kind erziehen
+title: 1 Ich muss mein Kind erziehen
 date: 2023-10-01T08:47:11.200Z
 description: >
   So wenig wie es Pflanzen in ihrer Entwicklung hilft, wenn man an ihnen zieht, so wenig hilft es der Entwicklung von Menschen, wenn man sie erzieht.
@@ -7,6 +7,7 @@ description: >
   <br />
   Nicht? 
 type: post
+weight: 1
 image: images/gedankenfehler/erziehung.png
 author: Michael
 categories:
