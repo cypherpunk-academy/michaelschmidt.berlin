@@ -4,6 +4,7 @@ date: 2023-10-01T08:47:11.200Z
 description: >
   Nichts freut so sehr wie ein korrigierter Fehler, ein Wiedersehen, eine überstandene Krankheit oder ein Wiederaufstehen aus einer ausweglosen Lage. Um das zu erleben muss ich Fehler machen, weggehen, krank werden oder stecken bleiben.  
   <br />
+  <br />
   Mehr dazu? 
 type: post
 image: images/gedankenfehler/fehler-machen.png
