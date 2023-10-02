@@ -7,7 +7,7 @@ description: >
   <br />
   Zu einfach gedacht?
 type: post
-image: images/gedankenfehler/fehler-machen.png
+image: images/gedankenfehler/zufriedenheit.png
 author: Michael
 categories:
   - Zufriedenheit
