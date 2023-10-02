@@ -1,5 +1,5 @@
 ---
-title: Sophia
+title: Sophia und Josef
 date: Tue Mar 28 2023 10:06:33 GMT+0200 (Central European Summer Time)
 description: Die Weihnachtsgeschichte, neu erzählt
 type: featured
@@ -9,19 +9,7 @@ author: An author
 categories:
   - Die Weihnachtsgeschichte
 tags:
-  - A
-  - B
-  - C
 translation: original
-
-
-
-
-
-
-
 ---
----
-title: "Homepage 1"
-layout: "1"
----
+
+komm wieder am 1. Dezember um 0:00.

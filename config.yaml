@@ -43,9 +43,9 @@ params:
   author: Michael Schmidt
   author_image: images/banner-img.png
   bio: ...
-  mobile: +49 163 ... ... ...
-  email: michael@epikur.berlin
-  addressLabel: Address 2
+  mobile: 
+  email:
+  addressLabel: Address
   address: 'Turiner Straße 21, 13347 Berlin'
   contactLabel: Contact Info
   contact_form_action: '#'
@@ -79,7 +79,7 @@ languages:
       home: "\U0001F3E0"
       readmore: weiter
       languageNameShort: de
-      addressLabel: Adresse 3
+      addressLabel: Adresse
       contactLabel: Kontakt
       postBy: Beitrag von
       searchLabel: Suche
@@ -115,7 +115,7 @@ languages:
           weight: 5
         - parent: "\U0001F3E0"
           name: Die Philosophie der Freiheit
-          url: de/homepage/dpdf/
+          url: de/homepage/die-philosophie-der-freiheit/
           weight: 2
         - parent: "\U0001F3E0"
           name: 2064 - Cypherpunks
