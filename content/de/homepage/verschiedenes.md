@@ -14,9 +14,9 @@ translation: original
 
 ###### 2000
 
-[![Knowledge Communities](/michaelschmidt.berlin/images/knowledge-communities.png)](https://www.amazon.de/gp/product/3827316758)
+[![Knowledge Communities](/images/knowledge-communities.png)](https://www.amazon.de/gp/product/3827316758)
 
 ###### 2004
 
-[![Der Abgrund der Freiheit und die erste Liebe](/michaelschmidt.berlin/images/der-abgrund-der-freiheit.png)](https://www.amazon.de/gp/product/3937078487)
+[![Der Abgrund der Freiheit und die erste Liebe](/images/der-abgrund-der-freiheit.png)](https://www.amazon.de/gp/product/3937078487)
 
