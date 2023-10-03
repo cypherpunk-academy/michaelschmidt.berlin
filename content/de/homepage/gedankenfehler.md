@@ -40,11 +40,18 @@ Um alle Aspekte der Gedanken anzuschauen, sollen sie in sieben, aufeinander aufb
 
 <div class="gedanken">
 
-| |  | | | |
+| | | | | |
 | ---------- | --------- | --------- | --------- | --------- |
 | [![Erziehung](/images/gedankenfehler/erziehung.png)](https://miro.com/app/board/uXjVM3o2LkA=/?share_link_id=218039651414) | [![Fehler machen](/images/gedankenfehler/fehler-machen.png)](https://miro.com/app/board/uXjVMzmjJLY=/?share_link_id=80970369425) | [![Zufriedenheit](/images/gedankenfehler/zufriedenheit.png)](https://miro.com/app/board/uXjVMwDwRrg=/?share_link_id=988464589278) | [![Angst](/images/gedankenfehler/erziehung.png)](https://miro.com/app/board/uXjVMwC5Y9g=/?share_link_id=385384185787) | [![Worte](/images/gedankenfehler/erziehung.png)](https://miro.com/app/board/uXjVMwDwRhI=/?share_link_id=846262027172) |
 | **Erziehung** | **Fehler machen** | **Zufriedenheit** | **Angst** (in Vorbereitung) | **Worte** (in Vorbereitung) |
 | ...weitere 44 | |  |  |  |
+
+**Bitte verwendet die Kommentar-Funktion in den miro-Boards, wenn ihr etwas zu den Gedankenfehlern sagen wollt.**  
+Besonders interessant für mich sind zur Zeit:
+- Ebene 1: Fehlende Fragen
+- Ebene 2: Logikfehler, passende Zitate
+- Ebene 3: Weitere Beispiele aus dem Leben, passende Filmstellen aus Kinofilmen
+- Rechtschreibfehler
 
 </div>
 
