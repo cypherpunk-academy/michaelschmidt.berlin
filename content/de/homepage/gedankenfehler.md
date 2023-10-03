@@ -24,7 +24,7 @@ translation: original
 #### Aufgabe
 
 Das Ziel ist die wirkungsvollsten dieser Kultur-gewordenen Gedankenfehler herauszufinden und nachvollziehbar zu machen.
-Um alle Aspekte der Gedanken anzuschauen, sollen sie in sieben, aufeinander aufbauenden Ebenen dargestellt werden.
+Um verschiedene Aspekte der Gedanken anzuschauen, sollen sie in sieben, aufeinander aufbauenden Ebenen dargestellt werden.
 
 **Ebene 1:** Die Fragestellung: Wie lebt der Gedankenfehler im Alltag? In welchen Aussagen versteckt er sich?  
 **Ebene 2:** Welcher Gedanke kann den Gedankenfehler in Ebene 1 sichtbar machen?  
