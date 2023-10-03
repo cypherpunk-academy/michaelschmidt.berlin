@@ -7,7 +7,7 @@ image: images/sophia.jpg
 weight: 4
 author: An author
 categories:
-  - Die Weihnachtsgeschichte
+  - Die Weihnachtsgeschichte ..... neu erzählt
 tags:
 translation: original
 ---
