@@ -24,4 +24,5 @@ translation: original
 
 ##### E R Z I E H U N G
 
+<a name="miro-board">
 <iframe width="100%" height="432" src="https://miro.com/app/live-embed/uXjVM3o2LkA=/?moveToViewport=-3342,1231,9005,3253&embedId=334850693654" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>

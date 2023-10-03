@@ -904,3 +904,7 @@ audio::-webkit-media-controls-enclosure {
   background-color: rgb(252, 222, 203)
 }
 
+.gedanken td {
+  text-align: center;
+  padding: 5px;
+}

@@ -129,27 +129,3 @@ languages:
           name: Verschiedenes
           url: de/homepage/verschiedenes/
           weight: 5
-menu:
-  main:
-    - name: Home
-      url: ''
-      weight: 1
-      hasChildren: true
-    - parent: Home
-      name: Das Spielzimmer
-      url: homepage/playroom/
-    - parent: Home
-      name: Iris
-      url: homepage/iris/
-    - parent: Home
-      name: Filip
-      url: homepage/filip/
-    - parent: Home
-      name: Esamael
-      url: homepage/esamael/
-    - name: About
-      url: about/
-      weight: 2
-    - name: Contact
-      url: contact/
-      weight: 3
