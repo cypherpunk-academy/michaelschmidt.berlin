@@ -13,6 +13,13 @@ author: Michael
 categories:
   - Zufriedenheit
 tags:
+  - Zufriedenheit
+  - Vertrauen
+  - Fehler machen
+  - Bedürfnisse
+  - Freiheit
+  - Trennung
+  - Angst  
 translation: original
 ---
 

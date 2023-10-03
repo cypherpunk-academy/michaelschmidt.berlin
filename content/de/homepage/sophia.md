@@ -9,7 +9,12 @@ author: An author
 categories:
   - Die Weihnachtsgeschichte ..... neu erzählt
 tags:
+  - Weihnachtsgeschichte
+  - Sophia
+  - Maria
+  - Josef
 translation: original
 ---
 
-komm wieder am 1. Dezember um 0:00.
+DIE WEIHNACHTSGESCHICHTE .... NEU ERZÄHLT, in 28 Teilen (Tagen)
+##### Komm wieder am 1. Dezember um 6:00 Uhr morgens! 

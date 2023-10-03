@@ -1,28 +1,22 @@
 ---
-title: A title
+title: Verschiedenes
 date: Tue Mar 28 2023 10:06:33 GMT+0200 (Central European Summer Time)
 description: A description
 type: A type
 image: images/featured-post/rock-people-sky.jpg
 author: An author
 categories:
-  - "1"
-  - "2"
-  - "3"
+  - Der Abgrund der Freiheit und die erste Liebe
 tags:
-  - A
-  - B
-  - C
 translation: original
-
-
-
-
-
-
-
 ---
----
-title: "Homepage 1"
-layout: "1"
----
+##### V E R S C H I E D E N E S
+
+###### 2000
+
+[![Knowledge Communities](/michaelschmidt.berlin/images/knowledge-communities.png)](https://www.amazon.de/gp/product/3827316758)
+
+###### 2004
+
+[![Der Abgrund der Freiheit und die erste Liebe](/michaelschmidt.berlin/images/der-abgrund-der-freiheit.png)](https://www.amazon.de/gp/product/3937078487)
+

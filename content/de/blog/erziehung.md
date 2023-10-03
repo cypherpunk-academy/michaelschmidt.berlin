@@ -13,6 +13,12 @@ author: Michael
 categories:
   - Erziehung
 tags:
+  - Fehler machen
+  - Zufriedenheit
+  - Erziehung
+  - Gewinnen
+  - Angst
+  - Ehrgeiz
 translation: original
 ---
 

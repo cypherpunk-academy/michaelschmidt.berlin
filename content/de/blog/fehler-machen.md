@@ -13,6 +13,13 @@ author: Michael
 categories:
   - Fehler
 tags:
+  - Ergeiz
+  - Worte
+  - Erziehung
+  - Fehler machen
+  - Angst
+  - Zufriedenheit
+  - Vertrauen
 translation: original
 ---
 

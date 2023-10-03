@@ -10,15 +10,4 @@ categories:
   - 3 von 48
 tags:
 translation: original
-
-
-
-
-
-
-
----
----
-title: "Homepage 2"
-layout: "2"
 ---
