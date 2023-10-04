@@ -28,7 +28,7 @@
         </ul>
         <article class="content">
           {{ if .Params.ImageLink }}
-            <a href="{{.Params.ImageLink }}">
+            <a href="{{.Params.ImageLink }}" target="_blank">
               <img src="{{.Params.Image | absURL }}" width="{{.Params.ImageWidth}}" alt="post-thumb" class="img-fluid rounded float-left mr-5 mb-4">
             </a>
           {{ else }}
