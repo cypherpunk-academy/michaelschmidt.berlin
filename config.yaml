@@ -85,6 +85,19 @@ languages:
       searchLabel: Suche
       latestPosts: NEUE POSTS
       languageFlag: "\U0001F1E9\U0001F1EA"
+      miroExplain: >
+        (Klicke auf das Bild oben, um den Gedankenfehler in einem miro-Board zu öffnen. Zurück geht's mit Tab schließen.)  
+
+        Dort kannst du
+
+        - Ein- und auszoomen, mit der CTRL-Taste (Windows / Linux) oder der Command-Taste (Mac)
+
+        - Texte kommentieren  
+
+        - Links auf bestimmte Texte teilen
+
+        - Texte als Text oder als Bild kopieren  
+
     menu:
       main:
         - name: "\U0001F3E0"

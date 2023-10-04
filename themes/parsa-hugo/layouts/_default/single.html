@@ -34,6 +34,9 @@
           {{ else }}
             <img src="{{.Params.Image | absURL }}" width="{{.Params.ImageWidth}}" alt="post-thumb" class="img-fluid rounded float-left mr-5 mb-4">
           {{ end }}
+          {{ if .Params.MiroExplain }}
+            {{.Site.Params.MiroExplain | markdownify}}
+          {{ end }}
           {{.Content}}
         </article>
       </div>

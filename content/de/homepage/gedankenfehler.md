@@ -1,13 +1,13 @@
 ---
 title: Allgemeine Gedankenfehler der westlichen Kultur
-date: Tue Mar 28 2023 10:03:24 GMT+0200 (Central European Summer Time)
+date: Tue Mar 28 1895 10:03:24 GMT+0200 (Central European Summer Time)
 description: A description
 type: featured
 image: images/gedankenfehler.jpg
 author: An author
 weight: 1
 categories:
-  - 3 von 49
+  - 3 von 25
 tags:
 translation: original
 ---
@@ -48,7 +48,7 @@ Um verschiedene Aspekte der Gedanken anzuschauen, sollen sie in sieben, aufeinan
 | ---------- | --------- | --------- | --------- | --------- |
 | [![Erziehung](/images/gedankenfehler/erziehung.png)](https://miro.com/app/board/uXjVM3o2LkA=/?share_link_id=218039651414) | [![Fehler machen](/images/gedankenfehler/fehler-machen.png)](https://miro.com/app/board/uXjVMzmjJLY=/?share_link_id=80970369425) | [![Zufriedenheit](/images/gedankenfehler/zufriedenheit.png)](https://miro.com/app/board/uXjVMwDwRrg=/?share_link_id=988464589278) | [![Angst](/images/gedankenfehler/erziehung.png)](https://miro.com/app/board/uXjVMwC5Y9g=/?share_link_id=385384185787) | [![Worte](/images/gedankenfehler/erziehung.png)](https://miro.com/app/board/uXjVMwDwRhI=/?share_link_id=846262027172) |
 | **Erziehung** | **Fehler machen** | **Zufriedenheit** | **Angst** (in Vorbereitung) | **Worte** (in Vorbereitung) |
-| ...weitere 44 | |  |  |  |
+| ...weitere 2<a href="/de/plan">0</a> | |  |  |  |
 
 **Bitte verwendet die Kommentar-Funktion in den miro-Boards, wenn ihr etwas zu den Gedankenfehlern sagen wollt.**  
 Besonders interessant für mich sind zur Zeit:
