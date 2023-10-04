@@ -9,6 +9,7 @@ description: >
 type: post
 weight: 3
 image: images/gedankenfehler/zufriedenheit.png
+imageLink: https://miro.com/app/live-embed/uXjVMwDwRrg=/?moveToViewport=-7535,-1756,9034,3270&embedId=62842060212
 author: Michael
 categories:
   - Zufriedenheit
@@ -24,6 +25,3 @@ translation: original
 ---
 
 ##### Z U F R I E D E N H E I T
-
-<a name="miro-board">
-<iframe width="100%" height="432" src="https://miro.com/app/live-embed/uXjVMwDwRrg=/?moveToViewport=-7535,-1756,9034,3270&embedId=62842060212" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>

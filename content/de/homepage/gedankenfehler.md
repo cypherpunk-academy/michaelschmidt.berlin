@@ -11,6 +11,7 @@ categories:
 tags:
 translation: original
 ---
+##### &nbsp;
 #### Allgemeine Gedankenfehler der westlichen Kultur
 | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;|  |
 | ----------    | --------- |
@@ -21,6 +22,7 @@ translation: original
 | **Kultur**        | in der dort gewohnten Kommunikations- und Verhaltensweise|
 
 
+##### &nbsp;
 #### Aufgabe
 
 Das Ziel ist die wirkungsvollsten dieser Kultur-gewordenen Gedankenfehler herauszufinden und nachvollziehbar zu machen.
@@ -36,7 +38,9 @@ Um verschiedene Aspekte der Gedanken anzuschauen, sollen sie in sieben, aufeinan
 
 *Alles hier ist nur Versuch*, nicht endgültige Lösung. Alles ist im Fluss. Deswegen ist es für jeden möglich, in den Miro-Boards der einzelnen Gedanken, zu kommentieren. Die Kommentare sind für andere sichtbar und sie werden gegebenenfalls eingearbeitet.
 
-#### miro Boards (zum Kommentieren)
+##### &nbsp;
+#### miro Boards
+ (zum Lesen und Kommentieren)
 
 <div class="gedanken">
 
@@ -55,6 +59,7 @@ Besonders interessant für mich sind zur Zeit:
 
 </div>
 
+##### &nbsp;
 #### Ausdrucken
 
 **Schritt 1:** miro Board im Browser aufrufen  

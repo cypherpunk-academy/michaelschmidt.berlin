@@ -27,7 +27,13 @@
           <li class="list-inline-item background-item"><i class="ti-calendar mr-2"></i>{{ .PublishDate.Format "Jan 02, 2006" }}</li>
         </ul>
         <article class="content">
-          <img src="{{.Params.Image | absURL }}" width="{{.Params.ImageWidth}}" alt="post-thumb" class="img-fluid rounded float-left mr-5 mb-4">
+          {{ if .Params.ImageLink }}
+            <a href="{{.Params.ImageLink }}">
+              <img src="{{.Params.Image | absURL }}" width="{{.Params.ImageWidth}}" alt="post-thumb" class="img-fluid rounded float-left mr-5 mb-4">
+            </a>
+          {{ else }}
+            <img src="{{.Params.Image | absURL }}" width="{{.Params.ImageWidth}}" alt="post-thumb" class="img-fluid rounded float-left mr-5 mb-4">
+          {{ end }}
           {{.Content}}
         </article>
       </div>
