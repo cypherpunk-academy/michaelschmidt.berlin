@@ -49,7 +49,7 @@ params:
   address: 'Turiner Straße 21, 13347 Berlin'
   contactLabel: Contact Info
   contact_form_action: '#'
-  copyright: 'Copyright &copy; 2023 a theme by [themefisher.com](https://themefisher.com)'
+  copyright: 'Copyright &copy; 2023 based on [themefisher.com](https://themefisher.com), special thanks to [Miro](https://miro.com)'
   readmore: read more
   postBy: Post by
   searchLabel: Search
@@ -62,13 +62,11 @@ params:
     expire_days: 2
   social:
     - icon: ti-facebook
-      link: 'https://facebook.com/themefisher'
+      link: 'https://www.facebook.com/profile.php?id=61551693854428'
     - icon: ti-twitter-alt
-      link: '#'
-    - icon: ti-linkedin
-      link: '#'
+      link: 'https://twitter.com/Lafisrap'
     - icon: ti-github
-      link: '#'
+      link: 'https://github.com/cypherpunk-academy/michaelschmidt.berlin'
 languages:
   de:
     contentDir: content/de
@@ -85,6 +83,7 @@ languages:
       searchLabel: Suche
       latestPosts: NEUE POSTS
       languageFlag: "\U0001F1E9\U0001F1EA"
+      follow: Folge mir
       miroExplain: >
         (Klicke auf das Bild oben, um den Gedankenfehler in einem miro-Board zu öffnen. Zurück geht's mit Tab schließen.)  
 
