@@ -3,13 +3,15 @@ title: Verschiedenes
 date: Tue Mar 28 2023 10:06:33 GMT+0200 (Central European Summer Time)
 description: A description
 type: A type
-image: images/featured-post/rock-people-sky.jpg
+image: images/michael.png
+imageLink: http://www.epikur.berlin/job-profile
 author: An author
 categories:
   - Der Abgrund der Freiheit und die erste Liebe
 tags:
 translation: original
 ---
+[Michael Schmidt](http://www.epikur.berlin/job-profile/de)
 ##### V E R S C H I E D E N E S
 
 ###### 2000
