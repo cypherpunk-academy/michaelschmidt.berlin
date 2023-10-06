@@ -25,15 +25,15 @@ translation: original
 ##### &nbsp;
 #### Aufgabe
 
-Das Ziel ist die wirkungsvollsten dieser Kultur-gewordenen Gedankenfehler herauszufinden und nachvollziehbar zu machen.
-Um verschiedene Aspekte der Gedanken anzuschauen, sollen sie in sieben, aufeinander aufbauenden Ebenen dargestellt werden.
+Das Ziel ist, die wirkungsvollsten dieser Kultur-gewordenen Gedankenfehler aufzuspüren und nachvollziehbar zu machen.
+Um verschiedene Aspekte der Gedanken anzuschauen, werden sie in sieben, aufeinander aufbauenden Ebenen dargestellt werden.
 
 **Ebene 1:** Die Fragestellung: Wie lebt der Gedankenfehler im Alltag? In welchen Aussagen versteckt er sich?  
-**Ebene 2:** Welcher Gedanke kann den Gedankenfehler in Ebene 1 sichtbar machen?  
+**Ebene 2:** Welche Aussage kann den Gedankenfehler in Ebene 1 sichtbar machen?  
 **Ebene 3:** Welche (reale oder überreale) Geschichte kann für den Gedankenfehler oder dessen Auflösung als Beispiel dienen?  
-**Ebene 4:** Wie sieht die zu Ende gedachte Version des Gedankens aus?  
+**Ebene 4:** Wie sieht die zu Ende gedachte Version des Gedankens im Hier-und-Jetzt aus?  
 **Ebene 5:** Welche Schritte sind möglich, um den Gedanken im Alltag in sich zu vervollständigen?  
-**Ebene 6:** Welche Wirkung hat der Gedanke auf das Gesamte der Gesellschaft? Welche Verbindungen zu anderen Gedankenfehlern gibt es?  
+**Ebene 6:** Welche Wirkung hat der Gedanke auf das Gesamte der Gesellschaft? Welche anderen Gedankenfehlern sind mit diesem verbunden?  
 **Ebene 7:** Wie ändern sich nach den ersten sechs Schritten die Beispiele aus Ebene 1?  
 
 *Alles hier ist nur Versuch*, nicht endgültige Lösung. Alles ist im Fluss. Deswegen ist es für jeden möglich, in den Miro-Boards der einzelnen Gedanken, zu kommentieren. Die Kommentare sind für andere sichtbar und sie werden gegebenenfalls eingearbeitet.
