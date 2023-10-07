@@ -46,7 +46,7 @@ params:
   mobile: 
   email:
   addressLabel: Address
-  address: 'Turiner Straße 21, 13347 Berlin'
+  address: 'Berlin (Wedding)'
   contactLabel: Contact Info
   contact_form_action: '#'
   copyright: 'Copyright &copy; 2023 based on [themefisher.com](https://themefisher.com), special thanks to [Miro](https://miro.com)'
@@ -75,7 +75,7 @@ languages:
     weight: 1
     params:
       home: "\U0001F3E0"
-      readmore: weiter
+      readmore: ansehen ...
       languageNameShort: de
       addressLabel: Adresse
       contactLabel: Kontakt
