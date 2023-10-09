@@ -2,7 +2,7 @@
 title: 3 Zufrieden sein heißt, alle Bedürfnisse sind erfüllt
 date: 2023-10-01T08:47:11.200Z
 description: >
-  Der Weg zum Frieden führt über die Zufriedenheit. Unzufriedenheit führt zu Krieg, egal ob in einer Beziehung, in der Schule, zwischen Ländern oder im Streiten.
+  Der Weg zum Frieden führt über Zufriedenheit. Unzufriedenheit führt zu Krieg, egal ob in einer Beziehung, in der Schule, zwischen Ländern oder überhaupt wenn wir streiten.
   <br />
   <br />
   Zu einfach gedacht?
