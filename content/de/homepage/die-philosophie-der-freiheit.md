@@ -29,13 +29,13 @@ Die Darstellen als miro Boards ist ein Versuch, dies auf neue Weise zu machen. K
 
 Sätze, die keine sprachlichen Bezüge zu den vorangegangenen Sätzen haben, sind violett eingefärbt. Bei ihnen kann man direkt einsteigen, ohne zunächst suchen zu müssen, was ein „es“ oder ein „er“ oder ein „auf die gleiche Weise“ bedeutet. Man kann sie zum Beispiel für eine Meditation nutzen, oder eine Denkübung.
 
-Das alles gilt für ausgedruckte miro Boards und solchen in einem Internet-Browser. Im Browser kann man darüber hinaus kommentieren, kopieren, verweisen, zoomen etc.
+Das alles gilt für ausgedruckte miro Boards und solche in einem Internet-Browser. Im Browser kann man darüber hinaus kommentieren, kopieren, verweisen, zoomen etc.
 
 Nach einem halben Jahr Nutzung muss ich sagen, dass das Buch inzwischen am liebsten auf diese Weise lese. Ich wünsche viel Freude beim ausprobieren.
 
 ##### Ausdrucken
 
-Wenn du ein Board ausdrucken willst, kannst im miro Hauptmenü eine PDF-Datei herunterladen (beste Qualität) und die Datei in einem Copyshop auf 170cm Breite ausdrucken lassen. Das Aufkleben auf ein Rollo wie im Bild oben ist eine relative günstige, nicht sehr stabile Möglichkeit, eine höhenverstellbare Version davon an der Wand zu haben (TEXMAXX). Etwas teuerer sind direkte Ausrucke als Rollo, wie es sie z. B. bei nikkel-art gibt. Aber es gibt sicherlich noch weitere Möglichkeiten.
+Wenn du ein Board ausdrucken willst, kannst im miro Hauptmenü eine PDF-Datei herunterladen (beste Qualität) und die Datei in einem Copyshop auf 170cm Breite ausdrucken lassen. Das Aufkleben auf ein Rollo wie im Bild oben ist eine relative günstige, nicht sehr stabile Möglichkeit, eine höhenverstellbare Version davon an der Wand zu haben (TEXMAXX). Etwas teuerer sind direkte Ausrucke als Rollo, wie es sie z. B. bei nikkel-art gibt. Aber es gibt sicherlich noch weitere Möglichkeiten.... vielleicht als Tischoberfläche mit einer Tischfolie geschützt...
 
 ##### Die beiden Hauptteile des Buchs:
 ### W I S S E N S C H A F T &nbsp; D E R &nbsp; F R E I H E I T
