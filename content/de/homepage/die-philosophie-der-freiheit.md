@@ -19,7 +19,7 @@ translation: original
 [1 Wissenschaft der Freiheit](https://miro.com/app/live-embed/uXjVPz7C5w0=/?moveToViewport=-569,-835,2733,2076&embedId=794255096956) ––– [2 Die Wirklichkeit der Freiheit](https://miro.com/app/live-embed/uXjVMVLQMDw=/?moveToViewport=-4694,-2900,2852,2394&embedId=798473962857)
 ##### DIE IDEE
 
-*Die Philosphie der Freiheit* ist ein **Übungsbuch**. Es geht nicht nur darum, den Inhalt zu lesen und dann zu kennen, nicht einmal nur darum, den Inhalt zu **verstehen**. Es geht darum, das **eigene Denken** das eigene Denken zu **üben**, immer wieder von einem Gedanken des Buches zum nächsten zu kommen ––– oder wieder zurück. Man kann das gesamte Buch auch von **hinten nach vorne** durcharbeiten. Und dann wiederum das **Gesamte** denken und es mit dem **Leben** verbinden.
+*Die Philosphie der Freiheit* ist ein **Übungsbuch**. Es geht nicht nur darum, den Inhalt zu lesen und dann zu kennen, nicht einmal nur darum, den Inhalt zu **verstehen**. Es geht darum, das **eigene Denken** zu **üben**, immer wieder von einem Gedanken des Buches zum nächsten zu kommen ––– oder wieder zurück. Man kann das gesamte Buch auch von **hinten nach vorne** durcharbeiten. Und dann wiederum das **Gesamte** denken und es mit dem **Leben** verbinden.
 
 ##### Warum eine neue Form?
 
