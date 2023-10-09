@@ -38,4 +38,8 @@ draft: true
 24. Reichtum
 25. Vorsorge
 
+26. Lüge
+27. Traurigkeit
+
+
 \* Wahrscheinlich werden es insgesamt 45 bis 50
