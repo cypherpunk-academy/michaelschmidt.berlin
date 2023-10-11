@@ -1,5 +1,5 @@
 ---
-title: Plan (25*)
+title: Plan (30*)
 date: 2023-10-01T08:47:11.200Z
 description:
 type: post
@@ -15,31 +15,35 @@ draft: true
 5. Worte 🕰️
 
 6. Hierarchie
-7. Gerechtigkeit
+7. Gewinnen
 8. Vertrauen
 9. Technik
 10. Wut
 
-11. Gewinnen
-12. Opfer
-13. Ehrgeiz
-14. Schuldgefühl
-15. Bedürfnisse
+11. Lügen
+12. Tod
+13. Geld
+14. Schmerzen
+15. Sexualität
 
-16. Sexualität
-17. Freude
-18. Arbeit
-19. Geld
-20. Strafe
+16. Gerechtigkeit
+17. Opfer
+18. Ehrgeiz
+19. Schuldgefühl
+20. Bedürfnisse
 
-21. Verurteilen
-22. Trennung
-23. Verantwortung
-24. Reichtum
-25. Vorsorge
+21. Freude
+22. Arbeit
+23. Strafe
+24. Trennung
+25. Verantwortung
 
-26. Lüge
-27. Traurigkeit
+26. Verurteilen
+27. Reichtum
+28. Vorsorge
+29. Traurigkeit
+30. Fragen
+
 
 
 \* Wahrscheinlich werden es insgesamt 45 bis 50
