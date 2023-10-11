@@ -35,7 +35,7 @@ Nach einem halben Jahr Nutzung muss ich sagen, dass das Buch inzwischen am liebs
 
 ##### Ausdrucken
 
-Wenn du ein Board ausdrucken willst, kannst im miro Hauptmenü eine PDF-Datei herunterladen (beste Qualität) und die Datei in einem Copyshop auf 170cm Breite ausdrucken lassen. Das Aufkleben auf ein Rollo wie im Bild oben ist eine relative günstige, nicht sehr stabile Möglichkeit, eine höhenverstellbare Version davon an der Wand zu haben (TEXMAXX). Etwas teuerer sind direkte Ausrucke als Rollo, wie es sie z. B. bei nikkel-art gibt. Aber es gibt sicherlich noch weitere Möglichkeiten.... vielleicht als Tischoberfläche mit einer Tischfolie geschützt...
+Wenn du ein Board ausdrucken willst, kannst du im miro Hauptmenü eine PDF-Datei herunterladen (beste Qualität) und die Datei in einem Copyshop auf 170cm Breite ausdrucken lassen. Das Aufkleben auf ein Rollo wie im Bild oben ist eine relative günstige, nicht sehr stabile Möglichkeit, eine höhenverstellbare Version davon an der Wand zu haben (TEXMAXX). Etwas teuerer sind direkte Ausdrucke als Rollo, wie es sie z. B. bei nikkel-art gibt. Aber es gibt sicherlich noch weitere Möglichkeiten.... vielleicht als Tischoberfläche mit einer Tischfolie geschützt...
 
 ##### Die beiden Hauptteile des Buchs:
 ### W I S S E N S C H A F T &nbsp; D E R &nbsp; F R E I H E I T
