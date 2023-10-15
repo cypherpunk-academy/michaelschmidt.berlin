@@ -19,11 +19,11 @@ author: Michael
 9. Technik
 10. Wut
 
-11. Lügen
+11. Sexualität
 12. Tod
 13. Geld
 14. Schmerzen
-15. Sexualität
+15. Lügen
 
 16. Gerechtigkeit
 17. Opfer

@@ -5,7 +5,7 @@ description: >
   Angst zu bekämpfen kann man nicht dadurch, dass man Gefahren beseitigt. Angst verschwindet, wenn man versteht, wo man einen Gedankenfehler hat, und dann den Gedanken genügend oft richtig denkt ––– bis der Gedankenfehler verschwunden ist.
   <br />
   <br />
-  Hmmm....
+  Stimmt das?
 type: post
 weight: 4
 image: images/gedankenfehler/angst.png
