@@ -2,16 +2,15 @@
 title: Plan (30*)
 date: 2023-10-01T08:47:11.200Z
 description:
-type: post
+type: hidden
 weight: 1000
 author: Michael
-draft: true
 ---
 
 1. Erziehung ✅
 2. Fehler machen ✅
 3. Zufriedenheit ✅
-4. Angst 🛠️
+4. Angst ✅
 5. Worte 🕰️
 
 6. Hierarchie
