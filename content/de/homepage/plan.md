@@ -11,7 +11,7 @@ author: Michael
 2. Fehler machen ✅
 3. Zufriedenheit ✅
 4. Angst ✅
-5. Worte 🕰️
+5. Worte 🛠️
 
 6. Hierarchie
 7. Gewinnen
@@ -43,6 +43,6 @@ author: Michael
 29. Traurigkeit
 30. Fragen
 
-
+(🕰️)
 
 \* Wahrscheinlich werden es insgesamt 45 bis 50
