@@ -7,7 +7,7 @@ image: images/gedankenfehler.jpg
 author: An author
 weight: 1
 categories:
-  - 4 von 30
+  - 4 von 38
 tags:
 translation: original
 ---
@@ -53,7 +53,7 @@ _Alles hier ist nur Versuch_, nicht endgültige Lösung. Alles ist im Fluss. Des
 | ------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
 | [![Erziehung](/images/gedankenfehler/erziehung.png)](https://miro.com/app/board/uXjVM3o2LkA=/?share_link_id=218039651414) | [![Fehler machen](/images/gedankenfehler/fehler-machen.png)](https://miro.com/app/board/uXjVMzmjJLY=/?share_link_id=80970369425) | [![Zufriedenheit](/images/gedankenfehler/zufriedenheit.png)](https://miro.com/app/board/uXjVMwDwRrg=/?share_link_id=988464589278) | [![Angst](/images/gedankenfehler/angst.png)](https://miro.com/app/board/uXjVMwC5Y9g=/?share_link_id=385384185787) | [![Worte](/images/gedankenfehler/erziehung.png)](https://miro.com/app/board/uXjVNaEvGog=/?share_link_id=197269331253) |
 | **Erziehung**                                                                                                             | **Fehler machen**                                                                                                                | **Zufriedenheit**                                                                                                                 | **Angst**                                                                                                         | **Worte** (in Vorbereitung)                                                                                           |
-| ...weitere 2<a href="/de/plan">5</a>                                                                                      |                                                                                                                                  |                                                                                                                                   |                                                                                                                   |                                                                                                                       |
+| ...weitere 3<a href="/de/plan">4</a>                                                                                      |                                                                                                                                  |                                                                                                                                   |                                                                                                                   |                                                                                                                       |
 
 **Bitte verwendet die Kommentar-Funktion in den miro-Boards, wenn ihr etwas zu den Gedankenfehlern sagen wollt.**  
 Besonders interessant für mich sind zur Zeit:

@@ -37,11 +37,21 @@ author: Michael
 24. Trennung
 25. Verantwortung
 
-26. Verurteilen
-27. Reichtum
-28. Vorsorge
-29. Traurigkeit
-30. Fragen
+26. Wahrheit
+27. Der Mensch
+28. Wiederholte Erdenleben
+29. Entwicklung
+30. Engel
+
+31. Verurteilen
+32. Reichtum
+33. Vorsorge
+34. Traurigkeit
+35. Fragen
+
+36. Lebensgrundlage
+37. Öffentliche Meinung
+38. Schmerz
 
 (🕰️)
 
