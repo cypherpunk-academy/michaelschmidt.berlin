@@ -1,5 +1,5 @@
 ---
-title: Plan (30*)
+title: Plan (38*)
 date: 2023-10-01T08:47:11.200Z
 description:
 type: hidden
@@ -52,6 +52,7 @@ author: Michael
 36. Lebensgrundlage
 37. Öffentliche Meinung
 38. Schmerz
+39. Ausschließen
 
 (🕰️)
 

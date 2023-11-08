@@ -1,63 +1,144 @@
 {{ define "main" }}
 
 <!-- checking blog -->
-{{ if or (eq .Section "post") (eq .Section "posts") (eq .Section "blog") (eq .Section "blogs") (eq .Section "news") (eq .Section "categories") (eq .Section "tags") }}
+{{ if or (eq .Section "post") (eq .Section "posts") (eq .Section "blog") (eq
+.Section "blogs") (eq .Section "news") (eq .Section "categories") (eq .Section
+"tags") }}
 
 <!-- page-title -->
 <section class="section bg-secondary">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-12">
-        <h4>{{ .Title }}</h4>
-        <hr class="colored-hr" />
-        <div>{{ .Description | markdownify }}</div>
-      </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <h4>{{ .Title }}</h4>
+                <hr class="colored-hr" />
+                <div>{{ .Description | markdownify }}</div>
+            </div>
+        </div>
     </div>
-  </div>
 </section>
 <!-- /page-title -->
 
 <!-- blog single -->
 <section>
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-9">
-          <ul class="list-inline d-flex justify-content-between py-3">
-          <li class="list-inline-item background-item"><i class="ti-user mr-2"></i>{{.Site.Params.postBy}} {{.Site.Params.author}}</li>
-          <li class="list-inline-item background-item"><i class="ti-calendar mr-2"></i>{{ .PublishDate.Format "Jan 02, 2006" }}</li>
-        </ul>
-        <article class="content">
-          {{ if .Params.ImageLink }}
-            <a href="{{.Params.ImageLink }}" target="_blank">
-              <img src="{{.Params.Image | absURL }}" width="{{.Params.ImageWidth}}" alt="post-thumb" class="img-fluid rounded float-left mr-5 mb-4">
-            </a>
-          {{ else }}
-            <img src="{{.Params.Image | absURL }}" width="{{.Params.ImageWidth}}" alt="post-thumb" class="img-fluid rounded float-left mr-5 mb-4">
-          {{ end }}
-          {{ if .Params.MiroExplain }}
-            {{.Site.Params.MiroExplain | markdownify}}
-          {{ end }}
-          {{.Content}}
-        </article>
-      </div>
-      {{partial "sidebar.html" . }}
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-9">
+                <ul class="list-inline d-flex justify-content-between py-3">
+                    <li class="list-inline-item background-item">
+                        <i class="ti-user mr-2"></i>{{.Site.Params.postBy}}
+                        {{.Site.Params.author}}
+                    </li>
+                    <li class="list-inline-item background-item">
+                        <i class="ti-calendar mr-2"></i>{{ .PublishDate.Format
+                        "Jan 02, 2006" }}
+                    </li>
+                </ul>
+                <article class="content">
+                    {{ if .Params.ImageLink }}
+                    <a href="{{.Params.ImageLink }}" target="_blank">
+                        <img
+                            src="{{.Params.Image | absURL }}"
+                            width="{{.Params.ImageWidth}}"
+                            alt="post-thumb"
+                            class="img-fluid rounded float-left mr-5 mb-4"
+                        />
+                    </a>
+                    {{ else }}
+                    <img
+                        src="{{.Params.Image | absURL }}"
+                        width="{{.Params.ImageWidth}}"
+                        alt="post-thumb"
+                        class="img-fluid rounded float-left mr-5 mb-4"
+                    />
+                    {{ end }} {{ if .Params.MiroExplain }}
+                    {{.Site.Params.MiroExplain | markdownify}} {{ end }}
+                    {{.Content}}
+                </article>
+            </div>
+            {{partial "sidebar.html" . }}
+        </div>
     </div>
-  </div>
 </section>
 <!-- /blog single -->
 
 <!-- regular page -->
+{{ else if eq .Section "story" }}
+<section class="section">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <h2 class="mb-4">{{.Title }}</h2>
+                {{with .Params.image}}<img
+                    src="{{. | absURL }}"
+                    alt="{{site.Params.author}}"
+                    class="img-fluid w-100 mb-4"
+                />{{end}}
+                <div class="sophia content">{{ .Content }}</div>
+                {{ $filePath := printf "%s-%d" .Params.Type .Params.Next }} {{
+                with .Site.GetPage $filePath }}
+                <a href="{{ .Permalink }}">
+                    <img
+                        class="sophia card-img rounded-0 img-fluid"
+                        src='{{printf "images/sophia/chapter%d.jpg" .Params.Weight | absURL}}'
+                        alt="post-thumb"
+                    />
+                </a>
+                {{ else }} Mehr gibt es noch nicht ... morgen dann. <br />
+                <a href="../../homepage/sophia">Zurück</a>
+                {{ end }}
+            </div>
+        </div>
+    </div>
+</section>
+<!-- /regular page -->
+
+<!-- regular page -->
 {{ else }}
 <section class="section">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-12">
-        <h2 class="mb-4">{{.Title }}</h2>
-        {{with .Params.image}}<img src="{{. | absURL }}" alt="{{site.Params.author}}" class="img-fluid w-100 mb-4">{{end}}
-        <div class="content">{{ .Content }}</div>
-      </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <h2 class="mb-4">{{.Title }}</h2>
+                {{ if eq .Params.storyType "sophia" }}
+                <div class="story-list">
+                    {{ range (where site.RegularPages "Type" "sophia")}}
+                    <div class="col-lg-3 col-sm-6 mb-2 mb-lg-0 px-1">
+                        {{ $current := now }} {{if eq ($current.Format "01")
+                        "12" }} {{ $storyLink := printf "../../story/%s-%d"
+                        .Params.Type .Params.Weight }}
+                        <a href="{{ $storyLink }}">
+                            <img
+                                class="card-img rounded-0 img-fluid w-100"
+                                src="{{.Params.Image | absURL}}"
+                                alt="post-thumb"
+                            />
+                        </a>
+                        {{ else }}
+                        <a href="#">
+                            <img
+                                class="card-img rounded-0 img-fluid w-100"
+                                src="{{.Params.Image | absURL}}"
+                                alt="post-thumb"
+                            />
+                        </a>
+                        {{ end }}
+                        <p class="text-uppercase">
+                            <span>{{ .Params.Weight }}. Dezember: </span
+                            ><span><strong>{{ .Params.Title }}</strong></span>
+                        </p>
+                    </div>
+                    {{ end }}
+                </div>
+                {{else}} {{with .Params.image}}<img
+                    src="{{. | absURL }}"
+                    alt="{{site.Params.author}}"
+                    class="img-fluid w-100 mb-4"
+                />{{end}} {{end}}
+                <div class="content">{{ .Content }}</div>
+            </div>
+        </div>
     </div>
-  </div>
 </section>
 {{ end }}
 <!-- /regular page -->

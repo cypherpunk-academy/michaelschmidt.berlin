@@ -1,12 +1,12 @@
-baseurl: 'https://michaelschmidt.berlin'
+baseurl: "https://michaelschmidt.berlin"
 languageCode: de-DE
 title: Allgemeine Gedankenfehler - Herausforderungen auf dem Weg zur Freiheit
 theme: parsa-hugo
-summaryLength: '10'
+summaryLength: "10"
 paginate: 6
 defaultContentLanguage: de
-defaultContentLanguageInSubdir: 'true'
-googleAnalytics: ''
+defaultContentLanguageInSubdir: "true"
+googleAnalytics: ""
 outputs:
   home:
     - HTML
@@ -36,37 +36,33 @@ params:
       - link: plugins/search/search.js
   logo: images/logo.png
   home: Home
-  layout: '1'
+  layout: "1"
   description: This is meta description
   preloader: true
   search: true
   author: Michael Schmidt
   author_image: images/banner-img.png
   bio: ...
-  mobile: 
+  mobile:
   email:
   addressLabel: Address
-  address: 'Berlin (Wedding)'
+  address: "Berlin (Wedding)"
   contactLabel: Contact Info
-  contact_form_action: '#'
-  copyright: 'Copyright &copy; 2023 based on [themefisher.com](https://themefisher.com), special thanks to [Miro](https://miro.com)'
+  contact_form_action: "#"
+  copyright: "Copyright &copy; 2023 based on [themefisher.com](https://themefisher.com), special thanks to [Miro](https://miro.com)"
   readmore: read more
   postBy: Post by
   searchLabel: Search
-  instafeed:
-    enable: true
-    access_token: >-
-      IGQVJYeUk4YWNIY1h4OWZANeS1wRHZARdjJ5QmdueXN2RFR6NF9iYUtfcGp1NmpxZA3RTbnU1MXpDNVBHTzZAMOFlxcGlkVHBKdjhqSnUybERhNWdQSE5hVmtXT013MEhOQVJJRGJBRURn
   cookies:
     enable: true
     expire_days: 2
   social:
     - icon: ti-facebook
-      link: 'https://www.facebook.com/profile.php?id=61551693854428'
+      link: "https://www.facebook.com/profile.php?id=61551693854428"
     - icon: ti-twitter-alt
-      link: 'https://twitter.com/Lafisrap'
+      link: "https://twitter.com/Lafisrap"
     - icon: ti-github
-      link: 'https://github.com/cypherpunk-academy/michaelschmidt.berlin'
+      link: "https://github.com/cypherpunk-academy/michaelschmidt.berlin"
 languages:
   de:
     contentDir: content/de
@@ -95,7 +91,7 @@ languages:
 
         - Links auf bestimmte Texte teilen
 
-        - Texte als Text oder als Bild kopieren  
+        - Texte als Text oder als Bild kopieren
 
     menu:
       main:

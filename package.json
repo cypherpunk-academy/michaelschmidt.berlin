@@ -1,0 +1,28 @@
+{
+  "name": "michaelschmidt.berlin",
+  "version": "1.0.0",
+  "description": "Helper scripts for michaelschmidt.berlin website",
+  "main": "update.ts",
+  "scripts": {
+    "dev": "hugo server",
+    "build": "hugo",
+    "start": "ts-node update.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cypherpunk-academy/michaelschmidt.berlin.git"
+  },
+  "author": "Michael Schmidt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cypherpunk-academy/michaelschmidt.berlin/issues"
+  },
+  "homepage": "https://github.com/cypherpunk-academy/michaelschmidt.berlin#readme",
+  "dependencies": {
+    "sophia": "../../Bücher/michael-sophia"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  }
+}
