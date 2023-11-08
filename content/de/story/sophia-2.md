@@ -1,5 +1,5 @@
 ---
-title: Die Schäfer
+title: Die Schafhirten
 date: 2023-11-07
 description: Die Weihnachtsgeschichte, neu erzählt
 type: sophia
