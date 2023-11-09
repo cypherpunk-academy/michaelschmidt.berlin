@@ -5,7 +5,7 @@ import { utcToZonedTime } from 'date-fns-tz';
 import fs from 'fs';
 import { text } from 'sophia';
 
-const CHAPTERS_IN_PREVIEW = 5;
+const CHAPTERS_IN_PREVIEW = 3;
 const PREVIEW_DATE = '11-09';
 const IMAGE_PATH = 'images/sophia/chapter';
 const CHAPTER_PATH = 'content/de/story/sophia-';
