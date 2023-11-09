@@ -1,6 +1,6 @@
 ---
 title: Simeon
-date: 2023-11-09T05:00:00.000Z
+date: 2023-11-08T05:00:00.000Z
 description: Simeon kommt wieder einmal in die Stadt Sophias.
 type: sophia
 image: images/sophia/chapter1.jpg

@@ -1,6 +1,6 @@
 ---
 title: Sophia und Josef
-date: 2023-11-09T05:00:00.000Z
+date: 2023-11-08T05:00:00.000Z
 description: A description
 type: sophia
 image: images/sophia/chapter3.jpg
