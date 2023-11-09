@@ -104,9 +104,8 @@
                 <div class="story-list">
                     {{ range (where site.RegularPages "Type" "sophia")}}
                     <div class="col-lg-3 col-sm-6 mb-2 mb-lg-0 px-1">
-                        {{ $current := now }} {{if eq ($current.Format "01")
-                        "12" }} {{ $storyLink := printf "../../story/%s-%d"
-                        .Params.Type .Params.Weight }}
+                        {{ $current := now }} {{ $storyLink := printf
+                        "../../story/%s-%d" .Params.Type .Params.Weight }}
                         <a href="{{ $storyLink }}">
                             <img
                                 class="card-img rounded-0 img-fluid w-100"
@@ -114,15 +113,6 @@
                                 alt="post-thumb"
                             />
                         </a>
-                        {{ else }}
-                        <a href="#">
-                            <img
-                                class="card-img rounded-0 img-fluid w-100"
-                                src="{{.Params.Image | absURL}}"
-                                alt="post-thumb"
-                            />
-                        </a>
-                        {{ end }}
                         <p class="text-uppercase">
                             <span>{{ .Params.Weight }}. Dezember: </span
                             ><span><strong>{{ .Params.Title }}</strong></span>
