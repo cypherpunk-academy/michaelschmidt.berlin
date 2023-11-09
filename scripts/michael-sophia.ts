@@ -6,7 +6,7 @@ import fs from 'fs';
 import { text } from 'sophia';
 
 const CHAPTERS_IN_PREVIEW = 3;
-const PREVIEW_DATE = '11-09';
+const PREVIEW_DATE = '11-08';
 const IMAGE_PATH = 'images/sophia/chapter';
 const CHAPTER_PATH = 'content/de/story/sophia-';
 const WAITING_TEXTS = [
