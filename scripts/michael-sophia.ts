@@ -12,7 +12,7 @@ const CHAPTER_PATH = 'content/de/story/sophia-';
 const WAITING_TEXTS = [
     'Hier musst du noch ein wenig Geduld haben... Bald geht es weiter!',
     'Nur noch eine kurze Zeit, dann erscheint hier der Text.',
-    'Er kommt ... er kommt ... Er kommt. Nicht jetzt ... aber bald.'
+    'Bald .........'
 ];
 const timeZone = 'Europe/Berlin';
 
