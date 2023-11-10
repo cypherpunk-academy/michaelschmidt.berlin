@@ -5,6 +5,7 @@ import { utcToZonedTime } from 'date-fns-tz';
 import fs from 'fs';
 import { text } from 'sophia';
 
+const timeZone = 'Europe/Berlin';
 const CHAPTERS_IN_PREVIEW = 3;
 const PREVIEW_DATE = '11-08';
 const IMAGE_PATH = 'images/sophia/chapter';
@@ -14,7 +15,6 @@ const WAITING_TEXTS = [
     'Nur noch eine kurze Zeit, dann erscheint hier der Text.',
     'Bald .........'
 ];
-const timeZone = 'Europe/Berlin';
 
 export default (): void => {
     console.log(`Michael Sophia: ${text.length}`);
@@ -52,7 +52,7 @@ export default (): void => {
 
         const actualContent =
             i < CHAPTERS_IN_PREVIEW && isAfter(new Date(), yaml.date)
-                ? WAITING_TEXTS[i]
+                ? WAITING_TEXTS[i % WAITING_TEXTS.length]
                 : content;
 
         fs.writeFileSync(

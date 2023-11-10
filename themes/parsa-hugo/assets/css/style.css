@@ -912,6 +912,8 @@ audio::-webkit-media-controls-enclosure {
 
 .story-list {
     display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 50px;
 }
 
 .sophia p {

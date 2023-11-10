@@ -1,11 +1,5 @@
 ---
 title: Die Schafhirten
-date: 2023-11-08T05:00:00.000Z
-description: A description
-type: sophia
-image: images/sophia/chapter2.jpg
-weight: 2
-next: 3
 author: Michael Schmidt
 categories:
   - Nahor
@@ -18,6 +12,11 @@ tags:
   - Amon
   - Vater der Hirten
 translation: original
+date: 2023-11-08T05:00:00.000Z
 expirydate: 2024-01-07T05:00:00.000Z
+type: sophia
+image: images/sophia/chapter2.jpg
+weight: 2
+next: 3
 ---
 Nur noch eine kurze Zeit, dann erscheint hier der Text.
