@@ -6,8 +6,7 @@ on:
             - main # Set a branch to deploy
     pull_request:
     schedule:
-        - cron: '*/5 * * * *'
-        - cron: '59 4 1-28 12 *' # Every day at 4am 59 from December 1st to 28st
+        - cron: '0 5 1-28 12 *' # Every day at 5am from December 1st to 28st
 
 jobs:
     deploy:
