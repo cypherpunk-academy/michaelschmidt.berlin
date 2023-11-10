@@ -3,7 +3,7 @@ import { format, addYears, addDays, addHours, isAfter } from 'date-fns';
 import { utcToZonedTime } from 'date-fns-tz';
 
 import fs from 'fs';
-import { text } from 'sophia';
+import { text } from 'sophia-christmas-story';
 
 const timeZone = 'Europe/Berlin';
 const CHAPTERS_IN_PREVIEW = 3;
@@ -13,7 +13,7 @@ const CHAPTER_PATH = 'content/de/story/sophia-';
 const WAITING_TEXTS = [
     'Hier musst du noch ein wenig Geduld haben... Bald geht es weiter!',
     'Nur noch eine kurze Zeit, dann erscheint hier der Text.',
-    'Bald .........'
+    'Bald ......'
 ];
 
 export default (): void => {

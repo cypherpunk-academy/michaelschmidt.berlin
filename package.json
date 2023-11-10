@@ -1,32 +1,32 @@
 {
-  "name": "michaelschmidt.berlin",
-  "version": "1.0.0",
-  "description": "Helper scripts for michaelschmidt.berlin website",
-  "main": "update.ts",
-  "scripts": {
-    "dev": "hugo server",
-    "build": "hugo",
-    "start": "ts-node update.ts"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/cypherpunk-academy/michaelschmidt.berlin.git"
-  },
-  "author": "Michael Schmidt",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/cypherpunk-academy/michaelschmidt.berlin/issues"
-  },
-  "homepage": "https://github.com/cypherpunk-academy/michaelschmidt.berlin#readme",
-  "dependencies": {
-    "date-fns": "^2.30.0",
-    "date-fns-tz": "^2.0.0",
-    "sophia": "../../Bücher/michael-sophia",
-    "yaml": "^2.3.4"
-  },
-  "devDependencies": {
-    "@types/node": "^20.9.0",
-    "ts-node": "^10.9.1",
-    "typescript": "^5.2.2"
-  }
+    "name": "michaelschmidt.berlin",
+    "version": "1.0.0",
+    "description": "Helper scripts for michaelschmidt.berlin website",
+    "main": "update.ts",
+    "scripts": {
+        "dev": "hugo server",
+        "build": "yarn start && hugo",
+        "start": "ts-node update.ts"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/cypherpunk-academy/michaelschmidt.berlin.git"
+    },
+    "author": "Michael Schmidt",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/cypherpunk-academy/michaelschmidt.berlin/issues"
+    },
+    "homepage": "https://github.com/cypherpunk-academy/michaelschmidt.berlin#readme",
+    "dependencies": {
+        "date-fns": "^2.30.0",
+        "date-fns-tz": "^2.0.0",
+        "sophia-christmas-story": "^1.1.0",
+        "yaml": "^2.3.4"
+    },
+    "devDependencies": {
+        "@types/node": "^20.9.0",
+        "ts-node": "^10.9.1",
+        "typescript": "^5.2.2"
+    }
 }
