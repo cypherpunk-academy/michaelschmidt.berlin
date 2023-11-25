@@ -11,7 +11,7 @@ VERSION:	Versoin Number
 @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;600&family=Open+Sans:wght@400;600&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Simonetta:ital,wght@0,400;0,900;1,400;1,900&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;700&display=swap');
 body {
     line-height: 1.5;
     font-family: 'Quicksand', 'Open Sans', sans-serif;
@@ -926,4 +926,20 @@ audio::-webkit-media-controls-enclosure {
     -webkit-box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.32);
     box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.32);
     float: right;
+}
+
+.gedankenfehler {
+    font-family: 'Caveat', cursive;
+
+    h4 {
+        font-family: 'Caveat', cursive;
+        font-weight: bold;
+        color: rgb(175, 80, 80);
+        font-size: 3.5em;
+    }
+
+    .description {
+        font-size: 2em;
+        color: rgb(63, 18, 18);
+    }
 }
