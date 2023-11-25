@@ -1,139 +1,139 @@
-baseurl: "https://michaelschmidt.berlin"
+baseurl: 'https://michaelschmidt.berlin'
 languageCode: de-DE
 title: Allgemeine Gedankenfehler - Herausforderungen auf dem Weg zur Freiheit
 theme: parsa-hugo
-summaryLength: "10"
+summaryLength: '10'
 paginate: 6
 defaultContentLanguage: de
-defaultContentLanguageInSubdir: "true"
-googleAnalytics: ""
+defaultContentLanguageInSubdir: 'true'
+googleAnalytics: ''
 outputs:
-  home:
-    - HTML
-    - RSS
-    - JSON
+    home:
+        - HTML
+        - RSS
+        - JSON
 markup:
-  goldmark:
-    renderer:
-      unsafe: true
+    goldmark:
+        renderer:
+            unsafe: true
 params:
-  plugins:
-    css:
-      - link: plugins/bootstrap/bootstrap.min.css
-      - link: plugins/slick/slick.css
-      - link: plugins/themify-icons/themify-icons.css
-    js:
-      - link: plugins/jQuery/jquery.min.js
-      - link: plugins/bootstrap/bootstrap.min.js
-      - link: plugins/slick/slick.min.js
-      - link: plugins/headroom/headroom.js
-      - link: plugins/instafeed/instafeed.min.js
-      - link: plugins/masonry/masonry.js
-      - link: plugins/reading-time/readingTime.min.js
-      - link: plugins/smooth-scroll/smooth-scroll.js
-      - link: plugins/search/fuse.min.js
-      - link: plugins/search/mark.js
-      - link: plugins/search/search.js
-  logo: images/logo.png
-  home: Home
-  layout: "1"
-  description: This is meta description
-  preloader: true
-  search: true
-  author: Michael Schmidt
-  author_image: images/banner-img.png
-  bio: ...
-  mobile:
-  email:
-  addressLabel: Address
-  address: "Berlin (Wedding)"
-  contactLabel: Contact Info
-  contact_form_action: "#"
-  copyright: "Copyright &copy; 2023 based on [themefisher.com](https://themefisher.com), special thanks to [Miro](https://miro.com)"
-  readmore: read more
-  postBy: Post by
-  searchLabel: Search
-  cookies:
-    enable: true
-    expire_days: 2
-  social:
-    - icon: ti-facebook
-      link: "https://www.facebook.com/profile.php?id=61551693854428"
-    - icon: ti-twitter-alt
-      link: "https://twitter.com/Lafisrap"
-    - icon: ti-github
-      link: "https://github.com/cypherpunk-academy/michaelschmidt.berlin"
+    plugins:
+        css:
+            - link: plugins/bootstrap/bootstrap.min.css
+            - link: plugins/slick/slick.css
+            - link: plugins/themify-icons/themify-icons.css
+        js:
+            - link: plugins/jQuery/jquery.min.js
+            - link: plugins/bootstrap/bootstrap.min.js
+            - link: plugins/slick/slick.min.js
+            - link: plugins/headroom/headroom.js
+            - link: plugins/instafeed/instafeed.min.js
+            - link: plugins/masonry/masonry.js
+            - link: plugins/reading-time/readingTime.min.js
+            - link: plugins/smooth-scroll/smooth-scroll.js
+            - link: plugins/search/fuse.min.js
+            - link: plugins/search/mark.js
+            - link: plugins/search/search.js
+    logo: images/logo.png
+    home: Home
+    layout: '1'
+    description: This is meta description
+    preloader: true
+    search: true
+    author: Michael Schmidt
+    author_image: images/banner-img.png
+    bio: ...
+    mobile:
+    email:
+    addressLabel: Address
+    address: 'Berlin (Wedding)'
+    contactLabel: Contact Info
+    contact_form_action: '#'
+    copyright: 'Copyright &copy; 2023 based on [themefisher.com](https://themefisher.com) and [HUGO](https://gohugo.io/) , special thanks to [Miro](https://miro.com) (boards) and [DALL-E 3](https://openai.com/dall-e-3) (images)'
+    readmore: read more
+    postBy: Post by
+    searchLabel: Search
+    cookies:
+        enable: true
+        expire_days: 2
+    social:
+        - icon: ti-facebook
+          link: 'https://www.facebook.com/profile.php?id=61551693854428'
+        - icon: ti-twitter-alt
+          link: 'https://twitter.com/Lafisrap'
+        - icon: ti-github
+          link: 'https://github.com/cypherpunk-academy/michaelschmidt.berlin'
 languages:
-  de:
-    contentDir: content/de
-    title: Allgemeine Gedankenfehler des westlichen Kultur
-    languageName: Deutsch
-    weight: 1
-    params:
-      home: "\U0001F3E0"
-      readmore: ansehen ...
-      languageNameShort: de
-      addressLabel: Adresse
-      contactLabel: Kontakt
-      postBy: Beitrag von
-      searchLabel: Suche
-      latestPosts: NEUE POSTS
-      languageFlag: "\U0001F1E9\U0001F1EA"
-      follow: Folge mir
-      miroExplain: >
-        (Klicke auf das Bild oben, um den Gedankenfehler in einem miro-Board zu öffnen. Zurück geht's mit Tab schließen.)  
+    de:
+        contentDir: content/de
+        title: Allgemeine Gedankenfehler des westlichen Kultur
+        languageName: Deutsch
+        weight: 1
+        params:
+            home: "\U0001F3E0"
+            readmore: ansehen ...
+            languageNameShort: de
+            addressLabel: Adresse
+            contactLabel: Kontakt
+            postBy: Beitrag von
+            searchLabel: Suche
+            latestPosts: NEUE POSTS
+            languageFlag: "\U0001F1E9\U0001F1EA"
+            follow: Folge mir
+            miroExplain: >
+                (Klicke auf das Bild oben, um den Gedankenfehler in einem miro-Board zu öffnen. Zurück geht's mit Tab schließen.)  
 
-        Dort kannst du
+                Dort kannst du
 
-        - Ein- und auszoomen, mit der CTRL-Taste (Windows / Linux) oder der Command-Taste (Mac)
+                - Ein- und auszoomen, mit der CTRL-Taste (Windows / Linux) oder der Command-Taste (Mac)
 
-        - Texte kommentieren  
+                - Texte kommentieren  
 
-        - Links auf bestimmte Texte teilen
+                - Links auf bestimmte Texte teilen
 
-        - Texte als Text oder als Bild kopieren
+                - Texte als Text oder als Bild kopieren
 
-    menu:
-      main:
-        - name: "\U0001F3E0"
-          url: de
-        - parent: "\U0001F3E0"
-          name: Gedankenfehler
-          url: de/homepage/gedankenfehler/
-          weight: 1
-        - parent: Gedankenfehler
-          name: Erziehung
-          url: de/homepage/gedankenfehler/erziehung
-          weight: 1
-        - parent: Gedankenfehler
-          name: Fehler machen
-          url: de/homepage/gedankenfehler/fehler
-          weight: 2
-        - parent: Gedankenfehler
-          name: Zufriedenheit
-          url: de/homepage/gedankenfehler/zufriedenheit
-          weight: 3
-        - parent: Gedankenfehler
-          name: Angst
-          url: de/homepage/gedankenfehler/angst
-          weight: 4
-        - parent: Gedankenfehler
-          name: Worte
-          url: de/homepage/gedankenfehler/worte
-          weight: 5
-        - parent: "\U0001F3E0"
-          name: Die Philosophie der Freiheit
-          url: de/homepage/die-philosophie-der-freiheit/
-          weight: 2
-        - parent: "\U0001F3E0"
-          name: 2064 - Cypherpunks
-          url: de/homepage/2064/
-          weight: 3
-        - parent: "\U0001F3E0"
-          name: Sophia
-          url: de/homepage/sophia/
-          weight: 4
-        - parent: "\U0001F3E0"
-          name: Verschiedenes
-          url: de/homepage/verschiedenes/
-          weight: 5
+        menu:
+            main:
+                - name: "\U0001F3E0"
+                  url: de
+                - parent: "\U0001F3E0"
+                  name: Gedankenfehler
+                  url: de/homepage/gedankenfehler/
+                  weight: 1
+                - parent: Gedankenfehler
+                  name: Erziehung
+                  url: de/homepage/gedankenfehler/erziehung
+                  weight: 1
+                - parent: Gedankenfehler
+                  name: Fehler machen
+                  url: de/homepage/gedankenfehler/fehler
+                  weight: 2
+                - parent: Gedankenfehler
+                  name: Zufriedenheit
+                  url: de/homepage/gedankenfehler/zufriedenheit
+                  weight: 3
+                - parent: Gedankenfehler
+                  name: Angst
+                  url: de/homepage/gedankenfehler/angst
+                  weight: 4
+                - parent: Gedankenfehler
+                  name: Worte
+                  url: de/homepage/gedankenfehler/worte
+                  weight: 5
+                - parent: "\U0001F3E0"
+                  name: Die Philosophie der Freiheit
+                  url: de/homepage/die-philosophie-der-freiheit/
+                  weight: 2
+                - parent: "\U0001F3E0"
+                  name: 2064 - Cypherpunks
+                  url: de/homepage/2064/
+                  weight: 3
+                - parent: "\U0001F3E0"
+                  name: Sophia
+                  url: de/homepage/sophia/
+                  weight: 4
+                - parent: "\U0001F3E0"
+                  name: Verschiedenes
+                  url: de/homepage/verschiedenes/
+                  weight: 5

@@ -7,14 +7,10 @@ import { text } from 'sophia-christmas-story';
 
 const timeZone = 'Europe/Berlin';
 const CHAPTERS_IN_PREVIEW = 3;
-const PREVIEW_DATE = '11-08';
+const PREVIEW_DATE = '11-12';
 const IMAGE_PATH = 'images/sophia/chapter';
 const CHAPTER_PATH = 'content/de/story/sophia-';
-const WAITING_TEXTS = [
-    'Hier musst du noch ein wenig Geduld haben... Bald geht es weiter!',
-    'Nur noch eine kurze Zeit, dann erscheint hier der Text.',
-    'Bald ......'
-];
+const WAITING_TEXTS = ['Bald ....', 'Demächst ...', 'In Vorbereitung ......'];
 
 export default (): void => {
     console.log(`Michael Sophia: ${text.length}`);

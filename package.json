@@ -4,7 +4,7 @@
     "description": "Helper scripts for michaelschmidt.berlin website",
     "main": "update.ts",
     "scripts": {
-        "dev": "hugo server",
+        "dev": "yarn start && hugo server",
         "build": "yarn start && hugo --minify",
         "start": "ts-node update.ts"
     },
