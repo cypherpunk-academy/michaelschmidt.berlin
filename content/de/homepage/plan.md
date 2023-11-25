@@ -53,6 +53,7 @@ author: Michael
 37. Öffentliche Meinung
 38. Schmerz
 39. Ausschließen
+40. Allein sein
 
 (🕰️)
 
