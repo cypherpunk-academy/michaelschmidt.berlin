@@ -47,7 +47,8 @@ Er gab es Sophia auf den Bauch.
 Sophias nahm das Kind vorsichtigt in ihre Hände.
 Sie lachte auch.
 Das Kind verzog keine Miene.
-Sie legte es an ihre Brust: „Na? Willst du trinken.“
+Sie legte es an ihre Brust: „Na?
+Willst du trinken.“
 Das Kind machte einige Saugbewegungen an Sophias Brust, aber lies es nach kurzer Zeit wieder.
 Sophias Körper war zu kalt geworden.
 Es kam keine Milch.
@@ -57,11 +58,13 @@ Josef klopfte an die Tür des Haupthauses.
 Der Wirt erschien nach einiger Zeit in seinem Schlafrock.
 Seine Augen waren fast geschlossen: „Was gibt's jetzt noch?“
 Josef: „Es war wunderbar von dir, wie du uns vorhin aus dieser schlimmen Lage befreit hast.“
-Wirt: „Was willst du? Es ist mitten in der Nacht.“
+Wirt: „Was willst du?
+Es ist mitten in der Nacht.“
 Josef: „Meine Frau, Maria, hat eben ein Kind auf die Welt gebracht.
 Sie ist zu kalt geworden.
 Die Milch kommt nicht.
-Können wir uns vielleicht bei dir aufwärmen? Oder hast du ein wenig Milch für uns?“
+Können wir uns vielleicht bei dir aufwärmen?
+Oder hast du ein wenig Milch für uns?“
 Wirt ärgerlich: „Es ist mitten in der Nacht.
 Das Haus ist voll und ich habe keine Milch für dich.
 Ich hättet das wirklich besser planen müssen.“

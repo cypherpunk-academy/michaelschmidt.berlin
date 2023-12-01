@@ -88,7 +88,8 @@ Das hat dir Gebriel gesagt.
 Das heißt auch, dass du geführt wirst.
 Du musst dir keine Gedanken machen, wie es weiter geht.
 Es kommt einfach dann, wenn du es wissen musst, und es kommt immer genau so, wie es gedacht ist.“
-Sophia: „Aber muss ich das jetzt nicht wissen? Ich kann ja nicht in diesem Rosengarten bleiben.“
+Sophia: „Aber muss ich das jetzt nicht wissen?
+Ich kann ja nicht in diesem Rosengarten bleiben.“
 Rafael: „Wenn du einen Schritt aus dem Garten herausgemacht hast, wirst du es erfahren.“
 Sophia drehte sich zum Eingang und wollte los.
 Rafael: „Warte noch! Geh noch einmal durch den Garten, und breite deine Arme aus.“

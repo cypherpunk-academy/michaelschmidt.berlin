@@ -66,7 +66,8 @@ Marias Vater war einer, aber das hatte er bisher nur gehört.
 Der Priester trat Josef entgegen und blieb vor ihm stehen.
 Die römischen Soldaten stellten sich neben ihn.
 Josef und der Priester schauten sich eine lange Zeit an.
-Josef: „Sei gegrüßt, Priester! Was wollt ihr diesmal? Wohne ich euch immer noch nicht weit genug von der Stadt weg?“
+Josef: „Sei gegrüßt, Priester! Was wollt ihr diesmal?
+Wohne ich euch immer noch nicht weit genug von der Stadt weg?“
 Priester: „Es geht um ernstere Dinge, diesmal.“
 Josef: „So ernst, dass du zwei römische Soldaten mitbringen musst?“
 Priester; „So ernst.“
@@ -84,7 +85,8 @@ Priester: „Es ist der einzige Platz, wo sie sein kann, außer bei ihrer Mutter
 Josef drehte sich um und rief zu Klophas: „Klophas, ist Sophia, die Tochter von Anna hier.“
 Kaiphas rief zurück: „Ja, wir halten sie im Tempelhäuschen versteckt.
 Das weißt du doch.“
-Der Priester schaute Josef überrascht an: „Ja, wirklich? Ein Klophas lügt nie, das weißt du.“
+Der Priester schaute Josef überrascht an: „Ja, wirklich?
+Ein Klophas lügt nie, das weißt du.“
 Josef wartete eine kurze Zeite und lachte dann laut: „Ja, stimmt! Wir halten sie dort versteckt.
 Du kannst gerne nachschauen.“
 Priester: „Die Lage ist Ernst! Ich mag deine Späße nicht.
@@ -92,12 +94,16 @@ Es geht um Leben und Tod.“
 Er drehte sich um und deutete zwei Männern an, in der Scheune zu suchen, zwei in der Schreinerei, zwei im Haus.
 Die übrigen außer den Soldaten schickte er zum Tempelhäuschen.
 
-Josef fragte ihn: „Und warum Soldaten? Wieso mischen sie sich hier ein.“
-Einer der Soldaten schaute ihn an und sagte: „Du bist aus dem Haus Davids, richtig? Herodes hat gebeten, dass alle männlichen Nachkommen der früheren Königslinien überwacht werden.“
+Josef fragte ihn: „Und warum Soldaten?
+Wieso mischen sie sich hier ein.“
+Einer der Soldaten schaute ihn an und sagte: „Du bist aus dem Haus Davids, richtig?
+Herodes hat gebeten, dass alle männlichen Nachkommen der früheren Königslinien überwacht werden.“
 Josef schaute ihn nachdenklich an.
 Soldat: „Wenn Sophia ein Kind von dir bekommt, kann das ein Thronfolger sein.
 Dann ...“
-Josef: „Bringt ihr es um? Ich dachte, das macht ihr nicht mehr? Ich dachte, das ist vorbei?“
+Josef: „Bringt ihr es um?
+Ich dachte, das macht ihr nicht mehr?
+Ich dachte, das ist vorbei?“
 Soldat: „Dann wird er registriert.
 Nichts weiter.“
 Josef: „Aber der hier“, er deutete auf den Priester, „würde seine Mutter steinigen lassen, noch bevor das Kind geboren ist.“
@@ -125,7 +131,8 @@ Er begrüßte alle und staunte die römischen Uniformen an.
 Er wollte mit seiner Hand eine berühren und fragte den Soldaten: „Darf ich?“
 Der Soldat schüttelte den Kopf.
 Priester: „Dein Name ist Klophas.
-Du lügst nicht, oder? Wie der große Klophas.
+Du lügst nicht, oder?
+Wie der große Klophas.
 Du hast vorhin gesagt, dass ihr Sophia versteckt.
 Wo ist sie?“
 Klophas: „Im Tempelhäuschen.“
@@ -137,7 +144,8 @@ Priester: „Ich verlange, dass du sie holst! Als dein Priester deiner Stadt.“
 Klophas: „Nach welchem Gesetz befiehlst du mir, sie zu holen?“
 Der Priester schaute zu Boden, und schwieg.
 
-Soldat zum Priester: „Warum schaust du nicht selbst nach? Deine Leute scheinen dir ja nicht zu gehorchen.“
+Soldat zum Priester: „Warum schaust du nicht selbst nach?
+Deine Leute scheinen dir ja nicht zu gehorchen.“
 Der Priester schaute den Soldaten an und dann Klophas, schob ihn beiseite und ging in Richtung Tempelhäuschen.
 Im Häuschen stellte er sich in die Mitte des großen Raums und lauschte.
 Er schaute die Wände entlang, den Altar.

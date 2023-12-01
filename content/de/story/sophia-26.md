@@ -43,7 +43,8 @@ Das können wir alle gut brauchen, denke ich.“
 Er verschwand durch das Tor.
 Ein Stunde später kam er wieder.
 Alle waren inzwischen wach und in freudiger Erwartung eines schönen Frühstücks.
-Amon schaute Nahor an: „Wo ist das Frühstück? Hast du nichts bekommen.“
+Amon schaute Nahor an: „Wo ist das Frühstück?
+Hast du nichts bekommen.“
 Er war mit leeren Händen hereingekommen.
 Nahor lächelte: „Ihr werdet das nicht glauben, aber ...“
 Er öffnete das Tor ganz und eine Gruppe von Menschen drängte herein.

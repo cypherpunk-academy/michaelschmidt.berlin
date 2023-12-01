@@ -104,7 +104,8 @@ Als er den Hof sehen konnte, stellte er sich hinter einen Baum und beobachtete d
 Er konnte Klophas erkennen, wie er an seiner Werkbank arbeitete.
 Er schaute ihm eine Weile lang zu, Plötzlich sah er wie Klophas aufgeregt auf das Haus zu lief.
 Er konnte nicht richtig erkennen, was dort geschah, also lief er ein paar Bäume weiter nach links und da konnte er kurz ein Mädchen sehen, wohl im Alter von Sophia.
-Oder war das Sophia? Er war sich nicht sicher, aber er sah wie Klophas sie in das Tempelhäuschen drängte und sie darin verschwand.
+Oder war das Sophia?
+Er war sich nicht sicher, aber er sah wie Klophas sie in das Tempelhäuschen drängte und sie darin verschwand.
 Sie musste es sein.
 Es gab keine andere Möglichkeit.
 Er setzte sich auf den Boden und fasste sich an sein Herz, das laut zu pochen anfing.

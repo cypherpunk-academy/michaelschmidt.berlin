@@ -43,7 +43,9 @@ Der Hund bellte laut und beide lachten.
 Einige Wochen später trafen Sophia, Joseph und das Kind in Nazareth ein.
 Ihnen folgten etwa 200 Menschen mit Ponies, Eseln, Wägen und vielen Dingen im Gepäck.
 Die Stadt wirkte verschlafen, aber als die Menge ins Dorf strömte, kamen viele heraus und staunten.
-Was war hier los? Warum so viele Menschen? Der Priester ging ihnen entgegen und erschrak! Hinter ihm lief eine Traube von Menschen, die anhielt als er anhielt und entsetzt auf Sophia und das Kind schaute: „Sophia! Ist das dein Kind.“
+Was war hier los?
+Warum so viele Menschen?
+Der Priester ging ihnen entgegen und erschrak! Hinter ihm lief eine Traube von Menschen, die anhielt als er anhielt und entsetzt auf Sophia und das Kind schaute: „Sophia! Ist das dein Kind.“
 Sophia stieg ab und ging mit dem Kind auf ihn zu.
 Seine Lippen zitterten: „Halt! Ich darf mich dir nicht nähern.“
 Sophia lächelte ihn an: „Mein Name ist Maria.

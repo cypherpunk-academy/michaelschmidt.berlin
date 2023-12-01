@@ -27,7 +27,8 @@ Er wartete und schaute die drei Priestergehilfen an, die neben ihm standen.
 Er klopfte noch einmal.
 Dann rief er mit voller Stimme: „Anna, komm heraus! Ich habe von den Ältesten den Auftrag bekommen herauszufinden, was mit Sophia ist.
 Sie ist ein Kind unserer Stadt und keiner hat sie in den letzten drei Monaten gesehen.
-Wo ist sie? Zeige sie uns!“
+Wo ist sie?
+Zeige sie uns!“
 Im Haus saß Sophia auf ihrem Bett, lehnte sich an die Wand und hielt sich ihren Bauch, der schon ein wenig dicker geworden war.
 Sie blickte im Zimmer umher.
 Die Vorhänge der Fenster waren zugezogen.
@@ -36,7 +37,8 @@ Sie sah Sophia an, schloss dann ihre Augen und schüttelte leicht den Kopf.
 Der Priester wurde lauter: „Ich komme mit dem Schmied und dann brechen wir deine Tür auf.
 Wir müssen Sophia sehen.
 Jetzt!“
-Anna flüsterte: „Du bist in Lebensgefahr, Sophia, verstehst du das nicht? Der Priester meint es ernst.
+Anna flüsterte: „Du bist in Lebensgefahr, Sophia, verstehst du das nicht?
+Der Priester meint es ernst.
 Und du sitzt hier ganz ruhig.“
 Sophia: „Ich bin nicht in Gefahr.
 Ich muss nur das tun, was als nächstes dran ist.
@@ -45,7 +47,8 @@ Das hilft nicht.“
 Anna: „Ich habe Angst um dich!“
 Sophia: „Der Priester kann mir nichts tun.“
 Anna schloss die Augen: „Sophia! Das kannst du nicht sagen.
-Lidia, erinnerst du dich nicht? ––– Warum bist du jetzt von Elisabeth weggegangen?“
+Lidia, erinnerst du dich nicht?
+––– Warum bist du jetzt von Elisabeth weggegangen?“
 Sophia: „Weil es dran war.“
 Sie schaute Anna in die Augen.
 „Und wahrscheinlich auch weil ich nicht in dem Haus bleiben kann, wenn Elisabeths Kind geboren wird, alle Leute vorbeikommen und ich auch einen Bauch habe.
@@ -55,7 +58,8 @@ Anna spürte eine Wut in ihr aufsteigen.
 Sie atmete und versuchte zu verstehen.
 Es war ihre Tochter, die so redete.
 Sie war nur bei ihrer Tante gewesen.
-Was war geschehen? Sie erkannte den Ernst der Lage nicht.
+Was war geschehen?
+Sie erkannte den Ernst der Lage nicht.
 Die Wut in ihr nahm ein wenig ab.
 Sie dachte zurück an die Zeit als sie selbst mit Sophia schwanger war, wie ihr Leben plötzlich anders wurde, sie viel mehr Mut hatte.
 Aber sie war nie so ruhig geblieben, in so unmittelbarer Gefahr.
@@ -66,7 +70,8 @@ Anna sah ihnen durch einen Spalt im Vorhang nach.
 Sophia stand auf, ging in die Küche, goss etwas heißes Wasser in eine Schale und tat einige Kräuter dazu.
 Sie kam damit zurück in ihr Zimmer.
 Sie sah Anna an: „Wenn ich das Wasser ausgetrunken habe, geht es weiter, glaube ich.“
-Maria drehte sich mit dem Kopf zu ihr: „Ich weiß genau, was du machst! Aber ist das nicht super gefährlich? Ein kleiner Zweifel und du weißt nicht mehr, was als nächstes kommt.
+Maria drehte sich mit dem Kopf zu ihr: „Ich weiß genau, was du machst! Aber ist das nicht super gefährlich?
+Ein kleiner Zweifel und du weißt nicht mehr, was als nächstes kommt.
 Und du weißt auch nicht, dass du nicht mehr weißt.“
 Anna schaute sie verwirrt an: „Was meinst du damit, Maria?“
 Maria: „Das ist etwas zwischen uns.
@@ -133,7 +138,8 @@ Klophas: „Nein, hat es nicht! Ich muss das jetzt tun.“
 Priester: „Und wen willst du heiraten?“
 Klophas: „Maria von Nazareth, Tochter von Anna von Nazareth.“
 Der Priester lächelte: „Hast du das schon Anna gesagt?“
-Klophas: „Wie sollte ich, ohne dein Einverständnis? Ich muss zuerst einen Priester fragen, ob es geht.“
+Klophas: „Wie sollte ich, ohne dein Einverständnis?
+Ich muss zuerst einen Priester fragen, ob es geht.“
 Priester: „Nicht jetzt.“
 Er versuchte, Klophas beiseite zu schieben, aber der stemmte sich dagegen.
 Klophas: „Es ist dringend!“
@@ -155,20 +161,25 @@ Klophas: „Weil ich sie liebe.
 Ich kann nicht warten.
 Ich will sie nicht im Ungewissen lassen.
 Keine Minute.“
-Priester: „Du warst mit ihr zusammen, oder? Ihr seid zusammen gelegen, nicht?“
+Priester: „Du warst mit ihr zusammen, oder?
+Ihr seid zusammen gelegen, nicht?“
 Klophas schaute ihn erstaunt an und sagte nichts.
 Priester: „Das ist sehr ernst! Dann musst du sie heiraten.“
 Klophas schaute ihn fragend an.
-Priester: „Es stimmt also? Du bist mit ihr zusammen gelegen?“
+Priester: „Es stimmt also?
+Du bist mit ihr zusammen gelegen?“
 Klophas blieb stummt.
-Priester: „Das ist sehr ernst! Du erinnerst dich an Lidia? Du willst nicht, dass Maria das gleiche Schicksal trifft.“
+Priester: „Das ist sehr ernst! Du erinnerst dich an Lidia?
+Du willst nicht, dass Maria das gleiche Schicksal trifft.“
 Klophas machte einen halben Schritt zurück und sagte entrüstet: „Ich bin nicht mit ihr gelegen.
 Gar nicht.
-Warum meinst du das? Das würde ich nie tun vor der Hochzeit.“
+Warum meinst du das?
+Das würde ich nie tun vor der Hochzeit.“
 Der Priester schaute ihn verwirrt an.
 Klophas: „Das ist eine unfaire und gefährliche Anschuldigung, und eine falsche dazu! Wenn meine Eltern noch leben würden ...“
 Er setzte sich auf den Boden und umfasste seine Knie.
-Der Schmied baute sich neben dem Priester auf: „Gehen wir jetzt, oder nicht? Ich habe noch Arbeit zu tun.“
+Der Schmied baute sich neben dem Priester auf: „Gehen wir jetzt, oder nicht?
+Ich habe noch Arbeit zu tun.“
 Der Priester zeigte mit dem Finger auf Klophas: „Es tut mir Leid, wenn ich dich falsch beschuldigt habe.
 Ich werde ein Opfer dafür auf dem Alter bringen.
 Wenn Anna zustimmt, kannst du Maria heiraten, von mir aus, aber sie wird das nicht tun.
@@ -186,7 +197,8 @@ Er schaute verwirrte auf die beiden.
 Anna legte den Ziegenkopf auf die Seite und sprach dann zur Ziege gerichtet ein Gebet.
 Der Schmied stieß den Priester an: „Was ist jetzt?“
 Der Priester laut zu Anna: „Anna! Wo ist Sophia?“
-Anna schaute ihn eindringlich an: „Siehst du nicht, dass wir gerade beim Schlachten sind? Du kannst gerne hier her kommen und einen Segen sprechen.
+Anna schaute ihn eindringlich an: „Siehst du nicht, dass wir gerade beim Schlachten sind?
+Du kannst gerne hier her kommen und einen Segen sprechen.
 Oder willst du das nicht tun als unser Priester hier in Nazareth?“
 Der Priester kam und kniete widerwillig vor der Ziege nieder, hob eine Hand und sprach einige Worte.
 Dann verharrten alle stumm für einige Minuten bis das Blut vollständig ausgeflossen war.

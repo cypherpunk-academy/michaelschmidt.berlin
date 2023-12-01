@@ -6,7 +6,7 @@ import fs from 'fs';
 import { text } from 'sophia-christmas-story';
 
 const timeZone = 'Europe/Berlin';
-const CHAPTERS_IN_PREVIEW = 3;
+const CHAPTERS_IN_PREVIEW = 0;
 const PREVIEW_DATE = '11-12';
 const IMAGE_PATH = 'images/sophia/chapter';
 const CHAPTER_PATH = 'content/de/story/sophia-';
@@ -33,6 +33,8 @@ export default (): void => {
             ),
             6
         );
+
+        console.log(11.1, { yaml });
 
         yaml.expirydate = addHours(
             addYears(utcToZonedTime(`${year}-01-07`, timeZone), 1),

@@ -30,7 +30,8 @@ Josef durchschauerte es jedes Mal, wenn sie das tat.
 Hinter ihr stand ein überlebensgroßer Engel mit kraftvoller Statur, einer fantasievollen mitlitärischen Rüstung und einem kunstvollen, mächtigen Schwert an seiner Seite.
 Sophia schaute Josef an: „Siehst du ihn jetzt?“
 Josef schüttelte seinen Kopf: „Nein, aber ich glaube dir, ich spüre seine Kraft, er ist wie Michael, denke ich, genauso wie du sagst.“
-Sophia: „Was soll mir passieren, solange er da ist? Und ich habe ja auch noch meinen Schutzengel.
+Sophia: „Was soll mir passieren, solange er da ist?
+Und ich habe ja auch noch meinen Schutzengel.
 Josef: „Wir müssen vorsichtig sein.
 Der Priester war wieder in Jerusalem, habe ich gehört.
 Er hat es geschafft, von den Vorwürfen frei zu kommen.

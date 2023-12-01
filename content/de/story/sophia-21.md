@@ -163,13 +163,15 @@ Klophas ging rechts an der Schreinerei vorbei und auf den Hofplatz, wo sich eine
 Am Rand des Platzes standen zwei weiße, große Pferde.
 Der andere Soldat kam gerade aus dem Wohnhaus heraus.
 Klophas schaute erstaunt, ein wenig theatralisch, auf die Soldaten.
-Dann rief er mit lauter Stimme: „Was macht ihr hier? Das ist nicht euer Hof!“
+Dann rief er mit lauter Stimme: „Was macht ihr hier?
+Das ist nicht euer Hof!“
 Die beiden Soldaten drehten sich zu ihm hin und Klophas ging auf den einen zu und baute sich vor ihm auf.
 Sie waren beide sehr groß, mit einer kraftvollen Statur und hatten eine schönere, schwerere Rüstung als die beiden anderen, die er vor einigen Wochen hier getroffen hatte.
 Ihre Schwerter waren an den Griffen verziert.
 Er war irritiert und auf eine seltsame Weise angezogen von der Eleganz mit der beide vor ihm standen.
 Aber er versuchte sich das nicht anmerken zu lassen.
-Klophas: „Was wol... wollt ihr? Das hier ist die Schreinerei von Josef.
+Klophas: „Was wol... wollt ihr?
+Das hier ist die Schreinerei von Josef.
 er ist auf dem Weg hierher.“
 Der Soldat vor ihm atmete erleichert aus: „Das ist die Schreinerei von Josef! Die haben wir gesucht.“
 Er musterte Klophas.
@@ -179,7 +181,8 @@ Er musterte Klophas.
 Der Soldat nickte.
 „Ja.
 So wie wir gehört haben.“
-Klophas: „Woher kennt ihr meinen Namen? Warum seid ihr hier?“
+Klophas: „Woher kennt ihr meinen Namen?
+Warum seid ihr hier?“
 Soldat: „Wir suchen Sophia!“
 Klophas erschrak.
 Er konnte es nicht verbergen.
@@ -197,7 +200,8 @@ Und ihr mischt euch da nicht ein.
 Es besteht keine Gefahr für Römer.
 Das ist eine interne jüdische Angelegenheit.“
 Beide Soldaten verschränkten ihre Arme und schauten den Priester an.
-Priester: „Ihr wollt hier kein Unrecht begehen, dass zwölf Männer gesehen haben? Lasst uns durch! Es ist eine ernst Lage.“
+Priester: „Ihr wollt hier kein Unrecht begehen, dass zwölf Männer gesehen haben?
+Lasst uns durch! Es ist eine ernst Lage.“
 Der Soldat, der mit Klophas gesprochen hatte, schaute den Priester intensiv an: „Ihr wollt Sophia?“
 Priester: „Wir wollen Sophia!“
 Soldat: „Die könnt ihr nicht haben! Verschwindet von hier.“
@@ -310,7 +314,8 @@ Und vielleicht morgen schon hier.
 Wenn er dich hier sieht, dann kann es kompliziert werden.
 Er könnte dich mitnehmen.“
 Josef und Sophia schauten sich an und nickten.
-Klophas: „Ich habe noch eine Idee! Was wäre, wenn Sophia und Maria ihre Namen tauschen würden? Ihr Römer könntet das doch offiziell machen.
+Klophas: „Ich habe noch eine Idee! Was wäre, wenn Sophia und Maria ihre Namen tauschen würden?
+Ihr Römer könntet das doch offiziell machen.
 Wenn dann jemand nach der 14-jährigen Sophia fragt, die ein Kind erwartet, zeigen wir ihm Maria und sagen, es ist Sophia.
 Dann ist Sophia eine 12-Jährige, die kein Kind erwartet.
 Und wenn Sophia unterwegs gefragt wird, dann heißt sie Maria und keiner stellt weitere Fragen.“
@@ -318,7 +323,9 @@ Leonidas: „Der Junge ist großartig.“
 Er zeigte auf ihn und schaute Joachim an.
 „Den musst du mit nach Jerusalem nehmen.
 Mit einer römischen Ausbildung wird er viel erreichen können.“
-Joachim dachte kurz nach und legte dann Klophas die Hand auf die Schulter: „Na? Bereit für ein Abenteuer? Hier hast du einen leeren Hof.
+Joachim dachte kurz nach und legte dann Klophas die Hand auf die Schulter: „Na?
+Bereit für ein Abenteuer?
+Hier hast du einen leeren Hof.
 In Jerusalem zeige ich dir, wie du deinen eigenen Weg findest.
 Näher beim König, näher beim Galgen, näher an der Freiheit.
 Und, wie ist deine Antwort?“

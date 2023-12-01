@@ -6,7 +6,7 @@ categories:
   - Anna
   - Priester
   - Clara
-  - Thomas
+  - Tomas
   - Levi
 tags:
   - Sophia
@@ -14,7 +14,7 @@ tags:
   - Anna
   - Priester
   - Clara
-  - Thomas
+  - Tomas
   - Levi
 translation: original
 date: 2023-12-06T05:00:00.000Z
@@ -45,7 +45,8 @@ Sophia drückte sich gegen eine Wand, damit ihre Mutter sie nicht sehen würde, 
 Ihre Mutter hielt dem Mann ihren Zeigefinger entgegen und sagte laut und energisch: „DU LÄSST MICH DA HINEIN!“ Sie ging mit ihrem Gesicht ganz nah an das Gesicht des Mannes, der sichtlich kleiner wurde.
 Dann schob sie ihn beiseite und ging durch die Tür.
 Sophia wurde aufgeregter.
-„Was passiert da? Warum sollte Mutter und Clara nicht in das Haus gehen?“ Sie sah sie nicht mehr, sie sah nur die Menge, die näher zum Eingang hin drückte.
+„Was passiert da?
+Warum sollte Mutter und Clara nicht in das Haus gehen?“ Sie sah sie nicht mehr, sie sah nur die Menge, die näher zum Eingang hin drückte.
 Sophia entdeckte einen Apfelbaum auf der anderen Straßenseite, gegenüber dem Haus.
 Sie lief los, rannte die Straße herunter, griff einen der unteren Äste und schwang sich nach oben.
 Dann kletterte sie den Stamm hoch und fand eine Stelle, wo sie die Blätter des Baums beiseite schieben und so ins Hauptzimmer des Hauses sehen konnte.
@@ -117,7 +118,8 @@ Würdest du das jetzt sagen?“
 „Doch, ist er“, dachte sie, „er lebt in den Herzen der Menschen.
 Deswegen waren so viele von anderen Dörfern draußen, weil von diesem Dorf nicht genügend gekommen wären.“
 Sie schaute den Priester lange an.
-„Schau dir Lidia an: Ist sie das Böse, das du ausrotten willst? Auge um Auge, Zahn um Zahn.
+„Schau dir Lidia an: Ist sie das Böse, das du ausrotten willst?
+Auge um Auge, Zahn um Zahn.
 Was hat sie getan, dass du sie ...“
 Er schüttelte den Kopf: „Das Gesetz ist klar!“ Er verschränkte die Arme.
 Anna wurde lauter: „Wenn Klophas jetzt hier wäre, er würde dir die Leviten lesen.“
@@ -125,8 +127,10 @@ Anna wurde lauter: „Wenn Klophas jetzt hier wäre, er würde dir die Leviten l
 „Er würde eine Lösung finden.
 Er hat immer gesagt, dass nicht die Menschen das Böse sind, sondern ihre Taten ––– sie wusste nicht einmal, dass sie verlobt ist, sie wusste nicht, dass ihr der Mann Gewalt antun würde.“
 „Das Gesetz ist klar!“
-„Und wer ist der Mann? Wer hat das getan?“ Der Priester atmete tief ein: „Thomas, vom Ziegenbauern.“
-„Thomas? Er ist 16.
+„Und wer ist der Mann?
+Wer hat das getan?“ Der Priester atmete tief ein: „Tomas, vom Ziegenbauern.“
+„Tomas?
+Er ist 16.
 Er ist so alt wie Lidia.
 Und was passiert mit ihm?“
 „Er bezahlt die 50 Silberlinge, er hat nicht gewusst, dass sie schon verlobt ist.“
@@ -134,16 +138,16 @@ Und was passiert mit ihm?“
 Sophia wurde es im Baum unheimlich.
 Die Menge wurde immer lauter und aufgeregter.
 Ein Bauer bahnte sich mit seinem Sohn seinen Weg durch die Menge.
-„Thomas“, dachte sie.
-„Was macht der dort?“ Sein Vater schaute noch missmutiger als sonst und schob Thomas an der Schulter vor sich her.
+„Tomas“, dachte sie.
+„Was macht der dort?“ Sein Vater schaute noch missmutiger als sonst und schob Tomas an der Schulter vor sich her.
 Der schaute beschämt zu Boden.
 Sie mochte ihn nicht besonders, aber andererseits war er auch nicht so wild und unberechenbar, wie seine älteren Brüder, die nachts durch die Berge strichen und sich dort mit den Jungs aus den anderen Dörfern prügelten.
 Er war eher still.
 Mit seinen Brüdern hatte ihre Mutter schon oft geschimpft, weil sie irgendetwas kaputt gemacht hatten, oder hatte sie von irgendeinem Garten oder Hinterhof gejagt.
-Sie sah, wie Thomas mit seinem Vater auf die Tür des Hauses zuging und hereingelassen wurde.
+Sie sah, wie Tomas mit seinem Vater auf die Tür des Hauses zuging und hereingelassen wurde.
 „Warum?“, fragte sie laut, ohne dass es jemand hörte, „was machen die jetzt da?“
 
-„Wo ist Thomas?“, fragte Anna den Priester, „ich will ihn sprechen!“
+„Wo ist Tomas?“, fragte Anna den Priester, „ich will ihn sprechen!“
 „Er kommt gleich.
 Sein Vater holt ihn.
 Er meint, er muss sich das Ganze anschauen.“
@@ -153,7 +157,7 @@ Ich glaube nicht, dass das hier gerade passiert“, dachte sie.
 Vom Eingang her hörte man Lärm.
 Der Ziegenbauer stieß seinen Sohn ins Zimmer, sodass er fast über Clara stürzte.
 Anna kam drohend auf ihn zu.
-„WARUM HAST DU …?“ Thomas schaute sie kurz an, verdrehte die Augen und übergab sich vor ihr.
+„WARUM HAST DU …?“ Tomas schaute sie kurz an, verdrehte die Augen und übergab sich vor ihr.
 Er sank in die Knie.
 Anna fasste ihn mit einer Hand an der Stirn: „Warum hast du das getan?“
 „Verzeih mir! Bitte.
@@ -164,7 +168,9 @@ Anna machte einige Schritte zurück und setzte sich auf das Bett.
 „Es ist zu spät“, sagte der Priester, „und gerade du …“ Er schaute sie eindringlich an.
 „… gerade du solltest wirklich vorsichtig sein, was du in diesem Fall hier tust –– gerade in so einem Fall.“
 „Vor ... sichtig?“, fragte Anna.
-„Ja! Wie alt ist Sophia genau? Und wann hast du Joachim geheiratet? Er hat mir das nie genau gesagt.
+„Ja! Wie alt ist Sophia genau?
+Und wann hast du Joachim geheiratet?
+Er hat mir das nie genau gesagt.
 Ich kann mich erinnern, dass er mir sogar ausgewichen ist in der Frage.“ Anna sah ihn verwirrt an.
 Der Priester machte ein Zeichen zu seinen Gehilfen, dass sie Lidia nehmen sollten.
 Anna stand auf, wollte sie davon abhalten, aber einer der Gehilfen stellte sich ihr in den Weg und hielt sie fest.
@@ -207,7 +213,8 @@ Sie wandte sich von dem Mann ab, der sie aufgehalten hatte, und ging hinüber zu
 „Ich will das nicht sehen.
 Mein Vater wollte, dass ich das sehe, aber ich will nicht.“
 „Gib mir deine Kutte!“ Er hatte einen grauen Ziegenhirtenmantel an.
-„Du spinnst doch, warum? Warum soll ich dir meine Kutte geben?“
+„Du spinnst doch, warum?
+Warum soll ich dir meine Kutte geben?“
 „Ich gebe sie dir morgen wieder zurück.“
 „Nein, ich gebe dir meine Kutte nicht.“
 Sophia zog ihn hinter eine Hauswand.
@@ -243,7 +250,9 @@ Wir müssen ihr …“ Sie sah über der Schulter der Mutter, wie ein Stein Lidi
 Sophia stieß einen langen Schrei aus.
 Ihre Mutter sah sich kurz um, sah Lidia blutig von den Steinen zusammen sinken und drückte Sophia mit dem Gesicht an ihre Brust.
 So liefen sie weiter.
-Sophia wimmerte: „Warum Lidia? Warum? Warum das?“
+Sophia wimmerte: „Warum Lidia?
+Warum?
+Warum das?“
 „Sie war mit einem Mann zusammen.“
 „Nein! Das kann nicht sein.
 Ich kenne sie.
@@ -258,7 +267,7 @@ Anna schwieg.
 „Sie trägt ein Kind unter ihrem Herzen.“
 „Das kann gar nicht sein.
 Lidia macht so etwas nicht“, rief Sophia verzweifelt.
-„Thomas hat sie gezwungen.“
+„Tomas hat sie gezwungen.“
 „Tho…“ Sophia erstarrte.
 Ihre Mutter drückte sie stärker an sich und ging mit ihr in Richtung ihres Hauses.
 Sophia stieß wieder einen lauten langen Schrei aus, und dann noch einen, und noch einen, und noch einen.

@@ -23,7 +23,8 @@ next: 24
 
 Elisabeth nahm Johannes aus dem Bett und zeigte ihm am Fenster die aufgehende Sonne.
 Er wollte sie greifen, versucht es einige Male und streckte dann seine Beine.
-Elisabeth: „Willst du selber stehen? Das wird noch nicht gehen.
+Elisabeth: „Willst du selber stehen?
+Das wird noch nicht gehen.
 Du bist erst ein halbes Jaht alt.“
 Johannes streckte die Beine noch stärker und Elisabeth stellte ihn vorsichtig auf den Boden.
 Dann ließ sie ihn los und er stand, selbst, und lachte sie an.
@@ -49,7 +50,9 @@ DANN NOCHMAL ZWEI EIMER!“
 Klophas rannte zum Brunnen, füllte die Eimer, und schulterte beide.
 Dann rannte er wieder in Richtung des Hauses.
 Der Ausbilder atmete ein paar Mal tief durch.
-Joachim schlug ihm von hinten kräftig auf die Schulter: „Na? Kriegst du ihm klein? Wieviel hat er?“
+Joachim schlug ihm von hinten kräftig auf die Schulter: „Na?
+Kriegst du ihm klein?
+Wieviel hat er?“
 Der Ausbilder bewegte sich nicht: „Das wird schon noch kommen.
 Er hat zwanzig.
 Wieso bekommt er nicht einmal einen Hauch von schlechter Laune?“

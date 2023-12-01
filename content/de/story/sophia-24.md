@@ -75,7 +75,9 @@ Ich habe nichts frei.
 Ich habe gerade noch eine Familie hereinbekommen.
 Es ist kein Platz.“
 Josef: „Bitte! Meine Frau ist schwanger.“
-Der Wirt schaute ihn entsetzt an: „WAS? Und dann willst du zu mir? Weißt du was dein Bruder mit mir macht, wenn ich dir damit helfe.
+Der Wirt schaute ihn entsetzt an: „WAS?
+Und dann willst du zu mir?
+Weißt du was dein Bruder mit mir macht, wenn ich dir damit helfe.
 Er drängte Josef nach draußen und schlug die Tür zu.
 Josef schloss kurz seine Augen und drehte sich dann um zu Sophia.
 Die kniete zwischen den Tieren und betete.
@@ -160,10 +162,12 @@ Amon schaute Nahor überrascht an: „Woher kam das jetzt?“
 Nahor lächtelte ihn an und zuckte mit den Schultern.
 Dann gähnte er auch.
 Amon: „Brüder, wir haben eine Nacht vor uns.
-Und ihr seid jetzt schon müde? Was ist los mit euch.“
+Und ihr seid jetzt schon müde?
+Was ist los mit euch.“
 Er schaute die beiden an.
 Sie drehten ihre Rücken gegeneinander, lehnten sich an und schliefen ein.
-Amon gähnte auch: „Warum werde ich so müde? Ich muss wach bleiben, wenn die anderen schlafen.“
+Amon gähnte auch: „Warum werde ich so müde?
+Ich muss wach bleiben, wenn die anderen schlafen.“
 Dann drehte er sich auch mit dem Rücken zu ihnen, versuchte seine Augen offen zu halten und schlief kurz danach auch ein.
 Alle drei schienen bewegte Träume zu haben, sie rutschten im Schlaf hin und her, drehten die Köpfe, zuckten und sprachen laut.
 Plötzlich wachten alle drei zusammen auf.
@@ -194,7 +198,8 @@ Moment ––– das Messiaskind ... es friert und ist in einem Stall in Beteleh
 Wir müssen ihm helfen! Jetzt!“
 Amon: „Lass uns gehen! Mir hat er gesagt, dass es Durst hat und nicht bei der Mutter trinken kann.
 Wir brauchen einen Krug mit Schafmilch.“
-Gallum schlug Nahor auf die Schulter: „Und was ist bei dir? Was hast du gehört?“
+Gallum schlug Nahor auf die Schulter: „Und was ist bei dir?
+Was hast du gehört?“
 Nahor: „Dass das Messiaskind geboren ist in einem Stall in Bethehem und wir finden es, wenn wir den Engeln folgen.
 Am Himmel.“
 Alle schauten nach oben und sahen nichts.
@@ -215,7 +220,8 @@ Nahor rief: „Und bring den Geldsack.“
 Amon: „Den ganzen?“
 Nahor: „Natürlich! Du weiß ja nicht wie viel sie brauchen.“
 Amon nahm Krug und Geldsack und die drei machten sich auf den Weg.
-Plötzlich hielt er an: „Und wer passt auf die Schafe auf? Wir können die Herde nicht einfach alleine lassen.“
+Plötzlich hielt er an: „Und wer passt auf die Schafe auf?
+Wir können die Herde nicht einfach alleine lassen.“
 In dem Augenblick hörten sie ein nahes Bellen.
 Ein großer, kräftiger, schlanker Hund kam langsam auf sie zu und legte sich vor sie auf den Boden.
 Er bellte noch einmal.

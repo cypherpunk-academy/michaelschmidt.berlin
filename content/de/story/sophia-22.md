@@ -39,7 +39,8 @@ Aber dann stoppte er und drehte sich zu ihm.
 Simeon dachte: „Okay, das muss Amon sein.
 Er würde seine eine Sandale ja nie jemandem anderen überlassen.“
 Er lächelte ihn an.
-Amon: „Wer bist du? Ich hatte das Gefühl, dass ich anhalten sollte.“
+Amon: „Wer bist du?
+Ich hatte das Gefühl, dass ich anhalten sollte.“
 Simeon: „Amon! Du kennst mich nicht mehr?“
 Amon ging auf die Knie: „Verzeih mir, Simeon, ich war so in Eile.
 ––– Simeon! Du bist hier.
@@ -73,12 +74,14 @@ Das ist sehr gut.“
 Er rieb die Salbe vorsichtig auf die Wunde.
 Dann ließen sie das Schaf frei.
 Nahor, Gallum und Amon saßen im Halbkreis um Simeon und staunten ihn an.
-Nahor: „Du bist also der hohe Priester, der Amon in Jerusamlem angesprochen hat und ihm den Kopf verdreht hat? Warum hast du das gemacht?“
+Nahor: „Du bist also der hohe Priester, der Amon in Jerusamlem angesprochen hat und ihm den Kopf verdreht hat?
+Warum hast du das gemacht?“
 Simeon: „Ihn angesprochen oder ihm den Kopf verdreht?“
 Nahor: „Angesprochen.
 Er erzählt ständig von dir.
 Machst du das oft, dass du einfache Hirten auf der Straße ansprichst?“
-Simeon: „Zunächst einmal: Hast du schon einmal versucht, Amon den Kopf zu verdrehen? Oder ihn von irgendetwas abzubringen, von dem er überzeugt ist.“
+Simeon: „Zunächst einmal: Hast du schon einmal versucht, Amon den Kopf zu verdrehen?
+Oder ihn von irgendetwas abzubringen, von dem er überzeugt ist.“
 Gallum: „Das geht nicht.“
 Nahor: „Nein, ich habe das noch nicht geschafft.
 Was ist dein Trick?“
@@ -96,7 +99,9 @@ Er mischt in seine Fragen nichts dazu, zum Beispiel sich selbst.
 Er will nicht erfolgreich sein und glänzen, oder weise werden, oder besser als andere, er will einfach nur wissen.
 Und dann wollen die passenden Antworten umbedingt zu ihm.“
 Nahor und Gallum nickten: „Das stimmt, er will einfach nur wissen.“
-Nahor: „Dann war das Besondere, warum du ihn angesprochen hast, dass er einfach nur so ist wie er ist? Wirklich? Was ist da dran Besonderes?“
+Nahor: „Dann war das Besondere, warum du ihn angesprochen hast, dass er einfach nur so ist wie er ist?
+Wirklich?
+Was ist da dran Besonderes?“
 Simeon: „So zu sein wie man ist, bedeutet rein zu sein.“
 Gallum: „Rein, so wie die Mutter von dem Messias, der kommen wird?“
 Simeon: „Ja, ungefähr so.“
@@ -124,7 +129,8 @@ Er machte sich auf den Weg.
 Die drei schauten ihm hinterher, schauten sich dann gegenseitig an.
 Für eine lange Zeit sagte keiner ein Wort.
 Amon: „Der Messias kommt! Was sollen wir jetzt tun?“
-Gallum: „Was soll es für uns da zu tun geben? Wir sind Schafhirten.“
+Gallum: „Was soll es für uns da zu tun geben?
+Wir sind Schafhirten.“
 Amon: „Dass der Messias kommt verstehen nur die einfachen Menschen.
 Das hat mir Simeon gesagt.“
 Alle schwiegen wieder eine Zeit lang.
