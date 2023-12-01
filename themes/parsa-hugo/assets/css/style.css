@@ -918,7 +918,13 @@ audio::-webkit-media-controls-enclosure {
 
 .sophia p {
     font-family: Simonetta, serif;
-    font-size: 2.5em;
+    font-size: 2em;
+}
+
+@media (max-width: 1000px) {
+    .sophia p {
+        font-size: 1.5em;
+    }
 }
 
 .sophia.card-img {
