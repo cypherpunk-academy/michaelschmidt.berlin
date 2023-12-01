@@ -113,10 +113,14 @@
                                 alt="post-thumb"
                             />
                         </a>
-                        <p class="text-uppercase">
-                            <span>{{ .Params.Weight }}. Dezember: </span
-                            ><span><strong>{{ .Params.Title }}</strong></span>
-                        </p>
+                        <a href="{{ $storyLink }}">
+                            <p class="text-uppercase">
+                                <span>{{ .Params.Weight }}. Dezember: </span
+                                ><span
+                                    ><strong>{{ .Params.Title }}</strong></span
+                                >
+                            </p>
+                        </a>
                     </div>
                     {{ end }}
                 </div>
