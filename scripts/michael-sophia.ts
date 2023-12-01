@@ -31,14 +31,14 @@ export default (): void => {
                 }`,
                 timeZone
             ),
-            6
+            4
         );
 
         console.log(11.1, { yaml });
 
         yaml.expirydate = addHours(
             addYears(utcToZonedTime(`${year}-01-07`, timeZone), 1),
-            6
+            4
         );
 
         yaml.type = 'sophia';
