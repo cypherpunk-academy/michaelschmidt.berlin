@@ -5,7 +5,7 @@ description: A description
 type: featured
 image: images/gedankenfehler.jpg
 author: An author
-weight: 1
+weight: 10
 categories:
     - 4 von 38
 tags:

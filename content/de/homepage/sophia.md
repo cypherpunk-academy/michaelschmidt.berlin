@@ -5,7 +5,7 @@ description: Die Weihnachtsgeschichte, neu erzählt
 type: featured
 image: images/sophia.jpg
 omitImage: true
-weight: 4
+weight: 5
 author: An author
 categories:
     - Die Weihnachtsgeschichte ..... neu erzählt
