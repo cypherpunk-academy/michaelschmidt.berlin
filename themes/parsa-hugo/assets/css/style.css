@@ -42,31 +42,31 @@ h6 {
 
 h1,
 .h1 {
-    font-size: 80px;
+    font-size: 60px;
 }
 
 @media (max-width: 767px) {
     h1,
     .h1 {
-        font-size: 55px;
+        font-size: 50px;
     }
 }
 
 h2,
 .h2 {
-    font-size: 50px;
+    font-size: 45px;
 }
 
 @media (max-width: 767px) {
     h2,
     .h2 {
-        font-size: 45px;
+        font-size: 40px;
     }
 }
 
 h3,
 .h3 {
-    font-size: 40px;
+    font-size: 35px;
 }
 
 h4,
