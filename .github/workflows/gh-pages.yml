@@ -7,6 +7,7 @@ on:
     pull_request:
     schedule:
         - cron: '0 5 1-28 12 *' # Every day at 5am from December 1st to 28st
+        - cron: '0 12 7 1 *' # At noon on every 7th of January
 
 jobs:
     deploy:
