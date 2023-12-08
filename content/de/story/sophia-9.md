@@ -21,8 +21,8 @@ Ein Engeltags:
   - Josefs Onkel
   - Josefs Cousin
 translation: original
-date: 2023-12-09T05:00:00.000Z
-expirydate: 2024-01-07T05:00:00.000Z
+date: 2023-12-09T03:00:00.000Z
+expirydate: 2024-01-07T03:00:00.000Z
 type: sophia
 image: images/sophia/chapter9.jpg
 weight: 9

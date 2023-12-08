@@ -12,6 +12,8 @@ const IMAGE_PATH = 'images/sophia/chapter';
 const CHAPTER_PATH = 'content/de/story/sophia-';
 const WAITING_TEXTS = ['Bald ....', 'Demächst ...', 'In Vorbereitung ......'];
 
+// TODO: Read the timezone from the system and change the date accordingly
+
 export default (): void => {
     console.log(`Michael Sophia: ${text.length}`);
 
@@ -33,8 +35,6 @@ export default (): void => {
             ),
             4
         );
-
-        console.log(11.1, { yaml });
 
         yaml.expirydate = addHours(
             addYears(utcToZonedTime(`${year}-01-07`, timeZone), 1),

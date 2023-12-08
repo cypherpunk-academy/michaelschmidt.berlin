@@ -1,6 +1,6 @@
 ---
 title: Sophia und Josef
-date: 2023-12-18T05:00:00.000Z
+date: 2023-12-18T03:00:00.000Z
 description: A description
 type: sophia
 image: images/sophia/chapter18.jpg
@@ -14,7 +14,7 @@ tags:
   - B
   - C
 translation: original
-expirydate: 2024-01-07T05:00:00.000Z
+expirydate: 2024-01-07T03:00:00.000Z
 weight: 18
 next: 19
 ---

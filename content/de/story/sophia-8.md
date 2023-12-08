@@ -7,8 +7,8 @@ tags:
   - Elisabeth
   - Zacharias
 translation: original
-date: 2023-12-08T05:00:00.000Z
-expirydate: 2024-01-07T05:00:00.000Z
+date: 2023-12-08T03:00:00.000Z
+expirydate: 2024-01-07T03:00:00.000Z
 type: sophia
 image: images/sophia/chapter8.jpg
 weight: 8

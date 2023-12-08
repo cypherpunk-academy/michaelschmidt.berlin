@@ -11,8 +11,8 @@ tags:
   - Nahor
   - Simeon
 translation: original
-date: 2023-12-07T05:00:00.000Z
-expirydate: 2024-01-07T05:00:00.000Z
+date: 2023-12-07T03:00:00.000Z
+expirydate: 2024-01-07T03:00:00.000Z
 type: sophia
 image: images/sophia/chapter7.jpg
 weight: 7

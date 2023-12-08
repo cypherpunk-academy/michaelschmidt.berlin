@@ -11,8 +11,8 @@ tags:
   - Sophia
   - Maria
 translation: original
-date: 2023-12-01T05:00:00.000Z
-expirydate: 2024-01-07T05:00:00.000Z
+date: 2023-12-01T03:00:00.000Z
+expirydate: 2024-01-07T03:00:00.000Z
 type: sophia
 image: images/sophia/chapter1.jpg
 weight: 1
