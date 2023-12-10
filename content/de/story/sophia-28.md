@@ -6,13 +6,13 @@ type: sophia
 image: images/sophia/chapter28.jpg
 author: Michael Schmidt
 categories:
-  - "1"
-  - "2"
-  - "3"
+    - '12'
+    - '2'
+    - '3'
 tags:
-  - A
-  - B
-  - C
+    - A
+    - B
+    - C
 translation: original
 expirydate: 2024-01-07T03:00:00.000Z
 weight: 28
