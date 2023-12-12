@@ -6,7 +6,7 @@ type: featured
 image: images/sophia.jpg
 omitImage: true
 weight: 5
-author: An author
+author: Michael Schmidt
 categories:
     - Die Weihnachtsgeschichte ..... neu erzählt
 tags:
