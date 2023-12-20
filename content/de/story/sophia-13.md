@@ -27,6 +27,8 @@ next: 14
 
 # Kapitel 13
 
+
+
 Am Morgen des Tages, an dem sie zu Josef gehen wollten, stand Sophia eine Stunde früher auf.
 Sie holte frisches Wasser vom Brunnen und Heu aus einem kleinen Schuppen und brachte beides zu den Tiergehegen.
 Sie nahm das kleine Häschen, das Josef auf seiner Hand gehabt hatte, und streichelte es eine Weile.

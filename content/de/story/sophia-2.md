@@ -21,6 +21,8 @@ next: 3
 
 # Kapitel 2
 
+
+
 Der alte Schafhirte erhob sich mühsam von der Bank vor seinem Haus.
 Er fasste sich an den Bauch und verzog das Gesicht.
 „Verrübelt nochmal!“, schnauzte er und rief laut.

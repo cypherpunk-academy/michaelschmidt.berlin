@@ -1,5 +1,5 @@
 ---
-title: Sophia und Josef
+title: Anna in Kana
 categories:
   - Anna
   - Zacharias
@@ -18,6 +18,8 @@ next: 12
 ---
 
 # Kapitel 11
+
+
 
 Anna betrat die Synagoge im Dorf Kana, wo Zacharias normalerweise seine Opfer bereitete.
 Sie kniete nieder und legte zuerst die Hände, dann ihre Stirn auf den Boden.

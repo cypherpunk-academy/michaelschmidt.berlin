@@ -1,28 +1,34 @@
 ---
-title: Sophia und Josef
+title: Verschiede Wege
+categories:
+  - Elisabeth
+  - Johannes
+  - Maria
+  - Anna
+  - Sophia
+  - Josef
+tags:
+  - Elisabeth
+  - Johannes
+  - Maria
+  - Anna
+  - Sophia
+  - Josef
+translation: original
 date: 2023-12-23T03:00:00.000Z
-description: A description
+expirydate: 2024-01-07T03:00:00.000Z
 type: sophia
 image: images/sophia/chapter23.jpg
-author: Michael Schmidt
-categories:
-  - "1"
-  - "2"
-  - "3"
-tags:
-  - A
-  - B
-  - C
-translation: original
-expirydate: 2024-01-07T03:00:00.000Z
 weight: 23
 next: 24
 ---
 
 # Kapitel 23
 
+
+
 Elisabeth nahm Johannes aus dem Bett und zeigte ihm am Fenster die aufgehende Sonne.
-Er wollte sie greifen, versucht es einige Male und streckte dann seine Beine.
+Er wollte sie greifen, versuchte es einige Male und streckte dann seine Beine.
 Elisabeth: „Willst du selber stehen?
 Das wird noch nicht gehen.
 Du bist erst ein halbes Jaht alt.“
@@ -37,45 +43,20 @@ Sie ging mit ihm und tatsächlich, er machte Schritte, und sie wurden sicherer u
 Sie gingen zusammen die Treppe hinunter und dann in den Garten.
 Johannes deutete in Richtung Sonne und machte dazu einige unverständliche Töne, wie als ob er etwas sagen wollte.
 
-Klophas kam keuchend, mit zwei großen, leeren Eimern, die an beiden Enden eines Stocks befestigt waren, zurück auf den Übungsplatz.
-Er hatte sie vorher voll Wasser alle Stufen eines vierstöckigen Hauses hinaufgetragen und oben vom Dach heruntergeschüttet.
-Jetzt stand er leicht nach vorne gebeugt vor einem breitschultrigen römischen Ausbilder.
-„HALTUNG! Frischling“, brüllte der ihn an.
-Klophas richtete sich blitzschnell auf und schaute ihm kraftvoll in die Augen.
-Ausbilder: „Na! Müde?“
-Klophas antwortete in freudigem Ton: „Nein.
-Kein Stück.“
-Ausbilder: „Nein reicht als Information.
-DANN NOCHMAL ZWEI EIMER!“
-Klophas rannte zum Brunnen, füllte die Eimer, und schulterte beide.
-Dann rannte er wieder in Richtung des Hauses.
-Der Ausbilder atmete ein paar Mal tief durch.
-Joachim schlug ihm von hinten kräftig auf die Schulter: „Na?
-Kriegst du ihm klein?
-Wieviel hat er?“
-Der Ausbilder bewegte sich nicht: „Das wird schon noch kommen.
-Er hat zwanzig.
-Wieso bekommt er nicht einmal einen Hauch von schlechter Laune?“
-Joachim: „Weil du zu schwach für ihn bist, vielleicht?“
-Der Ausbilder schaute Joachim aus den Augenwinkeln an.
-Joachim: „Nein.
-Du verstehst das, wenn du darauf schaust, was er als Kind erlebt hat.
-Außerdem ist er verliebt ...“
-Der Ausbilder zeigte mit dem Finger auf Joachim und nickte: „Das ist es!“
-
-Maria, die jetzt offiziell Sophia hieß, betrachtete das Schild über der Haustür, es sagte in lateinischer Sprache; „Familie Joachim Lazarus, Römischer Bürge.“
+Maria, die jetzt offiziell Sophia hieß, betrachtete das Schild über der Haustür, es sagte in lateinischer Sprache; „Familie Joachim Lazarus, Römischer Bürger.“
 und trug ein Siegel des Herodes.
 Sie lächelte.
 Im Dorf hatte sich der Nameswechsel schnell herumgesprochen, es gab auch vielerlei Geschichten, warum das passiert war.
 Die, die die meisten Anhänger fand, war, dass die Namen von den Römern in Jerusalem falsch eingetragen worden waren und dass man sie daran anpasste.
 Bislang hatte noch niemand nach einer schwangeren Sophia gefragt.
-Aber der Priester, der sie jetzt auch Sophia nennen musste, schien etwas mehr Angst um sich herum zu haben, wenn er an ihrem Haus vorbei kam.
-Er war wohl immer noch beeindruckt von den Ereignissen.
+Aber der Priester, der Maria jetzt auch Sophia nennen musste, schien etwas mehr Angst um sich herum zu haben, wenn er an ihrem Haus vorbei kam.
+Er war wohl immer noch beeindruckt von dem Treffen mit ihrem Vater.
+
 Anna kam von hinten und legte ihre Arme um Maria.
 So schauten sie eine Weile gemeinsam auf das Schild.
 Anna: „Was macht wohl Maria gerade?“
 Maria schloss die Augen und legte sich beide Hände auf ihre Brust: „Sie ist guter Dinge.
-Aber erschöpft, denke ich.“
+Aber erschöpft, wie es scheint.“
 
 Sophia, die jetzt Maria hieß, lief hinter Josef zwischen dem Ochsen und dem Esel.
 Sie konnte ihre Füße nicht mehr spüren.

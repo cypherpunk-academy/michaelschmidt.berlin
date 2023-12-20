@@ -21,6 +21,8 @@ next: 8
 
 # Kapitel 7
 
+
+
 Amon stieß einen langen Schrei aus, sprang über einen Baumstamm und versuchte, seinen Bruder Gallum einzuholen.
 Der rannte einen kleinen Hügel hinauf und wedelte dabei lachend mit Amons Schuh.
 Er kletterte einen Felsen hoch, stand breitbeinig oben und hielt Amon auffordernd den Schuh entgegen.

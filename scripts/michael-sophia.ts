@@ -48,10 +48,11 @@ export default (): void => {
 
         const filePath = `${process.cwd()}/${CHAPTER_PATH}${i + 1}.md`;
 
+        const contentWithoutImages = content.replace(/!\[(.*?)\]\((.*?)\)/, '');
         const actualContent =
             i < CHAPTERS_IN_PREVIEW && isAfter(new Date(), yaml.date)
                 ? WAITING_TEXTS[i % WAITING_TEXTS.length]
-                : content;
+                : contentWithoutImages;
 
         fs.writeFileSync(
             filePath,

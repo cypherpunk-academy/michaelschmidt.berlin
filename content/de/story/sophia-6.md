@@ -27,6 +27,8 @@ next: 7
 
 # Kapitel 6
 
+
+
 Sophia hielt immer noch ihren Kopf an die Tür und zählte rückwärts: „3 … 2 … 1!“
 Sie öffnete die Tür vorsichtig.
 Ihr kleine Schwester kam von hinten und versuchte, sie festzuhalten: „Hey, Sophia, nein! Mutter hat gesagt, du sollst hier bleiben.“
@@ -268,7 +270,7 @@ Anna schwieg.
 „Das kann gar nicht sein.
 Lidia macht so etwas nicht“, rief Sophia verzweifelt.
 „Tomas hat sie gezwungen.“
-„Tho…“ Sophia erstarrte.
+„To…“ Sophia erstarrte.
 Ihre Mutter drückte sie stärker an sich und ging mit ihr in Richtung ihres Hauses.
 Sophia stieß wieder einen lauten langen Schrei aus, und dann noch einen, und noch einen, und noch einen.
 Ihre Mutter kniff ihre Augen zusammen, Tränen rannten ihr über das Gesicht.

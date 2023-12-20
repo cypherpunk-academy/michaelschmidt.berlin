@@ -1,10 +1,5 @@
 ---
-title: Sophia und Josef
-date: 2023-12-14T03:00:00.000Z
-description: A description
-type: sophia
-image: images/sophia/chapter14.jpg
-author: Michael Schmidt
+title: Sophia und Josef (2)
 categories:
   - Sophia
   - Josef
@@ -18,12 +13,17 @@ tags:
   - Gabriel (Engel)
   - Anna
 translation: original
+date: 2023-12-14T03:00:00.000Z
 expirydate: 2024-01-07T03:00:00.000Z
+type: sophia
+image: images/sophia/chapter14.jpg
 weight: 14
 next: 15
 ---
 
 # Kapitel 14
+
+
 
 Es donnerte bis in den Tempelraum hinein.
 Ein Wind kam auf, wurde stärker, heulte um das Häuschen herum und rüttelte an den Holzschindeln auf dem Dach.

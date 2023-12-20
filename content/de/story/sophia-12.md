@@ -21,6 +21,8 @@ next: 13
 
 # Kapitel 12
 
+
+
 Sophia saß auf ihrer Bettkante.
 Sie war alleine im Zimmer.
 Sie beugte sich leicht nach vorne und schaute zur Seite zum Hocker am Fenster.

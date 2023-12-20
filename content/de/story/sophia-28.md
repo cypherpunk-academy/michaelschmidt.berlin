@@ -1,20 +1,32 @@
 ---
-title: Sophia und Josef
+title: Zurück in Nazareth
+categories:
+  - Simeon
+  - Amon
+  - Nahor
+  - Gallum
+  - Sophia
+  - Das Kind (Sophia and Josef's child)
+  - Joseph
+  - Der Priester
+  - Maria
+  - Anna
+tags:
+  - Simeon
+  - Amon
+  - Nahor
+  - Gallum
+  - Sophia
+  - Das Kind (Sophia and Josef's child)
+  - Joseph
+  - Der Priester
+  - Maria
+  - Anna
+translation: original
 date: 2023-12-28T03:00:00.000Z
-description: A description
+expirydate: 2024-01-07T03:00:00.000Z
 type: sophia
 image: images/sophia/chapter28.jpg
-author: Michael Schmidt
-categories:
-    - '12'
-    - '2'
-    - '3'
-tags:
-    - A
-    - B
-    - C
-translation: original
-expirydate: 2024-01-07T03:00:00.000Z
 weight: 28
 next: 29
 ---

@@ -17,6 +17,8 @@ next: 6
 
 # Kapitel 5
 
+
+
 Zacharias stand im festlichen Priestergewand hinter dem schweren Vorhang am Eingang zum Großen Tempel in Jerusalem.
 Er hörte die Menge draußen laut miteinander sprechen, beten, sich begrüßen, durcheinander rufen...
 Er schloss die Augen und atmete einige Male tief ein und aus.

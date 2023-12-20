@@ -31,6 +31,8 @@ next: 10
 
 # Kapitel 9
 
+
+
 Der Hof und die Schreinerei von Josef lagen ein wenig außerhalb von Nazareth in einem Tal, das ein kleiner Bach in der Mitte teilte.
 Auf dem Weg dorthin kam man an einem verlassenen Bauernhof vorbei, mit verfallenen Ställen, einer überwucherten Wiese und einem verdorrten Rosengarten.
 Josefs Hof erschien im Vergleich dazu als das gerade Gegenteil.
@@ -168,9 +170,9 @@ Kann es sein, dass sie das Kind von dir hat?“
 Josef blieb stumm, er dachte an Talia, wie sie zusammen, Arm in Arm, noch den Sonnenuntergang angeschaut hatten und er sie dann bis zum Bach gebracht hatte, wo ihre Eltern das Zelt hatten.
 Sie hatte ihn so eindringlich angeschaut, als er sich verabschiedete, so frei und dann hatte sie gelächelt, auf ihre Art, so wie nur sie lächeln konnte.
 Sie war eine so starke Frau, vielleicht zwei Jahre älter als er.
-
 Nein, das war heilig, das war nur für sie und ihn.
 Das konnte er nicht verraten.
+
 Vater: „Ich frage kein drittes Mal!“
 Die Mutter ging auf ihn zu und hielt seine Backen: „Josef, wenn sie einen Sohn bekommt, dann könnte er dein Thronfolger werden.
 Er ist dann der Älteste.
@@ -271,15 +273,16 @@ Aber nicht für deinen Sohn.“
 Der Vater wies mit dem Finger zwei Diener an, den Sohn zu seinem Zimmer zu begleiten.
 „NEIN!“, rief Josef als ihn ein Diener an der Schulter fasste, „NEIN, ihr tut ihnen nichts.“
 Er machte sich los und schaute zum Vater.
-Der wiederholte sein Zeichen und die Diener brachten Joseph aus sein Zimmer.
+Der wiederholte sein Zeichen und die Diener brachten Joseph aus seinem Zimmer.
 
 Joseph erwachte im Tempelhäuschen mit einem Bild von dem blutigen Zeltplatz am Bach, den er eine Woche später gesehen hatte.
 Sein Gesicht war schweißgebadet.
 Er atmete schwer.
 
 Eine ruhige Stimme sagte von der Seite: „Klophas ist dein neuer Lehrling.“
-Er drehte sich zu der Stimme und sah einen Engel mit gemütlich übereinander geschlagenen Beinen in einem lustigen und sehr schönen Gewand aus grünen, roten und blauen Tönen. Er schaute ihn mit warmen Augen an.
-„So können nur Engel schauen“, dachte er und er spürte, wie die Anspannung von ihm einfach abfiel, sein Atem ruhig wurde und er sich leicht fühlte.
+Er drehte sich zu der Stimme und sah einen Engel mit gemütlich übereinander geschlagenen Beinen in einem lustigen und sehr schönen Gewand aus grünen, roten und blauen Tönen.
+Er schaute ihn mit warmen Augen an.
+„So können nur Engel schauen“, dachte Josef und er spürte, wie die Anspannung von ihm einfach abfiel, sein Atem ruhig wurde und er sich leicht fühlte.
 Er lächelte zurück und nickte.
 
 Der Engel verschwand, Josef trocknete den Schweiß mit einem Tuch von der Stirn und trat aus dem Tempelhäuschen.

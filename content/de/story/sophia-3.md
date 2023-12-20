@@ -23,6 +23,8 @@ next: 4
 
 # Kapitel 3
 
+
+
 Zacharias sah in den Bronzespiegel in seinem Schlafraum und betrachtete das fein gewebte Untergewand, das immer der oberste Priester seiner Abteilung bekam.
 Er trug es an diesem Tag zum ersten Mal.
 Es war in einem leicht bräunlichen Weiß gehalten und hatte viele Stickereien mit Mustern und religiösen Symbolen.

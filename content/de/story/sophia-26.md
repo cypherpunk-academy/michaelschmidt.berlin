@@ -1,20 +1,26 @@
 ---
-title: Sophia und Josef
+title: Gute Nachrichten
+categories:
+  - Josef
+  - Sophia
+  - Das Kind
+  - Rafael
+  - Amon
+  - Gallum
+  - Nahor
+tags:
+  - Josef
+  - Sophia
+  - Das Kind
+  - Rafael
+  - Amon
+  - Gallum
+  - Nahor
+translation: original
 date: 2023-12-26T03:00:00.000Z
-description: A description
+expirydate: 2024-01-07T03:00:00.000Z
 type: sophia
 image: images/sophia/chapter26.jpg
-author: Michael Schmidt
-categories:
-  - "1"
-  - "2"
-  - "3"
-tags:
-  - A
-  - B
-  - C
-translation: original
-expirydate: 2024-01-07T03:00:00.000Z
 weight: 26
 next: 27
 ---

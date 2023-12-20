@@ -1,20 +1,26 @@
 ---
-title: Sophia und Josef
+title: Simeon und das Kind
+categories:
+  - Simeon
+  - Nahor
+  - Gallum
+  - Amon
+  - Sophia
+  - Das Kind
+  - Josef
+tags:
+  - Simeon
+  - Nahor
+  - Gallum
+  - Amon
+  - Sophia
+  - Das Kind
+  - Josef
+translation: original
 date: 2023-12-27T03:00:00.000Z
-description: A description
+expirydate: 2024-01-07T03:00:00.000Z
 type: sophia
 image: images/sophia/chapter27.jpg
-author: Michael Schmidt
-categories:
-  - "1"
-  - "2"
-  - "3"
-tags:
-  - A
-  - B
-  - C
-translation: original
-expirydate: 2024-01-07T03:00:00.000Z
 weight: 27
 next: 28
 ---

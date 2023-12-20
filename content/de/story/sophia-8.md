@@ -17,6 +17,8 @@ next: 9
 
 # Kapitel 8
 
+
+
 Die Sonne ging gerade unter in Kana.
 Man sah sie vom Haus von Zacharias und Elisabeth aus, vom Schlafzimmerfenster hinter den Häusern verschwinden.
 Die beiden sahen sie nicht.

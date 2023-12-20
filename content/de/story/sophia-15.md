@@ -1,30 +1,37 @@
 ---
 title: Der Rosengarten
-date: 2023-12-15T03:00:00.000Z
 categories:
-    - Sophia
-    - Rafael
-    - Anna
-    - Josef
-    - Gabriel
-    - Maria
-    - Klophas
-    - Simeon
-    - Elisabeth
+  - Sophia
+  - Rafael
+  - Anna
+  - Josef
+  - Gabriel
+  - Maria
+  - Klophas
+  - Simeon
+  - Elisabeth
 tags:
-    - Sophia
-    - Rafael
-    - Anna
-    - Josef
-    - Gabriel
-    - Maria
-    - Klophas
-    - Simeon
-    - Elisabeth
+  - Sophia
+  - Rafael
+  - Anna
+  - Josef
+  - Gabriel
+  - Maria
+  - Klophas
+  - Simeon
+  - Elisabeth
 translation: original
+date: 2023-12-15T03:00:00.000Z
+expirydate: 2024-01-07T03:00:00.000Z
+type: sophia
+image: images/sophia/chapter15.jpg
+weight: 15
+next: 16
 ---
 
 # Kapitel 15
+
+
 
 Sophia betrat den Rosengarten.
 Die Hecke um ihn herum war dicht überwuchert, die Rosenstöcke alle verdorrt.
