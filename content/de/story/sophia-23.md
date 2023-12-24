@@ -31,7 +31,7 @@ Elisabeth nahm Johannes aus dem Bett und zeigte ihm am Fenster die aufgehende So
 Er wollte sie greifen, versuchte es einige Male und streckte dann seine Beine.
 Elisabeth: „Willst du selber stehen?
 Das wird noch nicht gehen.
-Du bist erst ein halbes Jaht alt.“
+Du bist erst ein halbes Jahr alt.“
 Johannes streckte die Beine noch stärker und Elisabeth stellte ihn vorsichtig auf den Boden.
 Dann ließ sie ihn los und er stand, selbst, und lachte sie an.
 Dann streckte er eine Hand zu ihr und sie umfasste sie.

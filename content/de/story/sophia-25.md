@@ -41,7 +41,7 @@ Nur um sie herum war Platz.
 Sie stützte sich mit beiden Armen hinter ihrem Rücken ab und stupste Josef mit einem Knie sanft an.
 Der drehte sich und richtete sich auch auf.
 Sie schaute sich um, um ihm die Tiere anzudeuten.
-Er nickte und lächelte sie an:„Du siehst besser aus.
+Er nickte und lächelte sie an: „Du siehst besser aus.
 Frischer ––– Aber was ist?“
 Sophia: „Das Kind, es kommt.“
 Josef: „Du hast keine Schmerzen?“
@@ -58,14 +58,14 @@ Josef schaute das Kind an, er fühlte sich von ihm angezogen.
 Eine Wärmewolke durchwehte ihn.
 Er musste deswegen laut lachen.
 Sein ganzer Körper fühlte sich voller Lebenskraft an.
-Er schaute es wieder an und konnte nicht glauben wie anders sich das Leben mit ihm anfühlte.
+Er schaute es wieder an und konnte nicht glauben, wie anders sich das Leben mit ihm anfühlte.
 Er gab es Sophia auf den Bauch.
-Sie nahm es vorsichtigt in ihre Hände.
+Sie nahm es vorsichtig in ihre Hände.
 Und lachte auch.
 Das Kind verzog keine Miene.
 Sie legte es an ihre Brust: „Na?
-Willst du trinken.“
-Das Kind machte einige Saugbewegungen an Sophias Brust, aber lies es nach kurzer Zeit wieder.
+Willst du trinken?“
+Das Kind machte einige Saugbewegungen an Sophias Brust, ließ es aber nach kurzer Zeit wieder.
 Sophias Körper war am Tag davor zu kalt geworden.
 Es kam keine Milch.
 Sie probierte wieder, das Kind anzulegen ... und wieder, aber es half nicht.
@@ -83,7 +83,7 @@ Die Milch kommt nicht.
 Hast du ein wenig Milch für uns?“
 Wirt ärgerlich: „Es ist mitten in der Nacht.
 Ich habe keine Milch für dich.
-Ich hättet das wirklich besser planen müssen.“
+Ihr hättet das wirklich besser planen müssen.“
 Der Wirt versuchte die Tür zu schließen, aber Josef hielt sie auf.
 Der Wirt schaute ihn böse an: „Verschwinde jetzt! Ich kann euch auch wieder aus dem Stall herauswerfen.“
 Josef erschrak und zog seine Hand zurück.
@@ -113,7 +113,7 @@ Gallum legte seine Stirn auf den Boden, er fühlte eine warme Wolke durch seinen
 
 Amon kam auf Knien neben ihn und drückte ihn zur Seite.
 Er hielt Sophia den Milchkrug entgegen.
-„Mutter unserers Messias, der die Welt heilen wird und König von Israel für alle Zeiten, bitte nimm dieses Geschenk von dem Diener deines Sohnes.“
+„Mutter unseres Messias, der die Welt heilen wird und König von Israel für alle Zeiten, bitte nimm dieses Geschenk von dem Diener deines Sohnes.“
 
 Sie nahm den Krug, immer noch staunend, tauchte einen Finger hinein und gab ihn dem Kind in den Mund.
 Es verlangte nach mehr und vorsichtig hielt sie ihm den Krug an den Mund.
@@ -121,12 +121,12 @@ Tränen liefen ihr über die Wangen und sie nickte kurz dankend Richtung Amon.
 Amon fischte nach einem Strohhalm auf dem Boden, kürzte ihn und steckte ihn in den Krug und den Mund des Kindes, das sofort anfing, daran zu saugen.
 Dann legte er seine Stirn auch auf den Boden.
 Josef legte beiden eine Hand auf den Kopf und sagte: „Kommt hoch, Freunde!
-Setzt euch eben uns.
+Setzt euch zu uns.
 Lasst uns zusammen beten.“
 Nahor kam dazu und hielt Josef das Geld hin: „Das werdet ihr brauchen.
 Nimm es.“
 Josef legte ihm eine Hand auf die Schulter: „Danke, Bruder, es kommt gerade im rechten Augenblick.
-Ich habe heute morgen mein letztes Geld in einer Herberge ausgegeben.“
+Ich habe heute Morgen mein letztes Geld in einer Herberge ausgegeben.“
 Sie saßen im Kreis um Sophia und das Kind.
 Hielten ihre Hände und fingen an zu beten.
 

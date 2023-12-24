@@ -30,7 +30,7 @@ Sophia: „Meinst du so? ––– Noch ein wenig mehr Hohlkreuz? ––– Ahhh
 Sophia hielt einige Momente in dieser Haltung aus und drehte sich dann Richtung Stuhl.
 Der war äußerlich leer, aber so, wie sie auf dem Hocker ein paar Tage zuvor Lidia gesehen hatte, sah sie jetzt eine etwa 30-jährige Frau in einem schönen, luftigen Kleid, mit einem freien Lächeln und funkelnden Augen voller Energie und Humor.
 Sophia: „Zeig mir noch etwas! ––– Gut ––– Ich weiß, ich muss mir die Haare noch ein wenig wachsen lassen … ––– Okay, ja, ich muss nicht ... nur für das.“
-Anna stützte ihre Hände ein Stück hinter ihrem Rücken auf das Bett und ließ ihren Kopf nach hintenfallen.
+Anna stützte ihre Hände ein Stück hinter ihrem Rücken auf das Bett und ließ ihren Kopf nach hinten fallen.
 „Brust noch ein wenig mehr nach oben ––– ja, ich verstehe, ohh, das fühlt sich auch schön an.“
 
 Die Tür öffnete sich und Anna kam herein.
