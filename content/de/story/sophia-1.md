@@ -20,7 +20,7 @@ next: 2
 ---
 
 <div style="margin-left: 10vh; margin-right: 10vh; text-align: cneter; font-size: 1.2em;">
-<em>Es standen aber bei dem Kreuz Jesu seine Mutter und seiner Mutter Schwester, Maria, die Frau des Klopas, und Maria Magdalena (-johannes 19.25).</em>
+<em>Es standen aber bei dem Kreuz Jesu seine Mutter und seiner Mutter Schwester, Maria, die Frau des Klopas, und Maria Magdalena (Johannes 19.25).</em>
 </div>
 
 # Simeon

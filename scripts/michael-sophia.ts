@@ -1,5 +1,5 @@
 import YAML from 'yaml';
-import { format, addYears, addDays, addHours, isAfter } from 'date-fns';
+import { format, addYears, subDays, addHours, isAfter } from 'date-fns';
 import { utcToZonedTime } from 'date-fns-tz';
 
 import fs from 'fs';
@@ -22,7 +22,7 @@ export default (): void => {
         const [yamlText, content] = chapter.split('\n---\n');
 
         const yaml = YAML.parse(yamlText);
-        const year = format(addDays(new Date(), 7), 'yyyy');
+        const year = format(subDays(new Date(), 7), 'yyyy');
 
         yaml.date = addHours(
             utcToZonedTime(
