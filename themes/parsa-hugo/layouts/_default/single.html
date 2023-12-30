@@ -84,7 +84,9 @@
                         alt="post-thumb"
                     />
                 </a>
-                {{ else }} Mehr gibt es noch nicht ... morgen dann. <br />
+                {{ else }} {{ if lt .Params.Weight 28 }} Mehr gibt es noch nicht
+                ... morgen dann. <br />
+                {{ end }}
                 <a href="../../homepage/sophia">Zurück</a>
                 {{ end }}
             </div>
