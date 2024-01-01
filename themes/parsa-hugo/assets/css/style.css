@@ -910,6 +910,40 @@ audio::-webkit-media-controls-enclosure {
     padding: 5px;
 }
 
+.gedanken .list {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.gedanken .card {
+    display: grid;
+    grid-template-columns: 1fr;
+    width: 18%;
+    justify-items: center;
+    align-items: center;
+    border-width: 0px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+@media (max-width: 1000px) {
+    .gedanken .card {
+        width: 45%;
+    }
+}
+
+@media (max-width: 800px) {
+    .gedanken .card {
+        width: 90%;
+    }
+}
+
+.gedanken .label {
+    font-family: 'Caveat', cursive;
+    font-size: 2em;
+    color: rgb(57, 16, 16);
+}
+
 .story-list {
     display: flex;
     flex-wrap: wrap;

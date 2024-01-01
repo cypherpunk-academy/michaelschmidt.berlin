@@ -13,8 +13,8 @@ author: Michael
 4. Angst ✅
 5. Worte ✅
 
-6. Hierarchie 🕰️
-7. Gewinnen
+6. Hierarchie 🏗️
+7. Gewinnen 🕰️
 8. Vertrauen
 9. Technik
 10. Wut
@@ -22,22 +22,22 @@ author: Michael
 11. Sexualität
 12. Tod
 13. Geld
-14. Schmerzen
+14. Leiden / Gefühle
 15. Lügen
 
 16. Gerechtigkeit
 17. Opfer
 18. Ehrgeiz
 19. Schuldgefühl
-20. Bedürfnisse
+20. Verantwortung
 
 21. Freude
 22. Arbeit
 23. Strafe
-24. Trennung
-25. Verantwortung
+24. Beziehung / Trennung
+25. Bedürfnisse
 
-26. Wahrheit
+26. Die Wahrheit
 27. Der Mensch
 28. Wiederholte Erdenleben
 29. Entwicklung
@@ -51,9 +51,9 @@ author: Michael
 
 36. Lebensgrundlage
 37. Öffentliche Meinung
-38. Schmerz
-39. Ausschließen
-40. Allein sein
+38. Ausschließen
+39. Alleine sein
+40. Recht haben
 
 (🕰️)
 

@@ -48,29 +48,39 @@ _Alles hier ist nur Versuch_, nicht endgültige Lösung. Alles ist im Fluss. Des
 (zum Lesen und Kommentieren)
 
 <div class="gedanken">
-
-|                                                                                                                           |                                                                                                                                  |                                                                                                                                   |                                                                                                                   |                                                                                                                                |
-| ------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| [![Erziehung](/images/gedankenfehler/erziehung.png)](https://miro.com/app/board/uXjVM3o2LkA=/?share_link_id=218039651414) | [![Fehler machen](/images/gedankenfehler/fehler-machen.png)](https://miro.com/app/board/uXjVMzmjJLY=/?share_link_id=80970369425) | [![Zufriedenheit](/images/gedankenfehler/zufriedenheit.png)](https://miro.com/app/board/uXjVMwDwRrg=/?share_link_id=988464589278) | [![Angst](/images/gedankenfehler/angst.png)](https://miro.com/app/board/uXjVMwC5Y9g=/?share_link_id=385384185787) | [![Worte](/images/gedankenfehler/worte.png)](https://miro.com/app/board/uXjVNaEvGog=/?moveToWidget=3458764566866800527&cot=14) |
-| **Erziehung**                                                                                                             | **Fehler machen**                                                                                                                | **Zufriedenheit**                                                                                                                 | **Angst**                                                                                                         | **Worte**                                                                                                                      |
-| ...weitere 3<a href="/de/plan">4</a>                                                                                      |                                                                                                                                  |                                                                                                                                   |                                                                                                                   |                                                                                                                                |
-
-**Bitte verwendet die Kommentar-Funktion in den miro-Boards, wenn ihr etwas zu den Gedankenfehlern sagen wollt.**  
-Besonders interessant für mich sind zur Zeit:
-
--   Ebene 1: Fehlende Fragen
--   Ebene 2: Logikfehler, passende Zitate
--   Ebene 3: Weitere Beispiele aus dem Leben, passende Filmstellen aus Kinofilmen
--   Rechtschreibfehler
-
+<div class="list">
+<div class="card">
+    <a href="https://miro.com/app/board/uXjVM3o2LkA=/?share_link_id=218039651414">
+        <img src="/images/gedankenfehler/erziehung.png" />
+    </a>
+    <div class="label">Erziehung</div>
+</div>
+<div class="card">
+    <a href="https://miro.com/app/board/uXjVMzmjJLY=/?share_link_id=80970369425">
+        <img src="/images/gedankenfehler/fehler-machen.png" />
+    </a>
+    <div class="label">Fehler machen</div>
+</div>
+<div class="card">
+    <a href="https://miro.com/app/board/uXjVMwDwRrg=/?share_link_id=988464589278">
+        <img src="/images/gedankenfehler/zufriedenheit.png" />
+    </a>
+    <div class="label">Zufriedenheit</div>
+</div>
+<div class="card">
+    <a href="https://miro.com/app/board/uXjVMwC5Y9g=/?share_link_id=385384185787">
+        <img src="/images/gedankenfehler/angst.png" />
+    </a>
+    <div class="label">Angst</div>
+</div>
+<div class="card">
+    <a href="https://miro.com/app/board/uXjVNaEvGog=/?moveToWidget=3458764566866800527">
+        <img src="/images/gedankenfehler/worte.png" />
+    </a>
+    <div class="label">Worte</div>
+</div>
+</div>
+</div>
 </div>
 
-##### &nbsp;
-
-#### Ausdrucken
-
-**Schritt 1:** miro Board im Browser aufrufen  
-**Schritt 2:** in der miro-Leiste oben rechts auf das Download-Symbol klicken, dann "Save as PDF" / "Best quality"  
-**Schritt 3:** Die PDF-Datei zum Copyshop schicken und in Din-A1 mit 600dpi ausdrucken  
-**Schritt 4:** Einen Din-A1 Karton (3 - 5mm Stärke) nehmen und Ausdruck draufkleben  
-**Schritt 5:** Mit einem Teppichmesser das Oval ausschneiden
+**Bitte verwendet die Kommentar-Funktion in den miro-Boards, wenn ihr etwas zu den Gedankenfehlern sagen wollt.**
