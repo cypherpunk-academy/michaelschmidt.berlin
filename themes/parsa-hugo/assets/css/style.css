@@ -973,3 +973,9 @@ audio::-webkit-media-controls-enclosure {
     font-size: 2em;
     color: rgb(63, 18, 18);
 }
+
+.waiting-for-story {
+    font-family: 'Caveat', cursive;
+    font-size: 2em;
+    color: rgb(63, 18, 18);
+}

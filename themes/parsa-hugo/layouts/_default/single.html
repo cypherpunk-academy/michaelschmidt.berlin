@@ -132,6 +132,12 @@
                     class="img-fluid w-100 mb-4"
                 />{{end}} {{end}}
                 <div class="content">{{ .Content }}</div>
+                {{ $pages := where site.RegularPages "Type" "sophia" }} {{ if eq
+                (len $pages) 0 }}
+                <div class="waiting-for-story">
+                    Komme wieder am 1. Dezember (ab ca. 6 Uhr)!
+                </div>
+                {{ end }}
             </div>
         </div>
     </div>
