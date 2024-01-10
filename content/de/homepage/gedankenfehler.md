@@ -26,23 +26,6 @@ translation: original
 
 ##### &nbsp;
 
-#### Aufgabe
-
-Das Ziel ist, die wirkungsvollsten dieser Kultur-gewordenen Gedankenfehler aufzuspüren und nachvollziehbar zu machen.
-Um verschiedene Aspekte der Gedanken anzuschauen, werden sie in sieben, aufeinander aufbauenden Ebenen dargestellt werden.
-
-**Ebene 1:** Die Fragestellung: Wie lebt der Gedankenfehler im Alltag? In welchen Aussagen versteckt er sich?  
-**Ebene 2:** Welche Aussage kann den Gedankenfehler in Ebene 1 sichtbar machen?  
-**Ebene 3:** Welche (reale oder überreale) Geschichte kann für den Gedankenfehler oder dessen Auflösung als Beispiel dienen?  
-**Ebene 4:** Wie sieht die zu Ende gedachte Version des Gedankens im Hier-und-Jetzt aus?  
-**Ebene 5:** Welche Schritte sind möglich, um den Gedanken im Alltag in sich zu vervollständigen?  
-**Ebene 6:** Welche Wirkung hat der Gedanke auf das Gesamte der Gesellschaft? Welche anderen Gedankenfehlern sind mit diesem verbunden?  
-**Ebene 7:** Wie ändern sich nach den ersten sechs Schritten die Beispiele aus Ebene 1?
-
-_Alles hier ist nur Versuch_, nicht endgültige Lösung. Alles ist im Fluss. Deswegen ist es für jeden möglich, in den Miro-Boards der einzelnen Gedanken, zu kommentieren. Die Kommentare sind für andere sichtbar und sie werden gegebenenfalls eingearbeitet.
-
-##### &nbsp;
-
 #### miro Boards
 
 (zum Lesen und Kommentieren)
@@ -83,4 +66,37 @@ _Alles hier ist nur Versuch_, nicht endgültige Lösung. Alles ist im Fluss. Des
 </div>
 </div>
 
-**Bitte verwendet die Kommentar-Funktion in den miro-Boards, wenn ihr etwas zu den Gedankenfehlern sagen wollt.**
+#### Legende
+
+Das Ziel ist, die wirkungsvollsten dieser Kultur-gewordenen Gedankenfehler aufzuspüren und nachvollziehbar zu machen.
+Um verschiedene Aspekte der Gedanken anzuschauen, werden sie in sieben, aufeinander aufbauenden Ebenen dargestellt werden.
+
+![Die Fragestellung: Wie lebt der Gedankenfehler im Alltag? In welchen Aussagen versteckt er sich?](/images/gedankenfehler/1.png)
+
+###### **Ebene 1:** Die Fragestellung: Wie lebt der Gedankenfehler im Alltag? In welchen Aussagen versteckt er sich?
+
+![Die Fragestellung: Wie lebt der Gedankenfehler im Alltag? In welchen Aussagen versteckt er sich?](/images/gedankenfehler/2.png)
+
+###### **Ebene 2:** Welche Aussage kann den Gedankenfehler in Ebene 1 sichtbar machen?
+
+![Welche Aussage kann den Gedankenfehler in Ebene 1 sichtbar machen?](/images/gedankenfehler/3.png)
+
+###### **Ebene 3:** Welche (reale oder überreale) Geschichte kann für den Gedankenfehler oder dessen Auflösung als Beispiel dienen?
+
+![Welche (reale oder überreale) Geschichte kann für den Gedankenfehler oder dessen Auflösung als Beispiel dienen?](/images/gedankenfehler/4.png)
+
+###### **Ebene 4:** Wie sieht die zu Ende gedachte Version des Gedankens im Hier-und-Jetzt aus?
+
+![Wie sieht die zu Ende gedachte Version des Gedankens im Hier-und-Jetzt aus?](/images/gedankenfehler/5.png)
+
+###### **Ebene 5:** Welche Schritte sind möglich, um den Gedanken im Alltag in sich zu vervollständigen?
+
+![Welche Schritte sind möglich, um den Gedanken im Alltag in sich zu vervollständigen?](/images/gedankenfehler/6.png)
+
+###### **Ebene 6:** Welche Wirkung hat der Gedanke auf das Gesamte der Gesellschaft? Welche anderen Gedankenfehlern sind mit diesem verbunden?
+
+![Welche Wirkung hat der Gedanke auf das Gesamte der Gesellschaft? Welche anderen Gedankenfehlern sind mit diesem verbunden?](/images/gedankenfehler/7.png)
+
+###### **Ebene 7:** Wie ändern sich nach den ersten sechs Schritten die Beispiele aus Ebene 1?
+
+##### &nbsp;
