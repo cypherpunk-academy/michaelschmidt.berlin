@@ -14,45 +14,45 @@ author: Michael
 5. Worte ✅
 
 6. Hierarchie 🏗️
-7. Gewinnen 🕰️
-8. Vertrauen
-9. Technik
-10. Wut
+7. Gewinnen 🏗️
+8. Opfer 🏗️
+9. Technik 🏗️
+10. Wut 🕰️
 
-11. Sexualität
-12. Tod
-13. Geld
-14. Leiden / Gefühle
-15. Lügen
+11. Tod
+12. Reinkarnation
+13. Mensch
+14. Wahrheit
+15. Engel
 
-16. Gerechtigkeit
-17. Opfer
-18. Ehrgeiz
-19. Schuldgefühl
-20. Verantwortung
+16. Sexualität
+17. Geld
+18. Lüge
+19. Leid
+20. Beziehung
 
-21. Freude
-22. Arbeit
-23. Strafe
-24. Beziehung / Trennung
-25. Bedürfnisse
+21. Verantwortung
+22. Vertrauen
+23. Gerechtigkeit
+24. Einsamkeit
+25. Trauer
 
-26. Die Wahrheit
-27. Der Mensch
-28. Wiederholte Erdenleben
-29. Entwicklung
-30. Engel
+26. Freude
+27. Arbeit
+28. Strafe
+29. Ehrgeiz
+30. Bedürfnisse
 
 31. Verurteilen
-32. Reichtum
-33. Vorsorge
-34. Traurigkeit
-35. Fragen
+32. Schuldgefühl
+33. Fragen
+34. Entwicklung
+35. Vorsorge
 
 36. Lebensgrundlage
 37. Öffentliche Meinung
 38. Ausschließen
-39. Alleine sein
+39. Reich sein
 40. Recht haben
 
 (🕰️)
