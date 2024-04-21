@@ -55,6 +55,10 @@ author: Michael
 39. Reich sein
 40. Recht haben
 
+41. Denken, Ich kann gut denken
+42. Zeit, Es gibt nur eine Zeit für alle
+43. Sprachen: Sprachen sind von Menschen gemacht
+
 (🕰️)
 
 \* Wahrscheinlich werden es insgesamt 45 bis 50
