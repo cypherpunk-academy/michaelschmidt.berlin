@@ -13,34 +13,34 @@ author: Michael
 4. Angst ✅
 5. Worte ✅
 
-6. Hierarchie 🏗️
-7. Gewinnen 🏗️
-8. Opfer 🏗️
-9. Technik 🏗️
-10. Wut 🕰️
+6. Hierarchie 🏗️ Mit Hierarchien ordnen wir unser Zusammenleben
+7. Gewinnen 🏗️ Ich kann gegen andere gewinnen
+8. Opfer 🏗️ Ich kann anderen zum Opfer fallen
+9. Technik 🏗️ Technik entfremdet den Menschen von der Natur
+10. Wut 🏗️ Wir müssen unsere Wut unter Kontrolle haben
 
-11. Tod
-12. Reinkarnation
-13. Mensch
-14. Wahrheit
-15. Engel
+11. Verantwortung: Man kann Verantwortung übernehmen
+12. Vertrauen: Ob ich jemandem vertrauen kann, hängt von ihm ab
+13. Gerechtigkeit: Es ist möglich, für Gerechtigkeit zu sorgen
+14. Einsamkeit: Ich kann einsam sein
+15. Freude: Es ist nicht wichtig, meine Freude immer zu leben
 
-16. Sexualität
-17. Geld
-18. Lüge
-19. Leid
-20. Beziehung
+16. Sexualität: Sexualität und Sensualität sind miteinander verbunden
+17. Geld: Ich kann nicht zu viel Geld haben
+18. Lüge: Lügen hilft manchmal weiter
+19. Leiden: Es ist besser, nicht zu leiden
+20. Beziehung: Eine Beziehung lebt im Geben und Nehmen
 
-21. Verantwortung
-22. Vertrauen
-23. Gerechtigkeit
-24. Einsamkeit
-25. Trauer
+21. Tod: Der Tod ist für den Menschen ein Ende
+22. Reinkarnation: Man kann nicht wissen, ob mal mehrmals lebt
+23. Mensch: Der Mensch ist ein höheres Tier
+24. Wahrheit: Jeder hat seine eigene Wahrheit
+25. Engel: Engel haben nichts mit unserem täglichen Leben zu tun
 
-26. Freude
-27. Arbeit
-28. Strafe
-29. Ehrgeiz
+26. Traurigkeit: Lieber in Freude leben als in Traurigkeit 
+27. Arbeit: Freizeit ist mir lieber als Arbeit
+28. Strafe: Strafe schreckt davor ab, Dinge noch einmal zu tun
+29. Ehrgeiz: Menschen, die keinen Ehrgeiz haben, sind faul
 30. Bedürfnisse
 
 31. Verurteilen
@@ -49,15 +49,16 @@ author: Michael
 34. Entwicklung
 35. Vorsorge
 
-36. Lebensgrundlage
+36. Lebensgrundlage: Ich lebe von meinem Geld
 37. Öffentliche Meinung
-38. Ausschließen
+38. Ausschließen: Ich kann aus der Gemeinschaft ausgeschlossen werden
 39. Reich sein
 40. Recht haben
 
 41. Denken, Ich kann gut denken
 42. Zeit, Es gibt nur eine Zeit für alle
 43. Sprachen: Sprachen sind von Menschen gemacht
+44. Macht: Die Macht ist in der Hand Weniger
 
 (🕰️)
 
