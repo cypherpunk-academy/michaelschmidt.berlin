@@ -29,15 +29,15 @@ author: Michael
 17. Geld: Ich kann nicht zu viel Geld haben
 18. Lüge: Lügen hilft manchmal weiter
 19. Leiden: Es ist besser, nicht zu leiden
-20. Beziehung: Eine Beziehung lebt im Geben und Nehmen
+20. Beziehung: In Beziehung muss sich der eine an den anderen anpassen
 
-21. Tod: Der Tod ist für den Menschen ein Ende
-22. Reinkarnation: Man kann nicht wissen, ob mal mehrmals lebt
+21. Tod und Reinkarnation: Der Tod ist für den Menschen ein Ende
+22. Liebe: Liebe lebt in Geben und Nehmen (-> Neid)
 23. Mensch: Der Mensch ist ein höheres Tier
 24. Wahrheit: Jeder hat seine eigene Wahrheit
 25. Engel: Engel haben nichts mit unserem täglichen Leben zu tun
 
-26. Traurigkeit: Lieber in Freude leben als in Traurigkeit 
+26. Traurigkeit: Lieber in Freude leben als in Traurigkeit
 27. Arbeit: Freizeit ist mir lieber als Arbeit
 28. Strafe: Strafe schreckt davor ab, Dinge noch einmal zu tun
 29. Ehrgeiz: Menschen, die keinen Ehrgeiz haben, sind faul
