@@ -26,7 +26,7 @@ author: Michael
 15. Freude: Es ist nicht wichtig, meine Freude immer zu leben
 
 16. Sexualität: Sexualität und Sensualität sind miteinander verbunden
-17. Geld: Ich kann nicht zu viel Geld haben
+17. Geld: Geld gibt mir das Recht, etwas zu kaufen
 18. Lüge: Lügen hilft manchmal weiter
 19. Leiden: Es ist besser, nicht zu leiden
 20. Beziehung: In Beziehung muss sich der eine an den anderen anpassen
