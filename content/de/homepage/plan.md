@@ -21,12 +21,12 @@ author: Michael
 
 11. Verantwortung: Man kann Verantwortung übernehmen
 12. Vertrauen: Ob ich jemandem vertrauen kann, hängt von ihm ab
-13. Gerechtigkeit: Es ist möglich, für Gerechtigkeit zu sorgen
+13. Geld: Geld gibt mir das Recht, etwas zu kaufen
 14. Einsamkeit: Ich kann einsam sein
 15. Freude: Es ist nicht wichtig, meine Freude immer zu leben
 
 16. Sexualität: Sexualität und Sensualität sind miteinander verbunden
-17. Geld: Geld gibt mir das Recht, etwas zu kaufen
+17. Gerechtigkeit: Es ist möglich, für Gerechtigkeit zu sorgen
 18. Lüge: Lügen hilft manchmal weiter
 19. Leiden: Es ist besser, nicht zu leiden
 20. Beziehung: In Beziehung muss sich der eine an den anderen anpassen
