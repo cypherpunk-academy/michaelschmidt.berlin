@@ -12,6 +12,9 @@ VERSION:	Versoin Number
 @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Simonetta:ital,wght@0,400;0,900;1,400;1,900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lavishly+Yours&display=swap');
+
 body {
     line-height: 1.5;
     font-family: 'Quicksand', 'Open Sans', sans-serif;
@@ -978,4 +981,95 @@ audio::-webkit-media-controls-enclosure {
     font-family: 'Caveat', cursive;
     font-size: 2em;
     color: rgb(63, 18, 18);
+}
+
+.typewriter-container {
+    font-family: 'Special Elite', 'Courier New', monospace;
+    padding: 2rem;
+    border-radius: 8px;
+    line-height: 1.6;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.typewriter-container .handwritten {
+    font-size: 1.5em;
+    color: #000080; /* Dunkelblaue Tinte */
+    line-height: 1.4;
+    margin: 2em 0;
+}
+
+.typewriter-container .personal {
+    font-family: 'Lavishly Yours', cursive;
+    margin-top: 1.5em;
+    font-size: 1.2em;
+    font-weight: bold;
+    color: black;
+    font-size: 1.5em;
+}
+
+.typewriter-container p {
+    font-family: 'Special Elite', 'Courier New', monospace;
+    margin-bottom: 1.5em;
+    font-size: 1.4em;
+}
+
+.typewriter-container h3 {
+    font-family: 'Special Elite', 'Courier New', monospace;
+    border-bottom: 1px solid #87613d;
+    padding-bottom: 0.5em;
+    margin-top: 4em;
+    margin-bottom: 1em;
+    color: #87613d;
+    font-size: 1.8em;
+}
+
+.typewriter-container a {
+    color: #333;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+.typewriter-container a:hover {
+    color: #666;
+}
+
+/* Add texture overlay */
+.typewriter-container::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    opacity: 0.1;
+    pointer-events: none;
+}
+
+.letter-container {
+    position: relative;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.letter-header {
+    height: 150px;
+    margin-bottom: 0;
+}
+
+.letter-content {
+    background-color: #eae3da;
+    border-radius: 8px;
+    padding: 2rem;
+    margin-bottom: 0;
+}
+
+.letter-footer {
+    height: 150px;
+    margin-bottom: 0;
+}
+
+.typewriter-container {
+    position: relative;
+    z-index: 1;
 }
