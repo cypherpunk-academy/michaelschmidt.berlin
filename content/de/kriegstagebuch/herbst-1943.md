@@ -13,7 +13,7 @@ Gestern noch einigermaßen frühe Ankunft in einem armen Dorf. Elend. Voller Fl�
 
 Nachts noch übernehme ich die Batterie als gewohnter Rücken­büßer.
 
-    In ein paar Wochen bin ich sie garantiert wieder los.     Zu Gunsten eines anderen. Ich fühle mich wie ein betrogener Lieb­     haber.
+In ein paar Wochen bin ich sie garantiert wieder los. Zu Gunsten eines anderen. Ich fühle mich wie ein betrogener Lieb­haber.
 
 ### Nowosselowka, 24. September 1943
 

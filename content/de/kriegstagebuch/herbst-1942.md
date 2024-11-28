@@ -25,7 +25,7 @@ Puguloff, 19 Uhr. Mittags Befehl zum Abrücken des Stabes nach Edissja. Batterie
 
 ### 25. September 1942, 9 Uhr
 
-    Das bisher aufregendste Erlebnis hatte ich in dieser Nacht: Tötung von 20 Wanzen auf meinem Lager. Übel. Zum ersten Mal Ungeziefer.
+Das bisher aufregendste Erlebnis hatte ich in dieser Nacht: Tötung von 20 Wanzen auf meinem Lager. Übel. Zum ersten Mal Ungeziefer.
 
 ### L: 44 Gr.40' Br:44 Gr.05' Bogdanowka, 25. September 1942
 
