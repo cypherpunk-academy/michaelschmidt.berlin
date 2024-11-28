@@ -12,8 +12,6 @@ const IMAGE_PATH = 'images/sophia/chapter';
 const CHAPTER_PATH = 'content/de/story/sophia-';
 const WAITING_TEXTS = ['Bald ....', 'Demächst ...', 'In Vorbereitung ......'];
 
-// TODO: Read the timezone from the system and change the date accordingly
-
 export default (): void => {
     console.log(`Michael Sophia: ${text.length}`);
 

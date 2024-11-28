@@ -3,7 +3,6 @@ languageCode: de-DE
 title: Allgemeine Gedankenfehler - Herausforderungen auf dem Weg zur Freiheit
 theme: parsa-hugo
 summaryLength: '10'
-paginate: 6
 defaultContentLanguage: de
 defaultContentLanguageInSubdir: 'true'
 googleAnalytics: ''
@@ -137,3 +136,5 @@ languages:
                   name: Verschiedenes
                   url: de/homepage/verschiedenes/
                   weight: 5
+pagination:
+    pagerSize: 6

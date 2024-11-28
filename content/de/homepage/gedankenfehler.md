@@ -1,6 +1,6 @@
 ---
 title: Allgemeine Gedankenfehler der westlichen Kultur
-date: Tue Mar 28 1895 10:03:24 GMT+0200 (Central European Summer Time)
+date: 2024-11-28
 description: A description
 type: featured
 image: images/gedankenfehler.jpg
