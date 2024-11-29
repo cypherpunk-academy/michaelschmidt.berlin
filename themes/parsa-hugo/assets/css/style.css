@@ -1014,6 +1014,12 @@ audio::-webkit-media-controls-enclosure {
     font-size: 1.4em;
 }
 
+@media (max-width: 767px) {
+    .typewriter-container p {
+        font-size: 1.1em;
+    }
+}
+
 .typewriter-container h3 {
     font-family: 'Special Elite', 'Courier New', monospace;
     border-bottom: 1px solid #87613d;
@@ -1022,6 +1028,12 @@ audio::-webkit-media-controls-enclosure {
     margin-bottom: 1em;
     color: #87613d;
     font-size: 1.8em;
+}
+
+@media (max-width: 767px) {
+    .typewriter-container h3 {
+        font-size: 1.4em;
+    }
 }
 
 .typewriter-container a {
@@ -1063,6 +1075,13 @@ audio::-webkit-media-controls-enclosure {
     border-radius: 8px;
     padding: 2rem;
     margin-bottom: 0;
+}
+
+@media (max-width: 767px) {
+    .letter-content {
+        border-radius: 8px;
+        padding: 0.5rem;
+    }
 }
 
 .letter-footer {
