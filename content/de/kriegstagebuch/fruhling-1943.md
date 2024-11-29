@@ -37,19 +37,31 @@ Das Wunder des Tages: Die Entlausung! Anschließend beim Regimentskommandeur. Be
 
 Tschujuntschka, 26. März 1943 Krim: Im Süden die Ketten des Jaila-Gebirges, "schneegekrönte Häupter", schroff und sanft in allen Graden. Im Norden nur weite Wellen, braun, braun, kein Schutz gegen den Ostwind. Dörfer, die sich erst langsam wieder erholen. Unterkunft in so einem Nest. Die Alte und die Tochter wollen unbedingt mit im Zimmer schlafen, in der Küche "nix Kultura". Sie schlafen aber in der Küche.
 
-27. März 1943 Sonne und kühl. Post! Endlich kam sie gestern Abend nach 83 Hungertagen. Heute muss ich nun anfragende Bräute, Mütter, Väter, Schwestern usw. beschwichtigen um das Schicksal ihrer Söhne. Bei dreien muss ich leider den Tod mitteilen.
+### 27. März 1943
 
-28. März 1943 Sonntag. Man merkt ihn nur daran, dass die Alte die Wäsche nicht waschen will. Unsere Panjekolonne ist noch immer nicht da. Langsam Grund zur Beunruhigung.
+Sonne und kühl. Post! Endlich kam sie gestern Abend nach 83 Hungertagen. Heute muss ich nun anfragende Bräute, Mütter, Väter, Schwestern usw. beschwichtigen um das Schicksal ihrer Söhne. Bei dreien muss ich leider den Tod mitteilen.
 
-Tschujuntschka, 8. Januar 1943 Ein Tag verging wie der andere. Regen und Sonne, meist schön. Staub und Dreck. Meist Staub. – Leichter Dienst, Fußdienst, Singen, Arbeitsdienst; jedoch verschärfte Unterführer-Ausbildung. Abends Doppelkopf und Skat, meist Doppelkopf. – Verpflegung mäßig. Manchmal bekommen wir von den Russen Kartoffeln, meist nicht. Habe wieder eines der schlechtesten Quartiere erwischt in dieser Hinsicht. Traditionsgemäß ist es auch das kälteste. Das hat nun alles sein Ende, heute packen wir. Einen Vorzug hatte die Zeit. Die lange zurückgedämmte Lesewut tollt sich aus. Fast jeden Tag ein Buch.
+### 28. März 1943
 
-Bahnhof Sarabus, 9. April 1943 \_ km Fußmarsch, die Eröffnung des Tages. Verladen geht schnell, um 11 Uhr rollen wir ab nach Norden. Es herrscht der Skat. Unsere Güterwagen haben wir uns nett eingerichtet mit elektrischem Licht, Radio und einem qualmenden Ofen, labilen Tischen und Stühlen.
+Sonntag. Man merkt ihn nur daran, dass die Alte die Wäsche nicht waschen will. Unsere Panjekolonne ist noch immer nicht da. Langsam Grund zur Beunruhigung.
 
-Aljeschki, 10. April 1943 Ruckelfahrt durch die Nacht, nachdem ich erst noch Löns, "Der letzte Hansbur" gelesen habe. Heute regnet es nun und ist merklich kühl.
+### Tschujuntschka, 8. Januar 1943
+
+Ein Tag verging wie der andere. Regen und Sonne, meist schön. Staub und Dreck. Meist Staub. – Leichter Dienst, Fußdienst, Singen, Arbeitsdienst; jedoch verschärfte Unterführer-Ausbildung. Abends Doppelkopf und Skat, meist Doppelkopf. – Verpflegung mäßig. Manchmal bekommen wir von den Russen Kartoffeln, meist nicht. Habe wieder eines der schlechtesten Quartiere erwischt in dieser Hinsicht. Traditionsgemäß ist es auch das kälteste. Das hat nun alles sein Ende, heute packen wir. Einen Vorzug hatte die Zeit. Die lange zurückgedämmte Lesewut tollt sich aus. Fast jeden Tag ein Buch.
+
+### Bahnhof Sarabus, 9. April 1943
+
+? km Fußmarsch, die Eröffnung des Tages. Verladen geht schnell, um 11 Uhr rollen wir ab nach Norden. Es herrscht der Skat. Unsere Güterwagen haben wir uns nett eingerichtet mit elektrischem Licht, Radio und einem qualmenden Ofen, labilen Tischen und Stühlen.
+
+### Aljeschki, 10. April 1943
+
+Ruckelfahrt durch die Nacht, nachdem ich erst noch Löns, "Der letzte Hansbur" gelesen habe. Heute regnet es nun und ist merklich kühl.
 
 Dnjepr Wir werden mit der Eisenbahnfähre in stundenlanger Arbeit übergesetzt. Vor genau 9 Monaten pilgerte ich hier, aus dem Lazarett kommend, in entgegengesetzter Richtung.
 
-Berditschew, 16. April 1943 In drei Tagen schafften wir die Fahrt von der Krim hierher in die tiefste Etappe, wo man kaum verdunkelt, wo selbst die Russen einigermaßen angezogen herumlaufen, wo das Ei nur 1,5 kostet usw.usw. Der Weg brachte uns über Dsankoj, Aleschki, Cherson, Nikolajew, Suamenka, Pastow, Berditschew.
+### Berditschew, 16. April 1943
+
+In drei Tagen schafften wir die Fahrt von der Krim hierher in die tiefste Etappe, wo man kaum verdunkelt, wo selbst die Russen einigermaßen angezogen herumlaufen, wo das Ei nur 1,5 kostet usw.usw. Der Weg brachte uns über Dsankoj, Aleschki, Cherson, Nikolajew, Suamenka, Pastow, Berditschew.
 
 Untergekrochen sind wir in einem russischen Kasernement im Rohbau, primitiv, aber erträglich.
 
