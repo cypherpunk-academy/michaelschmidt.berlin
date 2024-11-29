@@ -48,7 +48,7 @@ params:
     address: 'Berlin (Wedding)'
     contactLabel: Contact Info
     contact_form_action: '#'
-    copyright: 'Copyright &copy; 2023 based on [themefisher.com](https://themefisher.com) and [HUGO](https://gohugo.io/) , special thanks to [Miro](https://miro.com) (boards) and [DALL-E 3](https://openai.com/dall-e-3) (images)'
+    copyright: 'Copyright &copy; 2023-2024 based on [themefisher.com](https://themefisher.com) and [HUGO](https://gohugo.io/) , special thanks to [Miro](https://miro.com) (boards) and [DALL-E 3](https://openai.com/dall-e-3) (images)'
     readmore: read more
     postBy: Post by
     searchLabel: Search
@@ -56,10 +56,8 @@ params:
         enable: true
         expire_days: 2
     social:
-        - icon: ti-facebook
-          link: 'https://www.facebook.com/profile.php?id=61551693854428'
         - icon: ti-twitter-alt
-          link: 'https://twitter.com/Lafisrap'
+          link: 'https://x.com/Lafisrap'
         - icon: ti-github
           link: 'https://github.com/cypherpunk-academy/michaelschmidt.berlin'
 languages:
@@ -121,8 +119,8 @@ languages:
                   url: de/homepage/gedankenfehler/worte
                   weight: 5
                 - parent: "\U0001F3E0"
-                  name: Die Philosophie der Freiheit
-                  url: de/homepage/die-philosophie-der-freiheit/
+                  name: Kriegstagebuch Ortwin Keller
+                  url: de/homepage/kriegstagebuch-ortwin-keller/
                   weight: 2
                 - parent: "\U0001F3E0"
                   name: 2064 - Cypherpunks
