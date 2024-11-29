@@ -992,6 +992,12 @@ audio::-webkit-media-controls-enclosure {
     margin: 0 auto;
 }
 
+@media (max-width: 767px) {
+    .typewriter-container {
+        padding: 0rem;
+    }
+}
+
 .typewriter-container .handwritten {
     font-size: 1.5em;
     color: #000080; /* Dunkelblaue Tinte */
