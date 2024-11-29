@@ -9,7 +9,7 @@ type: kriegstagebuch
 
 ### Simferopol, den 21. März 1942, 23 Uhr
 
-Gestern Nachmittag trafen wir über Dshankoj am Rande von Simferopol ein..
+Gestern Nachmittag trafen wir über Dshankoj am Rande von Simferopol ein.
 
 Der Frühling ist vorbei. Es ist eisig kalt, der Ostwind bläst mit Macht. An den wenigen Bäumen, Mandeln und Pfirsichen, sind die zum Platzen prallen Knospen dick mit Eis überzogen. Man friert selbst in der Zugmaschine. Wir sind bald auf der Höhe von Genua, und es ist Winter, wie wir ihn in Rußland bisher nicht erlebten.
 

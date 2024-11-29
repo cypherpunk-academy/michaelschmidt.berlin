@@ -9,7 +9,7 @@ type: kriegstagebuch
 
 ### Nikolajewka, 23. September 1943
 
-Gestern noch einigermaßen frühe Ankunft in einem armen Dorf. Elend. Voller Flüchtlinge. Für unsere Gefechtsstands- und son­ stige Kriegsbedürfnisse müssen sie umziehen, was sie wohl willig aber stumpf tun. - Es ist ruhig, den ganzen Tag. Rückmarsenerkun­ dungen. Wie Blitz aus heiterem Himmel kommt ein Funkspruch, dass Olt. Wallrodt, Chef 7., schwer verwundet wurde. Zwei Stunden später liegt er bei uns in guter Form, aber sehr schwer angeknackst. Er war auf der Höhe herumgefahren, eingesehen, Pakbeschuss.
+Gestern noch einigermaßen frühe Ankunft in einem armen Dorf. Elend. Voller Flüchtlinge. Für unsere Gefechtsstands- und son­stige Kriegsbedürfnisse müssen sie umziehen, was sie wohl willig aber stumpf tun. - Es ist ruhig, den ganzen Tag. Rückmarsenerkun­ dungen. Wie Blitz aus heiterem Himmel kommt ein Funkspruch, dass Olt. Wallrodt, Chef 7., schwer verwundet wurde. Zwei Stunden später liegt er bei uns in guter Form, aber sehr schwer angeknackst. Er war auf der Höhe herumgefahren, eingesehen, Pakbeschuss.
 
 Nachts noch übernehme ich die Batterie als gewohnter Rücken­büßer.
 

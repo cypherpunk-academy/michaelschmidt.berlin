@@ -23,9 +23,14 @@ translation: original
         <p class="personal">Dieses Tagebuch schrieb ich für Dich.</p>
         <p class="personal signature">Dein Ortwin</p>
     </div>
-    <h3>Kapitel</h3>
-            
--   [Winter 1941/42](/de/kriegstagebuch/winter-1941-42)
+
+"Hannchen" ist der Spitzname meiner Großmutter. Sie hatte mit Ortwin 1944 drei Kinder im Alter von 1, 3 und 6 Jahren. Was danach geschah ist das düstere Ereignis meiner Familie: Sie lebte über die Zeit, in der das Kriegstagebuch entstand in ständiger Angst um ihren Mann. Sie las in den folgenden Briefen über gerade gefallene Freunde und Mitsoldaten, dann über eine Fastverwundung von Ortwin und dann eine Verwundung. Sie las über immer verrücktere Situationen, immer mehr Tote. Aber Ortwin kehrte zurück. Sie war überglücklich, konnte ihr Herz kaum einhalten. Er fuhr 1946 nur noch einmal weg, um beim Minenräumen zu helfen. Und dabei kam er ums Leben.
+
+Ich möchte diese Briefe jetzt zum ersten Mal öffentlich machen, weil wir gerade jetzt näher als in den 80 Jahren davor in einer Situation stehen, wo wieder deutsche Soldaten in der Ukraine und Russland kämpfen könnten. Vielleicht helfen die Briefe ein wenig, zu verstehen, dass Propaganda und Einseitigkeit die wahren Feinde eines friedlichen Zusammenlebens sind.
+
+<h3>Kapitel</h3>
+
+-   [Winter 1942](/de/kriegstagebuch/winter-1941-42)
 -   [Frühling 1942](/de/kriegstagebuch/fruhling-1942)
 -   [Sommer 1942](/de/kriegstagebuch/sommer-1942)
 -   [Herbst 1942](/de/kriegstagebuch/herbst-1942)
