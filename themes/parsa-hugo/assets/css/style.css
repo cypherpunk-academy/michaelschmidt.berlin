@@ -1055,6 +1055,21 @@ audio::-webkit-media-controls-enclosure {
     text-decoration: none;
     transition: color 0.3s;
     font-size: 1.4em;
+    margin-bottom: 0;
+}
+
+.typewriter-container li {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.typewriter-container .smaller {
+    font-size: 0.9em;
+    margin-bottom: 20px;
+}
+
+.typewriter-container ul {
+    margin-bottom: 0px;
 }
 
 .typewriter-container a:hover {
