@@ -24,9 +24,11 @@ translation: original
         <p class="personal signature">Dein Ortwin</p>
     </div>
 
-"Hannchen" war der Spitzname meiner Großmutter. Sie hatte mit Ortwin 1944 drei Kinder im Alter von 1, 3 und 6 Jahren. Was danach geschah ist das düstere Ereignis meiner Familie: Meine Großmutter lebte über die Zeit, in der das Kriegstagebuch entstand in ständiger Angst um ihren Mann. Sie las in den folgenden Briefen über gerade gefallene Freunde und Mitsoldaten, dann über eine Fastverwundung von Ortwin und dann eine Verwundung. Sie las über immer verrücktere Situationen, immer mehr Tote. Aber Ortwin kehrte wohlbehalten zurück. Sie war überglücklich, konnte ihr Herz kaum einhalten. Er fuhr 1946 nur noch einmal weg, um beim Minenräumen zu helfen. Und dabei kam er ums Leben.
+So beginnt eine Reihe von Briefen, die Ortwin Keller, ein Wehrmachtsoffizier und mein Großvater, von Februar 1942 bis Oktober 1944 aus dem Russlandfeldzug an meine Großmutter schrieb.
 
-Ich möchte diese Briefe jetzt zum ersten Mal öffentlich machen, weil wir gerade jetzt näher als in den 80 Jahren davor in einer Situation stehen, wo wieder deutsche Soldaten in der Ukraine und Russland kämpfen könnten. Vielleicht helfen die Briefe ein wenig, zu verstehen, dass Propaganda und Einseitigkeit die wahren Feinde eines friedlichen Zusammenlebens sind.
+"Hannchen" war ihr Spitzname. Im Jahr 1944 hatte sie mit Ortwin drei Kinder im Alter von 1, 3 und 6 Jahren. Was danach geschah ist das düstere Ereignis meiner Familie: Meine Großmutter lebte über die Zeit, in der das Kriegstagebuch entstand in ständiger Angst um ihren Mann. Sie las in den folgenden Briefen über gerade gefallene Freunde und Mitsoldaten, dann über eine Fastverwundung von Ortwin und dann eine Verwundung. Sie las über immer verrücktere Situationen, immer mehr Tote. Aber Ortwin kehrte wohlbehalten zurück. Sie war überglücklich, konnte ihr Herz kaum einhalten. Er fuhr 1946 nur noch einmal weg, um beim Minenräumen zu helfen. Und dabei kam er ums Leben.
+
+Ich möchte diese Briefe jetzt zum ersten Mal öffentlich machen, weil wir gerade in dieser Zeit näher als in den 80 Jahren davor in eine Situation kommen, wo wieder deutsche Soldaten in der Ukraine und Russland kämpfen könnten. Vielleicht helfen die Briefe ein wenig, zu verstehen, dass Propaganda und Einseitigkeit die wahren Feinde eines friedlichen Zusammenlebens sind.
 
 Berlin im November 2024,  
 Michael Schmidt
