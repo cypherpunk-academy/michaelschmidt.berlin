@@ -45,7 +45,7 @@ Sonne und kühl. Post! Endlich kam sie gestern Abend nach 83 Hungertagen. Heute 
 
 Sonntag. Man merkt ihn nur daran, dass die Alte die Wäsche nicht waschen will. Unsere Panjekolonne ist noch immer nicht da. Langsam Grund zur Beunruhigung.
 
-### Tschujuntschka, 8. Januar 1943
+### Tschujuntschka, 8. April 1943
 
 Ein Tag verging wie der andere. Regen und Sonne, meist schön. Staub und Dreck. Meist Staub. – Leichter Dienst, Fußdienst, Singen, Arbeitsdienst; jedoch verschärfte Unterführer-Ausbildung. Abends Doppelkopf und Skat, meist Doppelkopf. – Verpflegung mäßig. Manchmal bekommen wir von den Russen Kartoffeln, meist nicht. Habe wieder eines der schlechtesten Quartiere erwischt in dieser Hinsicht. Traditionsgemäß ist es auch das kälteste. Das hat nun alles sein Ende, heute packen wir. Einen Vorzug hatte die Zeit. Die lange zurückgedämmte Lesewut tollt sich aus. Fast jeden Tag ein Buch.
 
