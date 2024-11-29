@@ -28,6 +28,9 @@ translation: original
 
 Ich möchte diese Briefe jetzt zum ersten Mal öffentlich machen, weil wir gerade jetzt näher als in den 80 Jahren davor in einer Situation stehen, wo wieder deutsche Soldaten in der Ukraine und Russland kämpfen könnten. Vielleicht helfen die Briefe ein wenig, zu verstehen, dass Propaganda und Einseitigkeit die wahren Feinde eines friedlichen Zusammenlebens sind.
 
+Berlin im November 2024,  
+Michael Schmidt
+
 <p class="disclaimer">
 Hinweis: Außer dem Bild oben und der Webseite selbst ist nichts AI generiert und von der Vorlage, eine Maschinenabschrift der Briefe durch Johanna Keller (Hannchen) selbst, wurde nichts weggelassen. Es ist der vollständige Text.
 </p>
