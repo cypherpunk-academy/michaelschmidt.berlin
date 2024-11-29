@@ -81,7 +81,9 @@ Gegen Abend in Laa. Mutter! Großvater. Er ist alt ge­worden, so alt, dass mich
 
 28.4. Wien, paar Stunden mit Onkel Gunther. 29.4. Nürnberg. Trotz Bomben Stadtbild nicht nennenswert verändert. Jena. Hel­ ga ist ein entzückendes Mädelchen geworden. Bekanntmachung mit Hartmut fällt kühl aus. Er liegt drin in seinem Bettchen wie ein Prälat und ist lange abweisend. Unfassbar schnell ist der Urlaub vorbei. Schlussakkord mit Hanna in Berlin bei Tantens. Abschied sehr schwer. Trotz Sibyllen werde ich das Gefühl nicht los, dass das das letzte Mal war.
 
-14. Mai 1943, mittags wieder in Berditschew.
+### 14. Mai 1943
+
+Mittags wieder in Berditschew.
 
 ### Berditschew, 25. Mai 1943
 
