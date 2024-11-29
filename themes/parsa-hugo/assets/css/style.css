@@ -1020,9 +1020,17 @@ audio::-webkit-media-controls-enclosure {
     font-size: 1.4em;
 }
 
+.typewriter-container p.disclaimer {
+    font-size: 1.1em;
+}
+
 @media (max-width: 767px) {
     .typewriter-container p {
         font-size: 1.2em;
+    }
+
+    .typewriter-container p.disclaimer {
+        font-size: 0.9em;
     }
 }
 
