@@ -151,7 +151,7 @@ Am späten Abend des lebhaften Tages ist der Umzug beendet. Zwei Werfer bleiben 
 
 ### 16. Oktober 1943
 
-Im Morgengrauen Erkundung neuer Stellungsmöglichkeiten in den Schluchten südwestlich Uljanik. Nicht viel los. Dann kommt der Kommandeur und verleiht zwei EK II. Dann kommt er wieder mit Ver- bindungs- und neuen Erkundungsaufträgen. Tagsüber Bunkerbau. Gegen Abend Besuch bei Rittmeister von Massow, alter Adel, so sieht er auch aus, aber ganz nett. Wenn's schießt, geht auch er in den Bunker. Da ist er nicht anders als wir. - Dann die Neuerkundung, nette Mulde, bisher feuerfrei. Das lockt natürlich. Nur der Anmarsch! - Leichtes Feuer auf meinen derzeitigen Ortsteil. Sonst ruhig. Also kommt er morgen wieder angewackelt, der gute Iwan. - Partisanenge­ fahr. Also Verstärkung der Wachen.
+Im Morgengrauen Erkundung neuer Stellungsmöglichkeiten in den Schluchten südwestlich Uljanik. Nicht viel los. Dann kommt der Kommandeur und verleiht zwei EK II. Dann kommt er wieder mit Verbindungs- und neuen Erkundungsaufträgen. Tagsüber Bunkerbau. Gegen Abend Besuch bei Rittmeister von Massow, alter Adel, so sieht er auch aus, aber ganz nett. Wenn's schießt, geht auch er in den Bunker. Da ist er nicht anders als wir. - Dann die Neuerkundung, nette Mulde, bisher feuerfrei. Das lockt natürlich. Nur der Anmarsch! - Leichtes Feuer auf meinen derzeitigen Ortsteil. Sonst ruhig. Also kommt er morgen wieder angewackelt, der gute Iwan. - Partisanenge­ fahr. Also Verstärkung der Wachen.
 
 ### 17. Oktober 1943
 

@@ -317,7 +317,7 @@ Gespannt, was ich für einen neuen Chef bekomme. Ich darf die Batterie ja nur du
 
 ### Wald bei Colaja Dolina, 5. August 1943
 
-Es ist wie ein Wunder: 10 Stunden Schlaf im Waldbunker. Jetzt sitze ich gewaschen und rasiert bei angenehmer Morgensonne unter den Bäumen. Dazu spielt der Soldatensender. – Lange wird das Idyll nicht mehr dauern. Um Mittag fahre ich los zur Erkundung von Feuerstellungen für den Fall eines russischen Durchbruchs nach Colaja Dolina. Sengende Sonne, heißer Motor, frische unreife Äpfel. Für die Kot- auch Stellungen gefunden. In einem weiteren Erkundungsraum finde ich zu Oberst Graf zu Castell, der mir abrät, im an sich befohlenen Raum zu erkunden, da er keinesfalls in Frage kommt. Die be- sagte Schlucht ist an drei Seiten einzusehen. Aber er erbittet, in seinem Abschnitt zu wirken. Neue Erkundung. Gute Stellung gefunden. Bei Abteilung bekomme ich Schießerlaubnis für 2 Salven. Bestens.
+Es ist wie ein Wunder: 10 Stunden Schlaf im Waldbunker. Jetzt sitze ich gewaschen und rasiert bei angenehmer Morgensonne unter den Bäumen. Dazu spielt der Soldatensender. – Lange wird das Idyll nicht mehr dauern. Um Mittag fahre ich los zur Erkundung von Feuerstellungen für den Fall eines russischen Durchbruchs nach Colaja Dolina. Sengende Sonne, heißer Motor, frische unreife Äpfel. Für die Kotauch Stellungen gefunden. In einem weiteren Erkundungsraum finde ich zu Oberst Graf zu Castell, der mir abrät, im an sich befohlenen Raum zu erkunden, da er keinesfalls in Frage kommt. Die besagte Schlucht ist an drei Seiten einzusehen. Aber er erbittet, in seinem Abschnitt zu wirken. Neue Erkundung. Gute Stellung gefunden. Bei Abteilung bekomme ich Schießerlaubnis für 2 Salven. Bestens.
 
 ### 6. August 1943
 

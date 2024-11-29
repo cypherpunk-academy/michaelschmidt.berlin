@@ -15,17 +15,17 @@ Ssultanowka, auch ein ödes, armes Dorf. Aber man sieht wenigstens zivilistische
 
 Nettes Quartier bei freundlich zurückhaltenden Leuten. Wir sind nun in der Mühle der Rückführung. Jede Etappe ist
 
-uns vorgeschrieben und jede Freizügigkeit des Marsches ge- nommen. Ich wollte in 5 Tagen in Simferopol sein. In 10 Tagen viel- leicht wird’s auf diese Weise klappen.
+uns vorgeschrieben und jede Freizügigkeit des Marsches genommen. Ich wollte in 5 Tagen in Simferopol sein. In 10 Tagen vielleicht wird’s auf diese Weise klappen.
 
 ### Feodosia, den 23. März 1943
 
-Wolkenlos klarer Himmel gestern, schwacher Rückenwind. Wir marschieren nach Leninskoje. Leutnant kassenteufelt tut es leid, uns nur Zelte als Unterkunft geben zu können. Wir bedauern es auch und – oh, seltener Fall – ziehen weiter. Per PKW und LKW bis Sem Kolodesej. Nach 5 Tagen wieder warmes Essen im Sol- datenheim und deutsche Schwestern. Wir essen uns randvoll. 7. Batterie kommt auch. Ich drehe ihr 16 Mann an. Da waren es nur noch 26. Noch 17 km mit LKW nach Minerali-Schljaban und doch Zelte.
+Wolkenlos klarer Himmel gestern, schwacher Rückenwind. Wir marschieren nach Leninskoje. Leutnant kassenteufelt tut es leid, uns nur Zelte als Unterkunft geben zu können. Wir bedauern es auch und – oh, seltener Fall – ziehen weiter. Per PKW und LKW bis Sem Kolodesej. Nach 5 Tagen wieder warmes Essen im Soldatenheim und deutsche Schwestern. Wir essen uns randvoll. 7. Batterie kommt auch. Ich drehe ihr 16 Mann an. Da waren es nur noch 26. Noch 17 km mit LKW nach Minerali-Schljaban und doch Zelte.
 
 Nach rechtschaffen durchfrorener Nacht, wir haben Schwein, mit LKW bis nach Feodosia, an alten Kampfstätten vorbei. Säuische Unterkunft, nutzloser Krach mit dem Ortsadjutanten. Nun frieren wir im schlecht geheizten Soldatenheim weiter und schieben Kohldampf. Und dies im begehrten F.
 
 ### Stany Krym, 24. März 1943
 
-Winterlich kalt mit Frühlingssonne 10 km ab Feodosia auf einem LKW und hierher in die alte Tatarenhauptstadt der Krim. Hübsches Soldatenheim mit guter Küche, soweit es die Umstände erlauben. Wm. Franz rollt durch. Ich hänge ihm gleich 6 Mann an. Da waren es nur noch 20. Ein Hauptmann braucht Quartier, so sol- len 4 Leute ein Zimmer räumen. Ich gebe meines, damit sie blei- ben können. Abends stellt sich heraus, dass Herr Hauptmann Lehrer und SA-Mann aus Gera sind, und dass ich ihn von Stalernowodsk her kenne. Kleine Plauderstunde.
+Winterlich kalt mit Frühlingssonne 10 km ab Feodosia auf einem LKW und hierher in die alte Tatarenhauptstadt der Krim. Hübsches Soldatenheim mit guter Küche, soweit es die Umstände erlauben. Wm. Franz rollt durch. Ich hänge ihm gleich 6 Mann an. Da waren es nur noch 20. Ein Hauptmann braucht Quartier, so sollen 4 Leute ein Zimmer räumen. Ich gebe meines, damit sie bleiben können. Abends stellt sich heraus, dass Herr Hauptmann Lehrer und SA-Mann aus Gera sind, und dass ich ihn von Stalernowodsk her kenne. Kleine Plauderstunde.
 
 ### Simferopol, 25. März 1943
 

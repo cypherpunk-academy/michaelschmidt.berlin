@@ -311,7 +311,7 @@ So ruhig der gestrige Tag war, so bewegt wurde die Nacht. Erst wurden wir einige
 
 Kaum Gefecht vorbei, Lärm vom westl. Ortsrand. Ein russisches Bataillon greift eine den Ort im Westen sichernde Kompanie an. Heftige Auseinandersetzung, blutige Abfuhr. - Ab 5 Uhr endlich Ruhe, nur noch Störungsfeuer in Intervallen.
 
-Wir sind den siebten Tag hier in einem Einsatz, der für uns beim Aufbau der Waffe nicht vorgesehen ist. Ich sage aber, besser solcher Einsatz, als unlustig herumzuliegen. - Fahrzeug- ausfälle sind riesig, daher kommen die Maschinen alle zurück in die Fahrzeugstellung. So sind quasi die Brücken nach rück­ wärts abgebrochen, und der Feind sitzt im Osten, Süden und Westen. Physisch sind wir unter-, psychisch jedoch überlegen. Im Übrigen ist Sonntag, und er wird geachtet. Selbst der Abend­ segen bleibt aus.
+Wir sind den siebten Tag hier in einem Einsatz, der für uns beim Aufbau der Waffe nicht vorgesehen ist. Ich sage aber, besser solcher Einsatz, als unlustig herumzuliegen. - Fahrzeugausfälle sind riesig, daher kommen die Maschinen alle zurück in die Fahrzeugstellung. So sind quasi die Brücken nach rück­ wärts abgebrochen, und der Feind sitzt im Osten, Süden und Westen. Physisch sind wir unter-, psychisch jedoch überlegen. Im Übrigen ist Sonntag, und er wird geachtet. Selbst der Abend­ segen bleibt aus.
 
 Zuverlässige Chronisten sagen aus, in der letzten Nacht wären 31 Bomben auf das Dorf gefallen. - Uns Nebelwerfer nen­ nen die Russen Wanjuschka (Hänschen).
 
