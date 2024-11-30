@@ -255,7 +255,7 @@ Nacht ruhig. Kosakenkurier zum Kommandeur geschickt. Jetzt, 7.30 Uhr, Leitung no
 
 Seit 4.30 Uhr wird Sowchose 7 von Eigenen angegriffen. Kosaken kommen mit zwei Überläufern zurück. Interessante Aussagen. Einige Kosaken sollen mittags zur Ostflankensicherung eingreifen. Ob sie zurechtkommen? In Ssunshenski soll was los sein. Kosakenmelder hin, eigenen Spähtrupp nach. Rege Flugtätigkeit, der Russen natürlich. Eigene Flieger sieht man wenig. Im gespanntesten Augenblick natürlich Leitungsstörung zur Abteilung. Zum Kotzen. – Herrlicher Ritt durch die Stützpunkte.
 
-### Wostotschni, den 15. Dezember 1942
+### Wostotschni, den 13. Dezember 1942
 
 Sonntag ist, und das Wetter dazu: kalt, strahlende Sonne. Sonntag heißt Marschtag der Nebeltruppe. Also: Abmarschvorbereitungen. Warum auch nicht, unsere Bunker sind ja fertig. Davon sprechen wir schon lange. Rittmeister Sagorodnij macht Augen!
 
@@ -263,19 +263,7 @@ Sonntag ist, und das Wetter dazu: kalt, strahlende Sonne. Sonntag heißt Marscht
 
 Vor neun Jahren zog ich mit Dir frische Spuren im blitzblanken Schnee auf den Kernberg, mein Hannchen. So fing es an. Heute umfängt mich wieder der Krieg.
 
-Am Sonntag marschierten wir um 21.30 Uhr nach großem Vorbereitungstheater mit vielen Hindernissen ab. Durch Fliegerbomben auf die Fahrzeugstellung hatten wir an diesem Tag 2 PKW und 4 Tgkw. verloren und einige beschädigt. Sehr bitter. Abmarsch nach Poltawski erst, Meldung bei Oberst, dann weiter nach Aga Batyr. Am frühen Tag zwar, aber zu spät in leicht verdeckter Stellung.
-
-### 14. Dezember 1942
-
-Bisschen Feuer. Einschanzen. Gottvoller Schlaf im Erdloch. Früh Wiese weiß vom Reif.
-
-### 15. Dezember 1942
-
-Weiterer Ausbau der Stellung. An den Mannschaftsbunkern machen wir nicht viel. Zeltbahn als Dach genügt, solange es nicht regnet oder schneit. - Das Dorf, in dessen Nähe wir liegen (M), ist total zerschossen und halb verbrannt. Dennoch kommen die Reserveleute und Fahrer dort unter. Eng, aber warm durch den Mief. „Begehung“ der vordersten Linie und Schussfeldbegutachtung. - Batterie ist in haltlosem Durcheinander durch die Fahrzeugausfälle und unglückliche Führungsanordnungen. Das kostet wieder Arbeit, und man hat keine Zeit dazu.
-
-### 16. Dezember 1942
-
-Stellungswechsel vorbereiten! Teil der Leitung abgebaut. Munition verladen. Nötige Fahrzeuge heran. Alles bereit. - Stellungswechsel fällt aus. - Es ist 19 Uhr, der Abend ist da. Ich muss wieder in mein Loch, denn die Nacht verbringe ich bei den Leuten in der Stellung. - Auf Weihnachten bin ich gespannt.
+Am Sonntag marschierten wir um 21.30 Uhr nach großem Vorbereitungstheater mit vielen Hindernissen ab. Durch Fliegerbomben auf die Fahrzeugstellung hatten wir an diesem Tag 2 PKW und 4 Tgkw. verloren und einige beschädigt. Sehr bitter. Abmarsch nach Poltawski erst, Meldung bei Oberst, dann weiter nach Aga Batyr. Am frühen Tag zwar, aber zu spät in leicht verdeckter Stellung. - 14. Dezember 1942, bisschen Feuer. Einschanzen. Gottvoller Schlaf im Erdloch. Früh Wiese weiß vom Reif. - 15. Dezember 1942, weiterer Ausbau der Stellung. An den Mannschaftsbunkern machen wir nicht viel. Zeltbahn als Dach genügt, solange es nicht regnet oder schneit. - Das Dorf, in dessen Nähe wir liegen (M), ist total zerschossen und halb verbrannt. Dennoch kommen die Reserveleute und Fahrer dort unter. Eng, aber warm durch den Mief. „Begehung“ der vordersten Linie und Schussfeldbegutachtung. - Batterie ist in haltlosem Durcheinander durch die Fahrzeugausfälle und unglückliche Führungsanordnungen. Das kostet wieder Arbeit, und man hat keine Zeit dazu. - 16. Dezember 1942, Stellungswechsel vorbereiten! Teil der Leitung abgebaut. Munition verladen. Nötige Fahrzeuge heran. Alles bereit. - Stellungswechsel fällt aus. - Es ist 19 Uhr, der Abend ist da. Ich muss wieder in mein Loch, denn die Nacht verbringe ich bei den Leuten in der Stellung. - Auf Weihnachten bin ich gespannt.
 
 Die Lage ist prekär. Wir liegen in einem Schlauch. Auf drei Seiten Russen, rechte Flanke auf drei bis vier km ungedeckt.
 
