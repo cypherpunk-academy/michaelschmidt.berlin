@@ -1,15 +1,15 @@
 ---
 title: Simeon
 categories:
-  - Simeon
-  - Anna
-  - Sophia
-  - Maria
+    - Simeon
+    - Anna
+    - Sophia
+    - Maria
 tags:
-  - Simeon
-  - Anna
-  - Sophia
-  - Maria
+    - Simeon
+    - Anna
+    - Sophia
+    - Maria
 translation: original
 date: 2024-12-01T03:00:00.000Z
 expirydate: 2025-01-07T03:00:00.000Z
@@ -19,13 +19,9 @@ weight: 1
 next: 2
 ---
 
-<div style="margin-left: 10vh; margin-right: 10vh; text-align: cneter; font-size: 1.2em;">
-<em>Es standen aber bei dem Kreuz Jesu seine Mutter und seiner Mutter Schwester, Maria, die Frau des Klopas, und Maria Magdalena (Johannes 19.25).</em>
-</div>
+<div style="margin-left: 10vh; margin-right: 10vh; text-align: cneter; font-size: 1.2em;"></div>
 
 # Simeon
-
-
 
 Der alte Priester ging noch einige letzte Schritte und ließ sich dann müde auf die Bank an der Seite der Straße fallen.
 Er hatte sie schon zu Beginn des Anstiegs zur Stadt hinauf gesehen und immer wieder mit Sehnsucht hingeschaut.
