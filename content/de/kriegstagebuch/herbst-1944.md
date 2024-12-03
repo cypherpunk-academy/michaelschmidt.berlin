@@ -185,4 +185,6 @@ Erkundung. Von jedem Regiment drei Offiziere, vorneweg der Brigadier. In Schwimm
 
 Wir könnten heute Geburtstag feiern, den der Neugeburt. Ein zweites Mal hat man nicht so ein Glück. Zwei 17,2 auf 5 m und nur Kratzer an den Händen.
 
+E N D E
+
 </div>
