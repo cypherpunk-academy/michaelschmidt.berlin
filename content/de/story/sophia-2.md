@@ -1,15 +1,15 @@
 ---
 title: Die Schafhirten
 categories:
-  - Nahor
-  - Gallum
-  - Amon
-  - Vater der Hirten
+    - Nahor
+    - Gallum
+    - Amon
+    - Vater der Hirten
 tags:
-  - Nahor
-  - Gallum
-  - Amon
-  - Vater der Hirten
+    - Nahor
+    - Gallum
+    - Amon
+    - Vater der Hirten
 translation: original
 date: 2024-12-02T03:00:00.000Z
 expirydate: 2025-01-07T03:00:00.000Z
@@ -21,7 +21,7 @@ next: 3
 
 # Kapitel 2
 
-
+# Second Chapter
 
 Der alte Schafhirte erhob sich mühsam von der Bank vor seinem Haus.
 Er fasste sich an den Bauch und verzog das Gesicht.
