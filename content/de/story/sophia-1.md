@@ -19,8 +19,6 @@ weight: 1
 next: 2
 ---
 
-<div style="margin-left: 10vh; margin-right: 10vh; text-align: cneter; font-size: 1.2em;"></div>
-
 # Simeon
 
 Der alte Priester ging noch einige letzte Schritte und ließ sich dann müde auf die Bank an der Seite der Straße fallen.
