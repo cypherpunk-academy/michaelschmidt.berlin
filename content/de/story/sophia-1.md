@@ -19,7 +19,7 @@ weight: 1
 next: 2
 ---
 
-# Simeon
+# Simeon 1
 
 Der alte Priester ging noch einige letzte Schritte und ließ sich dann müde auf die Bank an der Seite der Straße fallen.
 Er hatte sie schon zu Beginn des Anstiegs zur Stadt hinauf gesehen und immer wieder mit Sehnsucht hingeschaut.

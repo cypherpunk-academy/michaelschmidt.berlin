@@ -19,8 +19,6 @@ weight: 2
 next: 3
 ---
 
-# Kapitel 2
-
 # Second Chapter
 
 Der alte Schafhirte erhob sich mühsam von der Bank vor seinem Haus.
