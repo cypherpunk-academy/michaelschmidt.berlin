@@ -21,7 +21,7 @@
     "dependencies": {
         "date-fns": "^2.30.0",
         "date-fns-tz": "^2.0.0",
-        "sophia-christmas-story": "latest",
+        "sophia-christmas-story": "1.1.13",
         "yaml": "^2.3.4"
     },
     "devDependencies": {
