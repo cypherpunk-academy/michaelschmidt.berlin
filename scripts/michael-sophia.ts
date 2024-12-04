@@ -3,7 +3,7 @@ import { format, addYears, subDays, addHours, isAfter } from 'date-fns';
 import { utcToZonedTime } from 'date-fns-tz';
 
 import fs from 'fs';
-import { text } from 'sophia-christmas-story';
+import path from 'path';
 
 const timeZone = 'Europe/Berlin';
 const CHAPTERS_IN_PREVIEW = 0;
@@ -11,6 +11,15 @@ const PREVIEW_DATE = '11-12';
 const IMAGE_PATH = 'images/sophia/chapter';
 const CHAPTER_PATH = 'content/de/story/sophia-';
 const WAITING_TEXTS = ['Bald ....', 'Demächst ...', 'In Vorbereitung ......'];
+
+const directoryPath = path.join(__dirname, '../content/de/michael-sophia/de');
+export const text = fs
+    .readdirSync(directoryPath)
+    .filter((filename) => path.extname(filename) === '.md')
+    .map((filename) => {
+        const filePath = path.join(directoryPath, filename);
+        return fs.readFileSync(filePath, 'utf8');
+    });
 
 export default (): void => {
     console.log(`Michael Sophia: ${text.length}`);
