@@ -13,9 +13,7 @@ Kolonka, Kerch, nach einem Jahr noch traurigste Ruinen. Kaum ein Haus blieb dama
 
 Ssultanowka, auch ein ödes, armes Dorf. Aber man sieht wenigstens zivilistisches Leben hier in Gestalt von kleinen Ackern, in Bestellung begriffen; wieder einen Stamm von Hühnern und anderem Hausgetier. Langsam wird’s schon wieder.
 
-Nettes Quartier bei freundlich zurückhaltenden Leuten. Wir sind nun in der Mühle der Rückführung. Jede Etappe ist
-
-uns vorgeschrieben und jede Freizügigkeit des Marsches genommen. Ich wollte in 5 Tagen in Simferopol sein. In 10 Tagen vielleicht wird’s auf diese Weise klappen.
+Nettes Quartier bei freundlich zurückhaltenden Leuten. Wir sind nun in der Mühle der Rückführung. Jede Etappe ist uns vorgeschrieben und jede Freizügigkeit des Marsches genommen. Ich wollte in 5 Tagen in Simferopol sein. In 10 Tagen vielleicht wird’s auf diese Weise klappen.
 
 ### Feodosia, den 23. März 1943
 
