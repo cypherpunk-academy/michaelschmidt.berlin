@@ -63,7 +63,7 @@ params:
 languages:
     de:
         contentDir: content/de
-        title: Allgemeine Gedankenfehler des westlichen Kultur
+        title: Allgemeine Gedankenfehler der westlichen Kultur
         languageName: Deutsch
         weight: 1
         params:
