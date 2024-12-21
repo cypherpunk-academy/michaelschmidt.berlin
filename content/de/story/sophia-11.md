@@ -77,7 +77,7 @@ Sophia hat eine Steinigung gesehen, von einer ihrer Freundinnen, und jetzt ist s
 Sie hatte sich in Jungenkleidern unter die Zuschauer gemischt, dann in die erste Reihe gestellt und kurz bevor der erste Stein flog, wollte sie sich vor Lidia werfen.
 Ich habe sie gerade noch abfangen können.“
 Josef legte eine Hand auf sein Herz und schloss die Augen.
-Nach einer langen Weile fragte er Anna: „Hat sie geschrien, so laut sie konnte?“.
+Nach einer langen Weile fragte er Anna: „Hat sie geschrien, so laut sie konnte?“
 „Puhhh, und wie!
 Ich höre den ersten Schrei jetzt noch.
 Und dann hat sie den ganzen Weg nach Hause immer wieder geschrien.“

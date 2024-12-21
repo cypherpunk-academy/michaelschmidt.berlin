@@ -12,7 +12,7 @@ const IMAGE_PATH = 'images/sophia/chapter';
 const CHAPTER_PATH = 'content/de/story/sophia-';
 const WAITING_TEXTS = ['Bald ....', 'Demächst ...', 'In Vorbereitung ......'];
 
-const directoryPath = path.join(__dirname, '../content/de/michael-sophia/de');
+const directoryPath = path.join(__dirname, '../resources/michael-sophia/de');
 export const text = fs
     .readdirSync(directoryPath)
     .filter((filename) => path.extname(filename) === '.md')
