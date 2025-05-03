@@ -19,15 +19,15 @@ author: Michael
 9. Technik 🏗️ Technik entfremdet den Menschen von der Natur.
 10. Wut 🏗️ Wir müssen unsere Wut unter Kontrolle haben.
 
-11. Verantwortung: Man kann Verantwortung übernehmen.
+11. Verantwortung: Man kann Verantwortung für etwas übernehmen.
 12. Vertrauen: Ob ich jemandem vertrauen kann, hängt von ihm ab.
 13. Geld: Geld gibt mir das Recht, etwas zu kaufen.
 14. Einsamkeit: Ich kann einsam sein.
-15. Freude: Es ist nicht wichtig, meine Freude immer zu leben.
+15. Freude: Ob ich meine Freude lebe und ausdrücke, macht keinen Unterschied.
 
-16. Sexualität: Sexualität und Sensualität sind miteinander verbunden.
-17. Gerechtigkeit: Es ist möglich, für Gerechtigkeit zu sorgen.
-18. Lüge: Zu lügen hilft manchmal weiter.
+16. Lüge: Zu lügen hilft manchmal weiter.
+17. Sexualität: Sexualität und Sensualität sind miteinander verbunden.
+18. Gerechtigkeit: Es ist möglich, für Gerechtigkeit zu sorgen.
 19. Leiden: Es ist besser, nicht zu leiden.
 20. Beziehung: In Beziehung muss sich der eine an den anderen anpassen.
 
