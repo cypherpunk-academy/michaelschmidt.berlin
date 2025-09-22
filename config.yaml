@@ -45,7 +45,7 @@ params:
     mobile:
     email:
     addressLabel: Address
-    address: 'Berlin (Wedding)'
+    address: 'Berlin (Wedding) - PGP Fingerprint: B18B9CB2 08618AB6 ED38622F A33C6CAF C9A641A0'
     contactLabel: Contact Info
     contact_form_action: '#'
     copyright: 'Copyright &copy; 2023-2024 based on [themefisher.com](https://themefisher.com) and [HUGO](https://gohugo.io/) , special thanks to [Miro](https://miro.com) (boards) and [DALL-E 3](https://openai.com/dall-e-3) (images)'
