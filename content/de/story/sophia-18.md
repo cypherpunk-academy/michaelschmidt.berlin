@@ -23,8 +23,8 @@ tags:
   - Josef
   - Lidia
 translation: original
-date: 2024-12-18T03:00:00.000Z
-expirydate: 2025-01-07T03:00:00.000Z
+date: 2025-12-18T03:00:00.000Z
+expirydate: 2026-01-07T03:00:00.000Z
 type: sophia
 image: images/sophia/chapter18.jpg
 weight: 18

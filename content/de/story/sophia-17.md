@@ -19,8 +19,8 @@ tags:
   - Schmied
   - Ziegenhirte
 translation: original
-date: 2024-12-17T03:00:00.000Z
-expirydate: 2025-01-07T03:00:00.000Z
+date: 2025-12-17T03:00:00.000Z
+expirydate: 2026-01-07T03:00:00.000Z
 type: sophia
 image: images/sophia/chapter17.jpg
 weight: 17
@@ -127,7 +127,7 @@ Schnell! Lass dir etwas einfallen, du musst ihn ablenken.“
 Klophas schaute sie eindringlich an und sagte dann nach einigen Augenblicken: „Okay, ich habe etwas.“
 Er lief nach draußen, den Männern entgegen.
 
-Sophia lief in ihr Zimmer: „Mutter, ihr wolltet doch diese Woche die Ziege schlachten.
+Sophia lief in ihr Zimmer: „Mutter, ihr wolltet doch diese Wache die Ziege schlachten.
 Das müsstet ihr jetzt machen.
 Jetzt gleich!“
 Anna schaute sie erstaunt an und nickte.

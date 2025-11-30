@@ -13,8 +13,8 @@ tags:
   - Josef
   - Gabriel
 translation: original
-date: 2024-12-16T03:00:00.000Z
-expirydate: 2025-01-07T03:00:00.000Z
+date: 2025-12-16T03:00:00.000Z
+expirydate: 2026-01-07T03:00:00.000Z
 type: sophia
 image: images/sophia/chapter16.jpg
 weight: 16
@@ -39,7 +39,7 @@ Sophia schaute neugierig.
 Elisabeth: „Er sagt, dass er seinen Herrn willkommen heißt.“
 Sophia lächelte sanft.
 Elisabeth: „Und dich, Sophia, die du auserwählt bist von allen Frauen, den König von Israel, das Licht der Welt, unter deinem Herzen zu tragen.“
-Elisabeth lächelte auch: „Er sagt, er ist gekommen, um ihm den Weg zu bereiten.“
+Elisabeth lächelte auch: „Er sagt, er ist gekommen, um ihm den weg zu bereiten.“
 
 Elisabeth und Sophia schauten sich lange an, ohne ein Wort zu sagen.
 Dann lachte Sophia auf und sprang Elisabeth um den Hals.

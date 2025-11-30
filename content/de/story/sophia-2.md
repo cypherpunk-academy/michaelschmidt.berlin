@@ -11,8 +11,8 @@ tags:
   - Amon
   - Vater der Hirten
 translation: original
-date: 2024-12-02T03:00:00.000Z
-expirydate: 2025-01-07T03:00:00.000Z
+date: 2025-12-02T03:00:00.000Z
+expirydate: 2026-01-07T03:00:00.000Z
 type: sophia
 image: images/sophia/chapter2.jpg
 weight: 2
@@ -26,7 +26,7 @@ next: 3
 Der alte Schafhirte erhob sich mühsam von der Bank vor seinem Haus.
 Er fasste sich an den Bauch und verzog das Gesicht.
 „Verrübelt nochmal!“, schnauzte er und rief laut.
-„Wo sind meine Jungens.“
+„Wo sind meine Jungens?“
 Er stöhnte.
 Nahor, sein ältester Sohn, legte behutsam die Hand auf seinen Rücken.
 „Wir sind alle schon da ––– nimm dir deine Zeit ––– mach so wie du kannst, es ist ein weiter Weg hinunter bis zum Wirt ins Dorf.“

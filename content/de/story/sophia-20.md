@@ -13,8 +13,8 @@ tags:
   - Klophas
   - Simeon
 translation: original
-date: 2024-12-20T03:00:00.000Z
-expirydate: 2025-01-07T03:00:00.000Z
+date: 2025-12-20T03:00:00.000Z
+expirydate: 2026-01-07T03:00:00.000Z
 type: sophia
 image: images/sophia/chapter20.jpg
 weight: 20

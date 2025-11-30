@@ -21,8 +21,8 @@ tags:
   - Simeon
   - Elisabeth
 translation: original
-date: 2024-12-15T03:00:00.000Z
-expirydate: 2025-01-07T03:00:00.000Z
+date: 2025-12-15T03:00:00.000Z
+expirydate: 2026-01-07T03:00:00.000Z
 type: sophia
 image: images/sophia/chapter15.jpg
 weight: 15
@@ -146,7 +146,7 @@ Er zuckte mit den Schultern, als ihn Anna fragend ansah.
 Der schüttelte den Kopf.
 
 Nach dem Essen meinte Anna zu den beiden, dass Sophia wahrscheinlich nach Hause gelaufen war, auf jeden Fall war sie nicht in Gefahr.
-Sie verabschiedete sich zusammen mit Maria von Klophas und sie machten sich auf den Heimweg.
+Sie verabschiedete sich zusammen mit Maria von Klophas und machten sich auf den Heimweg.
 Zu Hause wartete vor ihrer Haustür Simeon.
 Er saß auf einem Holzklotz und begrüßte sie mit einem warmen Lächeln.
 „Simon!“, rief Maria überrascht und lief ihm entgegen.

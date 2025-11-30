@@ -21,8 +21,8 @@ Ein Engeltags:
   - Josefs Onkel
   - Josefs Cousin
 translation: original
-date: 2024-12-09T03:00:00.000Z
-expirydate: 2025-01-07T03:00:00.000Z
+date: 2025-12-09T03:00:00.000Z
+expirydate: 2026-01-07T03:00:00.000Z
 type: sophia
 image: images/sophia/chapter9.jpg
 weight: 9
@@ -242,7 +242,7 @@ Aber so war sie, sie machte was sie wollte und alle ließen sie tun.
 Er hob vorsichtig die Hand, um zu grüßen, und brachte ein fast unhörbares „Willkommen!“ hervor.
 Dann drehte er sich zu seinem Vater, der ihn erstaunt anschaute.
 Er drehte sich wieder zu ihr.
-Sie kam näher, er wollte noch ihr noch zurufen, dass sie stehen bleiben sollte, aber es war zu spät.
+Sie kam näher, er wollte ihr noch zurufen, dass sie stehen bleiben sollte, aber es war zu spät.
 Sie hielt ihre Hände vor ihn und ging auf die Knie.
 Er nahm sie zitternd und sagte leise zu ihr: „Flieh! Ich finde dich.“
 Sie schaute ihn erstaunt und verwirrt an, aber hielt weiter seine Hand.
