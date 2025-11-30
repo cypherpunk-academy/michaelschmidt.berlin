@@ -14,7 +14,7 @@ tags:
     - Freiheit
     - Philosophie
 translation: original
-draft: true
+draft: false
 ---
 
 [1 Wissenschaft der Freiheit](https://miro.com/app/live-embed/uXjVPz7C5w0=/?moveToViewport=-569,-835,2733,2076&embedId=794255096956) ––– [2 Die Wirklichkeit der Freiheit](https://miro.com/app/live-embed/uXjVMVLQMDw=/?moveToViewport=-4694,-2900,2852,2394&embedId=798473962857)

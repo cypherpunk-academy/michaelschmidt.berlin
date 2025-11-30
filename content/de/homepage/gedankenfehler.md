@@ -5,11 +5,12 @@ description: A description
 type: featured
 image: images/gedankenfehler.jpg
 author: An author
-weight: 10
+weight: 40
 categories:
     - 5 von 40
 tags:
 translation: original
+draft: true
 ---
 
 ##### &nbsp;

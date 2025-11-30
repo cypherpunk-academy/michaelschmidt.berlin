@@ -4,7 +4,7 @@ layout: '3'
 type: featured
 description: 'Tagebuchaufzeichnungen aus dem Zweiten Weltkrieg von Ortwin Keller'
 image: images/kriegstagebuch.jpg
-weight: 30
+weight: 10
 categories:
     - Russlandfeldzug 1942-1944
 tags:
