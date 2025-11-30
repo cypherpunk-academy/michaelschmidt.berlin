@@ -12,7 +12,32 @@ const IMAGE_PATH = 'images/sophia/chapter';
 const CHAPTER_PATH = 'content/de/story/sophia-';
 const WAITING_TEXTS = ['Bald ....', 'Demächst ...', 'In Vorbereitung ......'];
 
-const directoryPath = path.join(__dirname, '../resources/michael-sophia/de');
+const sourceDirectoryPath =
+    process.env.MICHAEL_SOPHIA_DE_SOURCE ??
+    path.resolve(__dirname, '../../../Bücher/michael-sophia/text/de');
+const baseDirectoryPath = path.join(__dirname, '../resources/michael-sophia');
+const directoryPath = path.join(baseDirectoryPath, 'de');
+
+const ensureLocalChapters = (): void => {
+    if (!fs.existsSync(sourceDirectoryPath)) {
+        console.warn(
+            `Michael Sophia source directory missing: ${sourceDirectoryPath}. Using existing resources.`
+        );
+        return;
+    }
+
+    if (fs.existsSync(baseDirectoryPath) && fs.lstatSync(baseDirectoryPath).isSymbolicLink()) {
+        fs.unlinkSync(baseDirectoryPath);
+    }
+
+    fs.mkdirSync(baseDirectoryPath, { recursive: true });
+    fs.rmSync(directoryPath, { recursive: true, force: true });
+    fs.cpSync(sourceDirectoryPath, directoryPath, { recursive: true });
+
+    console.log(`Copied Michael Sophia chapters from ${sourceDirectoryPath}`);
+};
+
+ensureLocalChapters();
 export const text = fs
     .readdirSync(directoryPath)
     .filter((filename) => path.extname(filename) === '.md')
