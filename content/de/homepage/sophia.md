@@ -3,8 +3,8 @@ title: Sophia* und Josef
 date: 2023-03-28
 description: Die Weihnachtsgeschichte, neu erzählt
 type: featured
-image: images/sophia.jpg
-omitImage: true
+image: images/sophia/chapter13.jpg
+omitImage: false
 weight: 5
 author: Michael Schmidt
 categories:

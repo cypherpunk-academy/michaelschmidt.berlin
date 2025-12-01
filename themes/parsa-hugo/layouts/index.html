@@ -86,6 +86,34 @@
 </section>
 {{ end }}
 
+{{ $homepagePages := sort (where site.RegularPages "Section" "homepage") "Weight"
+"asc" }} {{ $weightedPages := where $homepagePages "Weight" "gt" 0 }} {{
+$priorityHome := $weightedPages }} {{ if eq (len $priorityHome) 0 }} {{
+$priorityHome = $homepagePages }} {{ end }} {{ if gt (len $priorityHome) 0 }} {{
+$homePage := index $priorityHome 0 }}
+<section class="section priority-homepage">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <h2 class="mb-4">{{ $homePage.Title }}</h2>
+                {{ if and $homePage.Params.image (not
+                ($homePage.Params.omitImage | default false)) }}
+                <img
+                    src="{{ $homePage.Params.image | absURL }}"
+                    alt="{{ site.Params.author }}"
+                    class="img-fluid w-100 mb-4"
+                />
+                {{ end }}
+                <div class="content">{{ $homePage.Content }}</div>
+                <a class="btn btn-transparent mt-4" href="{{ $homePage.Permalink }}"
+                    >{{ site.Params.readmore }}</a
+                >
+            </div>
+        </div>
+    </div>
+</section>
+{{ end }}
+
 <!-- blog post -->
 <section class="section">
     <div class="container">
@@ -121,7 +149,7 @@
         {{ else if (eq site.Params.layout "2")}}
 
         <div class="row">
-            {{ range $i,$p := (where $paginator.Pages "Type" "post") }}
+            {{ range $i,$p := $paginator.Pages }}
             <div class="col-12 mb-100">
                 <article
                     data-file="{{.Permalink}}"
