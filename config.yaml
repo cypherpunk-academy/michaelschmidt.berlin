@@ -63,7 +63,7 @@ params:
 languages:
     de:
         contentDir: content/de
-        title: Allgemeine Gedankenfehler der westlichen Kultur
+        title: michaelschmidt.berlin
         languageName: Deutsch
         weight: 1
         params:

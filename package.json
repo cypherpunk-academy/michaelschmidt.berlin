@@ -5,7 +5,7 @@
     "main": "update.ts",
     "scripts": {
         "dev": "yarn start && hugo server",
-        "build": "yarn start && hugo --minify",
+        "build": "yarn start && hugo --cleanDestinationDir --minify",
         "start": "ts-node update.ts"
     },
     "repository": {
