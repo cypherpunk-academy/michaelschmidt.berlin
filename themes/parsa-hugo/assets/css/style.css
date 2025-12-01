@@ -8,8 +8,8 @@ VERSION:	Versoin Number
 [TABLE OF CONTENTS]
 -------------------------------------------------------------------*/
 /*  typography */
-@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;600&family=Open+Sans:wght@400;600&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400;600&family=Open+Sans:wght@400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;600&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Simonetta:ital,wght@0,400;0,900;1,400;1,900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap');
@@ -17,7 +17,7 @@ VERSION:	Versoin Number
 
 body {
     line-height: 1.5;
-    font-family: 'Quicksand', 'Open Sans', sans-serif;
+    font-family: 'Cormorant Garamond', 'Open Sans', sans-serif;
     -webkit-font-smoothing: antialiased;
     font-size: 15px;
     color: #585757;
@@ -41,6 +41,11 @@ h6 {
     font-family: 'Quicksand', serif;
     font-weight: 600;
     line-height: 1.2;
+}
+
+h6,
+.h6 {
+    font-family: 'Cormorant Garamond', serif;
 }
 
 h1,
@@ -84,7 +89,8 @@ h5,
 
 h6,
 .h6 {
-    font-size: 20px;
+    font-size: 24px;
+    line-height: 1.3em
 }
 
 /* Button style */
