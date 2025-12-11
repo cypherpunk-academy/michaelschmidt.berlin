@@ -29,7 +29,7 @@ Er fasste sich an den Bauch und verzog das Gesicht.
 „Wo sind meine Jungens?“
 Er stöhnte.
 Nahor, sein ältester Sohn, legte behutsam die Hand auf seinen Rücken.
-„Wir sind alle schon da ––– nimm dir deine Zeit ––– mach so wie du kannst, es ist ein weiter Weg hinunter bis zum Wirt ins Dorf.“
+„Wir sind alle schon da ––– nimm dir deine Zeit ––– mach so, wie du kannst, es ist ein weiter Weg hinunter bis zum Wirt ins Dorf.“
 Gallum, der jüngste und bei weitem kräftigste, sprang mit dem Rücken vor ihn hin und ging in die Hocke.
 „Spring auf, Vater! Halt dich an mir fest! Greif gut.
 Ich trage dich den ganzen Weg zum Wirt runter.“
@@ -47,7 +47,6 @@ Du bist still, bis ich sage, dass du redest.“
 Amon nickte und wiederholte:
 „Ich bin still, bis du sagst, dass ich rede.“
 Gallum griff die Beine seines Vaters, stand mit ihm auf und die vier machten sich auf den Weg hinunter ins Dorf Bethlehem.
-
 Der dicke Wirt stand breitbeinig vor seinem Haus und schaute grimmig mit verschränkten Armen auf die Gruppe, die den Hügel herunter auf sein Haus zukam.
 Vor ihm ließ Gallum seinen Vater absteigen und der ging sofort auf den Wirt zu:
 „Levi.“
@@ -60,7 +59,6 @@ Der Rabbi sagt, dass ich in einem Monat sterben werde.“
 Der Wirt quittierte das mit einem kaum hörbaren „Mh mh“.
 Er schaute den Vater an:
 „Was willst du?“
-
 „Hier, sieh meine Kinder.
 Sie sind jung und stark und schlau und umsichtig.
 Ich kann nicht mehr für sie sorgen, aber sie haben mir mit deiner Herde geholfen, seit sie klein waren, und ich habe ihnen alles beigebracht, was ich weiß.“
@@ -74,10 +72,9 @@ Sie sollen meinen Platz bekommen!“
 „Wie???“, brauste der Wirt auf, „alle drei???
 Sie sind so wenig, dass du drei davon brauchst, um dich zu ersetzen.“
 Der Vater erschrak und schüttelte den Kopf.
-„Nein, nein ...... ja.
+„Nein, nein … ja.
 Sie machen das schon eine Weile.
 Sie brauchen ja nicht mehr Geld, nur so viel, dass es auch für meine Frau und die zwei Mädchen reicht.“
-
 Der Wirt schüttelte den Kopf.
 „NEIN! Ich habe deinen Platz schon an meinen Schwager versprochen.
 Drei sind genügend Schäfer.
@@ -87,19 +84,18 @@ Die drei schauten erstaunt auf ihren Vater.
 „Er braucht uns“, meinte Nahor,
 „das schaffen die beiden anderen nicht.
 Die Herde ist zu groß.“
-„Und sein Schwager ...... der kann das sowieso nicht.“
+„Und sein Schwager … der kann das sowieso nicht.“
 Gallum machte einen Schritt nach vorne, schaute drohend zu Levi und rief: „Du willst uns nicht?“
 Der schaute grimmig zurück.
 Gallum sprang auf ihn zu und hob seine Faust.
 Der Wirt hielt ihm seine entgegen.
 Sie schauten sich direkt ins Gesicht, ihre Nasen schienen sich fast zu berühren.
 Sie standen da, alle hielten den Atem an.
-
-„WÖLFEEE.“
+„WÖLFEEE!“
 schrie jemand von oben den Weg herunter.
 „WÖLFEEE! Schnell! NAAAHHOOOR ––– AAAMMONNN ––– GAAALLLUUUMMM –––.“
 Er kam keuchend am Haus des Wirts an.
-„Gut ...... gut, dass ich euch gleich finde! Kommt ihr schnell, die Wölfe sind wieder da, viele, viele, viele –– fünf oder sechs!“
+„Gut … gut, dass ich euch gleich finde! Kommt schnell, die Wölfe sind wieder da, viele, viele, viele –– fünf oder sechs!“
 Der Wirt packte ihn am Kragen und zog ihn zu sich hin.
 Er schrie ihn an.
 „Macht das selbst! Ihr seid Schäfer! Ihr werdet doch wohl am hellen Tag mit ein paar Wölfen fertig werden?“

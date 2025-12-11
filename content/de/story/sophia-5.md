@@ -20,7 +20,7 @@ next: 6
 
 
 Zacharias stand im festlichen Priestergewand hinter dem schweren Vorhang am Eingang zum Großen Tempel in Jerusalem.
-Er hörte die Menge draußen laut miteinander sprechen, beten, sich begrüßen, durcheinander rufen...
+Er hörte die Menge draußen laut miteinander sprechen, beten, sich begrüßen, durcheinander rufen …
 Er schloss die Augen und atmete einige Male tief ein und aus.
 Dann blickte er nach vorne, nickte nach links, und ein Tempeldiener schob den Vorhang beiseite.
 Zacharias schritt hinaus.
@@ -28,8 +28,7 @@ Die Menge wurde ruhiger.
 Einige Momente später war alles totenstill.
 Zacharias machte noch einige Schritte bis zur großen Treppe und schaute über die Menge.
 Dann breitete er seine Arme aus und schloss seine Augen.
-Nach fünf langen Minuten hob er beide Arme gegen den Himmel, machte ein Zeichen des Segens über der Menge, und ging wieder zurück in den Tempel.
-
+Nach fünf langen Minuten hob er beide Arme gegen den Himmel, machte ein Zeichen des Segens über der Menge und ging wieder zurück in den Tempel.
 Drinnen hörte er, dass die Menge immer noch still dastand.
 Er ging zum Raum am Ende des Tempels, dem Allerheiligsten, wo er das Räucheropfer bereiten würde.
 Die Tempeldiener hatten eine Auswahl der Dinge, die die Menschen mitgebracht hatten, auf einem Opfertisch angeordnet.
@@ -58,16 +57,14 @@ Ging wieder zum Opfertisch, nahm den Lammskopf, legte ihn auf ein Drahtgitter un
 Als alle Opfergaben im Feuer waren und er den Rauch eine Weile beobachtet hatte, ging er wieder in Richtung des Vorhangs.
 Er nickte dem Tempeldiener zu, und der zog den Vorhang auf.
 Zacharias ging hindurch, auf die Menge zu.
-Jetzt hätte er seine Rede halten müssen, über das, was er im Rauch gesehen hatte, welche Gedanken ihm kamen, wie das kommende Jahr werden würde; so war es über hunderte von Jahren gewesen.
+Jetzt hätte er seine Rede halten müssen, über das, was er im Rauch gesehen hatte, welche Gedanken ihm kamen, wie das kommende Jahr werden würde; so war es über Hunderte von Jahren gewesen.
 Er wusste von keinem Fall, wo ein Priester nach dem Räucheropfer hier oben gestanden und nichts gesagt hatte.
 Er hatte sich Wochen darauf vorbereitet, er wusste genau, was er gesehen hatte und sagen wollte, aber jetzt konnte er nicht.
 Er hob seine Arme über die Menge und zeigte dann mit seiner Hand auf seinen Hals und machte eine Geste, dass er nicht reden konnte.
 Tränen standen ihm in den Augen.
 Er senkte seinen Kopf.
 Nach einigen Augenblicken drehte er sich um und ging langsam zurück in den Tempel.
-
 Eine Woche später.
-
 Elisabeth wartete am Tor ihres Hauses auf ihn.
 Er kam, ließ sein Gepäckbündel fallen, und sie umarmten sich lange.
 Elisabeth fragte ihn nichts, sie hatte gehört, was geschehen war.

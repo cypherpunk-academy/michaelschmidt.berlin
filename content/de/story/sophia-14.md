@@ -62,9 +62,8 @@ Vor ihr stand ein großer Engel und lachte sie an.
 Sophia: „Gabriel! ––– Du hast mich erschreckt.
 Was ist hier?
 Warum ist es schon hell?
-Haben wir ... hier geschlafen?“
+Haben wir … hier geschlafen?“
 Gabriel: „Sophia! Von Gott, dem Herrn, Auserwählte, du Heilende, aus dem Kreis der Menschheit Aufgerufene und mit einer großen Aufgabe Betraute.“
-
 Sophia erschrak und schaute zu Boden.
 Sie wunderte sich über diese Worte.
 So hatte Gabriel beim letzten Mal nicht zu ihr gesprochen.
@@ -93,25 +92,23 @@ Josef: „Sophia!
 Was ist mit dir?“
 Sophia richtete sich auf, drehte sich um und schaute ihn an.
 Josef riss seine Augen auf, er glaubte nicht, was er sah.
-Er fasste sich mit beiden Händen an seine Brust: „Sophia! Wie ... wie ist das möglich?
+Er fasste sich mit beiden Händen an seine Brust: „Sophia! Wie … wie ist das möglich?
 ––– Du bist erwachsen!
 Du bist eine Frau geworden.
 Was ist passiert?“
-
 Sophia sagte nichts, sie lächelte ihn sanft an, ihre Augen leuchteten und sie hielt ihren Bauch.
 Josef schaute auf ihren Bauch, sein Gesicht wurde bleich, seine Augen dunkel, sein ganzer Körper fing an zu zittern.
 Sophia: „Wir werden einen Sohn haben.“
 Josef blieb stumm, er kämpfte gegen die Angst, die sich in seinem Körper ausbreitete wie eine schwarze Masse ––– alles in ihm wurde schwarz.
-
 Sophia schaute ihn entsetzt an.
 Sie rief: „Was ist mit dir?
-Warum ... warum die Angst?“
+Warum … warum die Angst?“
 Sie stand auf, öffnete die Tür des Tempelhäuschens und lief auf den Hof hinaus.
 Die Sonne traf sie mit voller Kraft, Frühlingssonne.
 Sie blieb stehen, schloss die Augen und breitete ihre Arme aus.
 Sie schien die Strahlen zu inhalieren, durch alle Poren ihres Körpers.
 Ihr Atem wurde ruhiger und plötzlich war sie in der Szene, die sich in der Nacht davor in ihrem Zimmer abgespielt hatte, während sie schlief.
-Sie sah Michael das Schwert niederlegen, sah den Kreis der Engel mit den Kerzen, den Lichtblitz in der Stille und Josef über ihr ... Sie lachte und lachte mit ihren beiden Händen auf ihrem Bauch.
+Sie sah Michael das Schwert niederlegen, sah den Kreis der Engel mit den Kerzen, den Lichtblitz in der Stille und Josef über ihr … Sie lachte und lachte mit ihren beiden Händen auf ihrem Bauch.
 
 „SOPHIA!“, hörte sie eine Stimme neben ihr, „SOPHIA!
 Da bist du!

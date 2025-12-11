@@ -62,14 +62,13 @@ Nach langen Minuten kam er wieder und hatte einen Mann etwa in seinem Alter an d
 Er zeigte auf Anna und dann auf den Mann.
 „Josef“, sagte dieser und streckte Anna seine Hand entgegen.
 „Josef, der Zimmermann?“, Anna strahlte, „wie schön, dich einmal zu treffen, Josef!
-Meine Töchter lieben das Schaukelpferd, das du für sie gemacht hast, Sophia und ...“
+Meine Töchter lieben das Schaukelpferd, das du für sie gemacht hast, Sophia und …“
 Josef unterbrach: „Maria.
 Zacharias hat mir viel von euch erzählt.
 Wegen euch kommt der weise Simeon immer aus Jerusalem hier herauf, oder nicht?“
 Anna nickte.
-
 Josef setzte sich zu ihr auf die Bank und lächelte sie warm an.
-Anna musste ein wenig lachen, wegen der angenehmen Atmosphäre, die von ihm ausging und zu ihr herüber wehte.
+Anna musste ein wenig lachen, wegen der angenehmen Atmosphäre, die von ihm ausging und zu ihr herüberwehte.
 Er fragte: „Warum hat mich Zach geholt?
 Was kann ich helfen?“
 Anna: „Ich weiß nicht.
@@ -77,7 +76,7 @@ Sophia hat eine Steinigung gesehen, von einer ihrer Freundinnen, und jetzt ist s
 Sie hatte sich in Jungenkleidern unter die Zuschauer gemischt, dann in die erste Reihe gestellt und kurz bevor der erste Stein flog, wollte sie sich vor Lidia werfen.
 Ich habe sie gerade noch abfangen können.“
 Josef legte eine Hand auf sein Herz und schloss die Augen.
-Nach einer langen Weile fragte er Anna: „Hat sie geschrien, so laut sie konnte?“.
+Nach einer langen Weile fragte er Anna: „Hat sie geschrien, so laut sie konnte?“
 „Puhhh, und wie!
 Ich höre den ersten Schrei jetzt noch.
 Und dann hat sie den ganzen Weg nach Hause immer wieder geschrien.“
@@ -94,7 +93,6 @@ Kannst du noch ein paar Tage warten und beobachten, was passiert?“
 „Nein.
 Das will ich nicht.
 Ich habe schon so lange gewartet.“
-
 Josef dachte nach.
 „Ich kann auch kommen und mit ihr reden.“
 „Würdest du das tun?“

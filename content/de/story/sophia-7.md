@@ -35,7 +35,7 @@ Gallum lachte, und in dem Augenblick, in dem Amon gerade sein Bein erreichen kon
 Unten versuchte er sofort, seinen Schuh zu greifen, aber Gallum zog ihn weg, versteckte ihn hinter seinem Rücken und warf ihn einen Augenblick später zu Nahor.
 Der wedelte mit dem Schuh vor Amons Gesicht, als plötzlich alle drei erstarrten und den Hügel hinunterschauten.
 
-„War das ...?“, fragte Nahor, und Amon rief: „JA!
+„War das …?“, fragte Nahor, und Amon rief: „JA!
 Das war ein Wolf.“
 Nahor ließ den Schuh fallen, und alle drei rannten den Hügel hinunter Richtung Herde, und tatsächlich, ein Wolf hatte ein Schaf gepackt, das sich ein wenig von der Herde entfernt hatte.
 Vier andere Wölfe warteten im Halbkreis dahinter, fletschten die Zähne und knurrten drohend, als die drei angerannt kamen.
@@ -103,7 +103,7 @@ Der schaute gleichgültig zurück: „Es ist ziemlich zäh, okay, aber mit einer
 Seit du letzten Herbst in Jerusalem warst, bist du wirklich seltsam mit manchen Sachen.“
 
 Nahor legte Gallum eine Hand auf die Schulter: „Es ist unsere Tradition in Judäa, dass wir nur bestimmtes Fleisch essen.
-Es halten sich nur nicht so viele daran ... nicht mehr.
+Es halten sich nur nicht so viele daran … nicht mehr.
 Früher war das anders.“
 Gallum: „Wir leben heute und nicht früher.
 Was ist eigentlich passiert in Jerusalem, dass du so viel geändert hast in deinem Leben, Amon?“
@@ -131,17 +131,15 @@ Unser Priester sagt zu mir nur, dass ich am Samstag in die Synagoge kommen soll,
 Er weiß alles, glaube ich, ziemlich alles, und er kam auf mich zu, mitten auf der Straße, und wollte mit mir sprechen.“
 Gallum schaute ihn gelangweilt an: „Weil du etwas Besonderes bist, hm?
 Ein Schafhirte aus Bethlehem?
-Hey! ... Bruder, bleib auf dem Boden.“
+Hey! … Bruder, bleib auf dem Boden.“
 Amon schloss die Augen.
-
 Keiner der drei sprach für eine lange Zeit.
 Dann hob Amon den Kopf und öffnete die Augen wieder: „Der Messias kommt!
 Das hat er mir gesagt ––– und dass ihn nur die einfachen Menschen verstehen werden ––– die, die nach ihrem Herzen leben, die, die mit der Erde verbunden sind ––– und er kommt sehr bald, hat er gesagt.“
 „Und das hast du nicht nur einfach geglaubt, das hast du verstanden?
 Wie kannst du so etwas verstehen?“, fragte ihn Nahor neugierig.
-
 Amon nickte.
-„Wir haben alles verloren, hier in Judäa ––– es gibt keine Propheten mehr ––– es ist nicht mehr echt, was unsere Priester sagen, sie wollen uns erziehen und Vorschriften geben, aber sie verstehen die Gesetze und das heilige Buch nicht mehr ––– sie hören die große Stimme unserer Vergangenheit nicht mehr ––– und die Menschen lieben die Gesetze nicht mehr, die uns Moses gegeben hat, sie haben vergessen, was sie bedeuten ––– es gibt keine unbefleckten Geburten mehr ––– und überall sind Menschen besessen von allen möglichen Dämonen, in jedem Dorf hast du Leute ...“
+„Wir haben alles verloren, hier in Judäa ––– es gibt keine Propheten mehr ––– es ist nicht mehr echt, was unsere Priester sagen, sie wollen uns erziehen und Vorschriften geben, aber sie verstehen die Gesetze und das heilige Buch nicht mehr ––– sie hören die große Stimme unserer Vergangenheit nicht mehr ––– und die Menschen lieben die Gesetze nicht mehr, die uns Moses gegeben hat, sie haben vergessen, was sie bedeuten ––– es gibt keine unbefleckten Geburten mehr ––– und überall sind Menschen besessen von allen möglichen Dämonen, in jedem Dorf hast du Leute …“
 Nahor drückte eine Hand sachte auf die Schulter von Amon.
 Dann nahm er beide Hände auf die Brust und schloss seine Augen.
 Nach einer Weile fragte er ohne die Augen zu öffnen: „Unbefleckte Geburten?
@@ -181,7 +179,7 @@ Wir brauchen ihn jetzt, bevor wir alles verloren haben und es nicht wieder zurü
 Nahor und Gallum schwiegen.
 Gallum stocherte mit seinem Stock im Boden und meinte nach einer Weile: „Aber zuerst brauchen wir zwei Hunde.“
 Nahor und Amon schauten sich an und fingen an zu lachen.
-„Ja, du hast Recht, Gallum!
+„Ja, du hast recht, Gallum!
 Zuerst brauchen wir zwei Hunde.“
 Gallum holte ein Stück Wolffleisch aus dem Feuer und bot es Nahor an.
 Der nahm es mit einem Brotfladen und biss hinein.
