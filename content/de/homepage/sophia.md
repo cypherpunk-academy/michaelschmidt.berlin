@@ -5,7 +5,7 @@ description: Die Weihnachtsgeschichte, neu erzählt
 type: featured
 image: images/sophia/chapter13.jpg
 omitImage: false
-weight: 5
+weight: 40
 author: Michael Schmidt
 categories:
     - Die Weihnachtsgeschichte ..... neu erzählt

@@ -11,8 +11,8 @@ Lilithtags:
   - Lidia
   - Tomas
 translation: original
-date: 2025-12-10T03:00:00.000Z
-expirydate: 2026-01-07T03:00:00.000Z
+date: 2026-12-10T03:00:00.000Z
+expirydate: 2027-01-07T03:00:00.000Z
 type: sophia
 image: images/sophia/chapter10.jpg
 weight: 10

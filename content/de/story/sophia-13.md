@@ -17,8 +17,8 @@ tags:
   - Klophas
   - Lilith
 translation: original
-date: 2025-12-13T03:00:00.000Z
-expirydate: 2026-01-07T03:00:00.000Z
+date: 2026-12-13T03:00:00.000Z
+expirydate: 2027-01-07T03:00:00.000Z
 type: sophia
 image: images/sophia/chapter13.jpg
 weight: 13

@@ -5,7 +5,7 @@ type: featured
 description: Die Philosophie von Rudolf Steiner in neuer Form – online und offline
 image: images/dpdf.jpg
 imageLink: https://miro.com/app/live-embed/uXjVPz7C5w0=/?moveToViewport=-569,-835,2733,2076&embedId=794255096956
-weight: 30
+weight: 20
 categories:
     - Rudolf Steiner
 tags:
