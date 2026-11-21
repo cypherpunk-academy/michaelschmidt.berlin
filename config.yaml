@@ -95,6 +95,10 @@ languages:
                 - name: "\U0001F3E0"
                   url: de
                 - parent: "\U0001F3E0"
+                  name: Sophia
+                  url: de/homepage/sophia/
+                  weight: 1
+                - parent: "\U0001F3E0"
                   name: Kriegstagebuch Ortwin Keller
                   url: de/homepage/kriegstagebuch-ortwin-keller/
                   weight: 2
@@ -102,10 +106,6 @@ languages:
                   name: 2064 - Cypherpunks
                   url: de/homepage/2064/
                   weight: 3
-                - parent: "\U0001F3E0"
-                  name: Sophia
-                  url: de/homepage/sophia/
-                  weight: 4
                 - parent: "\U0001F3E0"
                   name: Verschiedenes
                   url: de/homepage/verschiedenes/
