@@ -1,11 +1,12 @@
 import YAML from 'yaml';
-import { format, addYears, subDays, addHours, isAfter } from 'date-fns';
-import { utcToZonedTime } from 'date-fns-tz';
+import { isAfter } from 'date-fns';
+import { zonedTimeToUtc } from 'date-fns-tz';
 
 import fs from 'fs';
 import path from 'path';
 
 const timeZone = 'Europe/Berlin';
+const PUBLISH_HOUR = 6;
 const CHAPTERS_IN_PREVIEW = 0;
 const PREVIEW_DATE = '11-12';
 const IMAGE_PATH = 'images/sophia/chapter';
@@ -38,9 +39,41 @@ const ensureLocalChapters = (): void => {
 };
 
 ensureLocalChapters();
+const berlinYear = (instant: Date): number =>
+    Number(
+        new Intl.DateTimeFormat('en-US', {
+            timeZone,
+            year: 'numeric',
+        }).format(instant)
+    );
+
+const berlinDateTime = (year: number, monthDay: string): Date =>
+    zonedTimeToUtc(
+        `${year}-${monthDay} ${String(PUBLISH_HOUR).padStart(2, '0')}:00:00`,
+        timeZone
+    );
+
+/** One calendar day per episode, 06:00 Europe/Berlin, independent of the machine timezone. */
+export const chapterWindow = (
+    index: number,
+    now: Date
+): { date: Date; expirydate: Date } => {
+    const seasonYear = berlinYear(new Date(now.getTime() - 7 * 24 * 60 * 60 * 1000));
+    const monthDay =
+        index < CHAPTERS_IN_PREVIEW
+            ? PREVIEW_DATE
+            : `12-${String(index + 1).padStart(2, '0')}`;
+
+    return {
+        date: berlinDateTime(seasonYear, monthDay),
+        expirydate: berlinDateTime(seasonYear + 1, '01-07'),
+    };
+};
+
 export const text = fs
     .readdirSync(directoryPath)
     .filter((filename) => path.extname(filename) === '.md')
+    .sort((a, b) => a.localeCompare(b, 'en', { numeric: true }))
     .map((filename) => {
         const filePath = path.join(directoryPath, filename);
         return fs.readFileSync(filePath, 'utf8');
@@ -54,24 +87,10 @@ export default (): void => {
         const [yamlText, content] = chapter.split('\n---\n');
 
         const yaml = YAML.parse(yamlText);
-        const year = format(subDays(new Date(), 7), 'yyyy');
+        const schedule = chapterWindow(i, new Date());
 
-        yaml.date = addHours(
-            utcToZonedTime(
-                `${year}-${
-                    i < CHAPTERS_IN_PREVIEW
-                        ? PREVIEW_DATE
-                        : `12-${`0${i + 1}`.slice(-2)}`
-                }`,
-                timeZone
-            ),
-            4
-        );
-
-        yaml.expirydate = addHours(
-            addYears(utcToZonedTime(`${year}-01-07`, timeZone), 1),
-            4
-        );
+        yaml.date = schedule.date;
+        yaml.expirydate = schedule.expirydate;
 
         yaml.type = 'sophia';
         yaml.image = `${IMAGE_PATH}${i + 1}.jpg`;

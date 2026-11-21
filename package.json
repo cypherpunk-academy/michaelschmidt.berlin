@@ -6,7 +6,8 @@
     "scripts": {
         "dev": "yarn start && hugo server",
         "build": "yarn start && hugo --cleanDestinationDir --minify",
-        "start": "ts-node update.ts"
+        "start": "ts-node update.ts",
+        "test": "ts-node scripts/michael-sophia-schedule.test.ts"
     },
     "repository": {
         "type": "git",

@@ -21,8 +21,8 @@ tags:
   - Simeon
   - Elisabeth
 translation: original
-date: 2026-12-15T03:00:00.000Z
-expirydate: 2027-01-07T03:00:00.000Z
+date: 2026-12-15T05:00:00.000Z
+expirydate: 2027-01-07T05:00:00.000Z
 type: sophia
 image: images/sophia/chapter15.jpg
 weight: 15
